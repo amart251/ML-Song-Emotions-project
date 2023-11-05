@@ -1,0 +1,17 @@
+inputs we can use
+
+1.	Track Metadata:
+    - Track Name: Sometimes the name of a track can give hints about its emotional content.
+    - Artist Name: Knowing the artist can provide context, as some artists are known for certain emotional themes.
+    - Album Name: Album names can sometimes reflect the overall mood of the songs within.
+2.	Audio Features Metadata:
+    - Danceability: A measure of how suitable a track is for dancing based on tempo, rhythm stability, beat strength, and overall regularity.
+    - Energy: A perceptual measure of intensity and activity, which can be related to the emotional intensity of a song.
+    - Tempo: The overall estimated tempo of a track in beats per minute (BPM).
+    - Loudness: The overall loudness of a track in decibels (dB).
+    - Key: The key the track is in, which can sometimes correlate with certain emotions.
+    - Instrumental-ness: Predicts whether a track contains no vocals, which might influence the emotional perception.
+    - Duration: The length of the track might have a minor influence on the perceived emotion.
+3.	Contextual Metadata:
+    - Genre: The genre(s) associated with the track, which can suggest common emotional themes.
+
