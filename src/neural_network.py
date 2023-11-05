@@ -36,7 +36,7 @@ def fetch_and_prepare_data(playlist_id):
         audio_features = get_track_features(token, track['id'])
         track_data['danceability'] = audio_features['danceability']
         track_data['energy'] = audio_features['energy']
-        # ... add all other audio features
+        # add all other audio features
         
         # Fetch artist genres
         artist_genres = get_artist_genres(token, track['artists'][0]['id'])
@@ -45,8 +45,8 @@ def fetch_and_prepare_data(playlist_id):
         # Add the track data to the features list
         features.append(track_data)
         
-        # For the labels, you would need to define how you're obtaining them
-        # For example, if you have a mood label for each track, you'd append it here
+        # For the labels, we would need to define how we obtaining them
+        # if we have a mood label for each track, append it here
         # labels.append(mood_label)
 
     # Convert features and labels to a suitable format for the neural network
