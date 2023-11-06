@@ -59,7 +59,7 @@ def print_track_info(token, tracks):
         print(f"Duration: {track['duration_ms']} ms")
         
        
-        print("Track features:")
+        print("\nTrack features:")
         track_features = get_track_features(token, track['id'])
         artist_genres = get_artist_genres(token, track['artists'][0]['id'])
         print(f"Genres: {', '.join(artist_genres)}")
@@ -69,7 +69,7 @@ def print_track_info(token, tracks):
         print(f"danceability: {track_features['danceability']}")
         print(f"key: {track_features['key']}")
         print(f"instrumentalness: {track_features['instrumentalness']}")
-        print("------------------------")
+        print("\n------------------------")
  
 token = get_token()
 tracks = get_playlist_tracks(token, "3xZlWIpwy8wiIGe7kRDy8s")
