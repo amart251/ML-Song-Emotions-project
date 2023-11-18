@@ -7,3 +7,5 @@ Feature and Target Definition: Define the features (X) and targets (y) for the n
 Dataset Splitting: Split the dataset into training and test sets.
 Model Training: Train the neural network model on the training set.
 Model Evaluation: Evaluate the model on the test set to determine its performance.
+
+import https to help with proxying to avoid getting blocked
