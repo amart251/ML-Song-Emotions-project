@@ -111,13 +111,13 @@ def write_to_csv(track_info, filename='filtered_outputs.csv'):
         writer.writerow(track_info)
 
 # Fetch and print track information
-token = get_token()
-tracks = get_playlist_tracks(token, "3xZlWIpwy8wiIGe7kRDy8s")
-print_track_info(token, tracks)
+# token = get_token()
+# tracks = get_playlist_tracks(token, "3xZlWIpwy8wiIGe7kRDy8s")
+# print_track_info(token, tracks)
 
 # Format track data and write it to the CSV file
 formatted_data = format_track_data_for_csv(token, tracks)
-formatted_data.sort(key=lambda x: x['track_name'])  # Sort by track_name alphabetically
+#formatted_data.sort(key=lambda x: x['track_name'])  # Sort by track_name alphabetically
 
 for track_info in formatted_data:
     write_to_csv(track_info)
