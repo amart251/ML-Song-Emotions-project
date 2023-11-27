@@ -74,7 +74,7 @@ def print_track_info(token, tracks):
  
 token = get_token()
 tracks = get_playlist_tracks(token, "3xZlWIpwy8wiIGe7kRDy8s")
-print_track_info(token, tracks)
+#print_track_info(token, tracks)
 
 def format_track_data_for_csv(token, tracks):
     formatted_data = []
@@ -98,26 +98,26 @@ def format_track_data_for_csv(token, tracks):
         })
     return formatted_data
 
-def write_to_csv(track_info, filename='filtered_outputs.csv'):
+def write_to_csv(formatted_data, filename='filtered_outputs.csv'):
     fieldnames = [
         "track_name", "artist", "album", "duration_ms", "genres",
         "tempo", "loudness", "energy", "danceability", "key", "instrumentalness"
     ]
 
-    with open(filename, 'a', newline='', encoding='utf-8') as csvfile:
+    with open(filename, 'w', newline='', encoding='utf-8') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         if csvfile.tell() == 0:
             writer.writeheader()
-        writer.writerow(track_info)
+        for track_info in formatted_data:
+            writer.writerow(track_info)
 
 # Fetch and print track information
 token = get_token()
 tracks = get_playlist_tracks(token, "3xZlWIpwy8wiIGe7kRDy8s")
-print_track_info(token, tracks)
+#print_track_info(token, tracks)
 
 # Format track data and write it to the CSV file
 formatted_data = format_track_data_for_csv(token, tracks)
 formatted_data.sort(key=lambda x: x['track_name'])  # Sort by track_name alphabetically
 
-for track_info in formatted_data:
-    write_to_csv(track_info)
+write_to_csv(formatted_data)
