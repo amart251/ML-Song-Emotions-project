@@ -114,7 +114,7 @@ def write_to_csv(formatted_data, filename='filtered_outputs.csv'):
 # Fetch and print track information
 token = get_token()
 tracks = get_playlist_tracks(token, "3xZlWIpwy8wiIGe7kRDy8s")
-print_track_info(token, tracks)
+#print_track_info(token, tracks)
 
 # Format track data and write it to the CSV file
 formatted_data = format_track_data_for_csv(token, tracks)

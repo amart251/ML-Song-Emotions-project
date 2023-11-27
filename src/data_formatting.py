@@ -12,7 +12,9 @@ data.dropna(inplace=True)
 data.reset_index(drop=True, inplace=True)
 
 # Feature selection
-selected_features = data[['tempo', 'loudness', 'energy', 'danceability', 'valence', 'key', 'mode']]
+selected_features = data[['tempo', 'loudness', 'energy', 'danceability', 'key']]
+numerical_features = data[['tempo', 'loudness', 'energy', 'danceability', 'key','instrumentalness']]
+categorical_features = data[['genres']]
 
 # Normalize numerical features
 scaler = MinMaxScaler()
@@ -22,7 +24,7 @@ normalized_features = pd.DataFrame(scaler.fit_transform(numerical_features), col
 combined_features = pd.concat([normalized_features, categorical_features], axis=1)
 
 # Encoding categorical features if necessary
-encoded_data = pd.get_dummies(normalized_features, columns=['key', 'mode'])
+encoded_data = pd.get_dummies(normalized_features)
 
 # Encoding labels
 print(data.columns)
