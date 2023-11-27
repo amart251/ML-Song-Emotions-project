@@ -51,27 +51,27 @@ def get_artist_genres(token, artist_id):
     response = get(url, headers=headers)
     return response.json()["genres"]
  
-def print_track_info(token, tracks):
-    for item in tracks['items']:
-        track = item['track']
-        print(f"Track Name: {track['name']}")
-        print(f"Artist: {track['artists'][0]['name']}")
-        print(f"Album: {track['album']['name']}")
-        print(f"Duration: {track['duration_ms']} ms")
-        
-       
-        print("\nTrack features:")
-        track_features = get_track_features(token, track['id'])
-        artist_genres = get_artist_genres(token, track['artists'][0]['id'])
-        print(f"Genres: {', '.join(artist_genres)}")
-        print(f"BPM/Tempo: {track_features['tempo']}")
-        print(f"Loudness: {track_features['loudness']}")
-        print(f"Energy: {track_features['energy']}")
-        print(f"danceability: {track_features['danceability']}")
-        print(f"key: {track_features['key']}")
-        print(f"instrumentalness: {track_features['instrumentalness']}")
-        print("\n------------------------")
- 
+#def print_track_info(token, tracks):
+#    for item in tracks['items']:
+#        track = item['track']
+#        print(f"Track Name: {track['name']}")
+#        print(f"Artist: {track['artists'][0]['name']}")
+#        print(f"Album: {track['album']['name']}")
+#        print(f"Duration: {track['duration_ms']} ms")
+#        
+#       
+#        print("\nTrack features:")
+#        track_features = get_track_features(token, track['id'])
+#        artist_genres = get_artist_genres(token, track['artists'][0]['id'])
+#        print(f"Genres: {', '.join(artist_genres)}")
+#        print(f"BPM/Tempo: {track_features['tempo']}")
+#        print(f"Loudness: {track_features['loudness']}")
+#        print(f"Energy: {track_features['energy']}")
+#        print(f"danceability: {track_features['danceability']}")
+#        print(f"key: {track_features['key']}")
+#        print(f"instrumentalness: {track_features['instrumentalness']}")
+#        print("\n------------------------")
+
 token = get_token()
 tracks = get_playlist_tracks(token, "3xZlWIpwy8wiIGe7kRDy8s")
 #print_track_info(token, tracks)
@@ -114,10 +114,10 @@ def write_to_csv(formatted_data, filename='filtered_outputs.csv'):
 # Fetch and print track information
 token = get_token()
 tracks = get_playlist_tracks(token, "3xZlWIpwy8wiIGe7kRDy8s")
-#print_track_info(token, tracks)
+print_track_info(token, tracks)
 
 # Format track data and write it to the CSV file
 formatted_data = format_track_data_for_csv(token, tracks)
-formatted_data.sort(key=lambda x: x['track_name'])  # Sort by track_name alphabetically
+formatted_data.sort(key=lambda x: x['track_name'].lower())  # Sort by track_name alphabetically, not case sensitive
 
 write_to_csv(formatted_data)

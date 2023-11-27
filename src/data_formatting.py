@@ -1,5 +1,6 @@
 import pandas as pd
 from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import MinMaxScaler
 
 # Load data collected from Spotify
 data = pd.read_csv('filtered_outputs.csv')
@@ -11,18 +12,17 @@ data.dropna(inplace=True)
 data.reset_index(drop=True, inplace=True)
 
 # Feature selection
+selected_features = data[['tempo', 'loudness', 'energy', 'danceability', 'valence', 'key', 'mode']]
 
-#Joshua Salas: Probably remove valence, keep mood as our result?
-selected_features = data[['tempo', 'loudness', 'energy', 'danceability','key']]
-
-from sklearn.preprocessing import MinMaxScaler
-
-# Normalize features
+# Normalize numerical features
 scaler = MinMaxScaler()
-normalized_features = pd.DataFrame(scaler.fit_transform(selected_features), columns=selected_features.columns)
+normalized_features = pd.DataFrame(scaler.fit_transform(numerical_features), columns=numerical_features.columns)
+
+# Combine normalized numerical features and categorical features
+combined_features = pd.concat([normalized_features, categorical_features], axis=1)
 
 # Encoding categorical features if necessary
-encoded_data = pd.get_dummies(normalized_features, columns=['tempo', 'loudness', 'energy', 'danceability','key'])
+encoded_data = pd.get_dummies(normalized_features, columns=['key', 'mode'])
 
 # Encoding labels
 print(data.columns)
