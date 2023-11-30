@@ -1,0 +1,20 @@
+,track_name,artist,duration_ms,genres,tempo,loudness,energy,danceability,key,instrumentalness,valence
+0,Alright,Kendrick Lamar,219333,"conscious hip hop, hip hop, rap, west coast rap",110.034,-5.974,0.766,0.796,7,0.0,0.558
+1,Congratulations,Post Malone,220293,"dfw rap, melodic rap, pop, rap",123.146,-4.183,0.804,0.63,6,0.0,0.492
+2,Wagon Wheel,Darius Rucker,298373,"black americana, contemporary country, country, country road, modern country rock",148.096,-7.174,0.66,0.537,9,0.0,0.574
+3,Scar Tissue,Red Hot Chili Peppers,215906,"alternative rock, funk metal, funk rock, permanent wave, rock",88.969,-4.803,0.717,0.595,0,0.00274,0.547
+4,Amen,Logic,146771,"conscious hip hop, hip hop, pop rap, rap",170.339,-5.748,0.789,0.604,2,0.0,0.651
+5,fuck money stay pretty,Black Kray,186826,"cloud rap, plugg, pluggnb",105.5,-13.599,0.669,0.191,8,0.753,0.421
+6,Los Chismes,Chalino Sanchez,179211,"banda, corrido, corridos clasicos, musica mexicana, norteno, sierreno",121.18,-8.036,0.737,0.779,8,0.000279,0.943
+7,A RING,TOWA TEI,188133,"japanese jazztronica, shibuya-kei",151.936,-7.719,0.806,0.766,7,0.243,0.943
+8,The Missing Boy,The Durutti Column,395160,uk post-punk,162.429,-10.501,0.815,0.556,11,0.848,0.811
+9,Saigo-no Tejina,Hiroshi Sato,225226,classic city pop,144.907,-9.572,0.558,0.62,5,0.00447,0.731
+10,M-16,Sodom,289133,"black thrash, death metal, deathrash, german metal, german thrash metal, metal, old school thrash, speed metal, thrash metal",140.902,-6.429,0.947,0.307,2,0.931,0.276
+11,Polish Girl,Neon Indian,264000,"chillwave, denton tx indie, hypnagogic pop, indietronica, neo-synthpop",111.984,-4.255,0.873,0.622,9,1.25e-05,0.434
+12,The Cuddler,Dance Gavin Dance,153400,"pixie, sacramento indie, screamo, swancore",140.981,-2.479,0.977,0.487,4,0.0,0.548
+13,Homecoming,Kanye West,203493,"chicago rap, hip hop, rap",86.917,-7.059,0.747,0.667,1,0.0,0.918
+14,Religiously,Bailey Zimmerman,178723,"contemporary country, modern country pop",140.924,-6.519,0.67,0.57,1,0.0,0.593
+15,What A Wonderful World,Louis Armstrong,139226,"adult standards, dixieland, harlem renaissance, jazz trumpet, new orleans jazz, soul, swing, vocal jazz",77.082,-20.652,0.165,0.271,5,1.6e-06,0.203
+16,Missing Sibling,Black Marble,103184,"chillwave, experimental pop, grave wave, nu gaze",142.055,-13.408,0.389,0.373,2,0.908,0.271
+17,Blizzard Beasts,Immortal,169786,"black metal, metal, norwegian black metal, norwegian metal, pagan black metal, thrash metal",174.109,-7.904,0.972,0.13,1,0.9,0.0716
+18,OH! TENGO SUERTE,Masayoshi Takanaka,252666,classic japanese jazz,93.555,-9.487,0.744,0.519,2,0.0526,0.408

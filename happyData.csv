@@ -1,0 +1,51 @@
+,track_name,artist,duration_ms,genres,tempo,loudness,energy,danceability,key,instrumentalness,valence
+0,Best Day Of My Life,American Authors,194240,"modern rock, pop rock",100.012,-2.392,0.902,0.673,2,0.000262,0.538
+1,Watermelon Sugar,Harry Styles,174000,pop,95.39,-4.209,0.816,0.548,0,0.0,0.557
+2,Everybody Talks,Neon Trees,177280,"modern rock, neo mellow, pop rock, pov: indie",154.961,-3.906,0.924,0.471,8,0.0,0.725
+3,Feel So Close - Radio Edit,Calvin Harris,206413,"dance pop, edm, electro house, house, pop, pop dance, progressive house, uk dance",127.937,-2.842,0.924,0.707,7,0.00703,0.919
+4,Levitating (feat. DaBaby),Dua Lipa,203064,"dance pop, pop, uk pop",102.977,-3.787,0.825,0.702,6,0.0,0.915
+5,Cruel Summer,Taylor Swift,178426,pop,169.994,-5.707,0.702,0.552,9,2.06e-05,0.564
+6,Here Comes The Sun - Remastered 2009,The Beatles,185733,"british invasion, classic rock, merseybeat, psychedelic rock, rock",129.171,-10.484,0.54,0.557,9,0.00248,0.394
+7,Riptide,Vance Joy,204280,"folk-pop, modern rock",101.654,-6.694,0.731,0.484,1,0.0,0.51
+8,Babydoll,Dominic Fike,97960,"alternative pop rock, pov: indie",168.007,-5.296,0.604,0.762,7,0.0,0.847
+9,Electric Love,BØRNS,218106,"indie poptimism, modern alternative rock, modern rock, pov: indie",120.041,-7.627,0.797,0.611,6,0.00137,0.518
+10,Brown Eyed Girl,Van Morrison,183306,"classic rock, folk, folk rock, heartland rock, mellow gold, rock, singer-songwriter, soft rock",150.566,-10.964,0.583,0.491,7,0.0,0.908
+11,AOK,Tai Verdes,173640,"modern indie pop, singer-songwriter pop",82.488,-6.919,0.626,0.731,11,0.0,0.862
+12,Sugar (feat. Francesco Yates),Robin Schulz,219043,"deep euro house, deep house, edm, german dance, pop dance, tropical house",123.063,-5.098,0.815,0.636,5,0.0,0.636
+13,Sucker,Jonas Brothers,181026,"boy band, pop",137.958,-5.065,0.734,0.842,1,0.0,0.952
+14,One Kiss (with Dua Lipa),Calvin Harris,214846,"dance pop, edm, electro house, house, pop, pop dance, progressive house, uk dance",123.994,-3.24,0.862,0.791,9,2.19e-05,0.592
+15,Are You Bored Yet? (feat. Clairo),Wallows,178000,pov: indie,120.023,-6.444,0.683,0.682,8,2.32e-05,0.64
+16,Three Little Birds,Bob Marley & The Wailers,180266,"reggae, roots reggae",74.126,-10.477,0.49,0.826,9,4.41e-06,0.627
+17,Iko Iko (My Bestie),Justin Wellington,182857,"melanesian pop, pacific islands pop, png pop",105.039,-5.356,0.753,0.862,5,2.01e-06,0.827
+18,Rude,MAGIC!,224840,"pop, reggae fusion",144.033,-4.993,0.758,0.773,1,0.0,0.925
+19,Kiss Me More (feat. SZA),Doja Cat,208666,"dance pop, pop",110.97,-3.463,0.705,0.764,8,8.92e-05,0.781
+20,Dance The Night - From Barbie The Album,Dua Lipa,176579,"dance pop, pop, uk pop",110.056,-4.93,0.845,0.671,11,0.0,0.775
+21,Walking On Sunshine,Katrina & The Waves,238733,new wave pop,109.902,-11.97,0.869,0.596,10,0.173,0.944
+22,Lush Life,Zara Larsson,201122,"pop, scandipop, swedish electropop, swedish pop",98.023,-3.923,0.712,0.694,7,0.0,0.799
+23,Golden,Harry Styles,208906,pop,139.863,-5.257,0.838,0.448,4,0.000131,0.254
+24,Weekends,Jonas Blue,127003,"pop, pop dance, tropical house, uk dance",148.979,-3.365,0.937,0.571,6,3.71e-05,0.607
+25,The Spins,Mac Miller,195873,"hip hop, pittsburgh rap, pop rap, rap",127.006,-3.894,0.766,0.794,9,0.0,0.55
+26,Green Green Grass,George Ezra,167613,"folk-pop, neo-singer-songwriter, talent show",112.972,-4.413,0.738,0.685,8,0.0,0.8
+27,Sunday Best,Surfaces,158947,bedroom soul,112.003,-5.984,0.555,0.869,5,0.0,0.738
+28,Run,OneRepublic,168259,"piano rock, pop",116.988,-8.176,0.72,0.682,11,0.0,0.649
+29,Hard Times,Paramore,182693,"candy pop, modern rock, pixie, pop, pop emo, pop punk, rock",119.965,-5.379,0.818,0.695,5,4.87e-06,0.916
+30,What You Know,Two Door Cinema Club,191706,"indie rock, indietronica, irish rock, modern alternative rock, modern rock, northern irish indie",139.0,-4.239,0.739,0.563,6,1.45e-05,0.775
+31,Acapulco,Jason Derulo,139672,"dance pop, pop",122.062,-4.021,0.792,0.774,10,0.0,0.507
+32,Levitating,Dua Lipa,203807,"dance pop, pop, uk pop",103.014,-2.278,0.884,0.695,6,0.0,0.914
+33,Numb,Marshmello,155588,"brostep, edm, pop, progressive electro house",119.966,-4.673,0.774,0.912,0,0.0127,0.632
+34,Words (feat. Zara Larsson),Alesso,142677,"dance pop, edm, pop, pop dance, progressive electro house",124.026,-5.079,0.586,0.739,10,0.000252,0.444
+35,Lovers Rock,TV Girl,213920,pov: indie,104.97,-5.338,0.871,0.559,5,0.00545,0.572
+36,"Sunflower, Vol. 6",Harry Styles,221826,pop,160.02,-6.904,0.846,0.566,7,0.000795,0.86
+37,Funny Thing,Thundercat,116630,"afrofuturism, escape room, indie soul",140.023,-8.772,0.893,0.586,7,0.642,0.65
+38,Budapest,George Ezra,200733,"folk-pop, neo-singer-songwriter, talent show",127.812,-8.303,0.455,0.717,5,0.0,0.389
+39,More Than You Know,Axwell /\ Ingrosso,203000,"edm, pop dance",123.077,-4.973,0.741,0.646,5,0.0,0.571
+40,Can I Call You Tonight?,Dayglow,278769,"austindie, indie rock, pov: indie",129.978,-7.27,0.842,0.641,9,0.911,0.499
+41,BEST INTEREST,"Tyler, The Creator",127921,"hip hop, rap",98.265,-8.325,0.575,0.596,11,0.000153,0.34
+42,Don't Call Me Up,Mabel,178480,"pop, uk pop",98.994,-2.853,0.881,0.674,9,3.01e-06,0.234
+43,Anything You Want,JAWNY,123556,"bedroom pop, pov: indie",112.025,-4.75,0.78,0.798,6,0.0,0.929
+44,"These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",Rudimental,211760,"pop dance, uk dance, uk funky",92.207,-4.084,0.798,0.654,0,0.0,0.574
+45,Sundress,A$AP Rocky,158205,"east coast hip hop, hip hop, rap, trap",125.005,-6.364,0.707,0.721,6,3.68e-06,0.743
+46,In the Summertime,Mungo Jerry,211880,"british blues, classic uk pop",82.751,-14.013,0.449,0.754,4,0.0,0.973
+47,Island In The Sun,Weezer,200306,"alternative rock, modern power pop, modern rock, permanent wave, rock",114.623,-6.26,0.81,0.654,4,0.00251,0.661
+48,Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers],Daft Punk,248413,"electro, filter house, rock",116.047,-8.966,0.811,0.794,6,1.07e-06,0.862
+49,Saturday Sun,Vance Joy,214720,"folk-pop, modern rock",99.995,-4.381,0.864,0.637,8,0.0,0.706

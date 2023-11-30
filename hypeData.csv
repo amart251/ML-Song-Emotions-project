@@ -1,0 +1,51 @@
+,track_name,artist,duration_ms,genres,tempo,loudness,energy,danceability,key,instrumentalness,valence
+0,HUMBLE.,Kendrick Lamar,177000,"conscious hip hop, hip hop, rap, west coast rap",150.011,-6.638,0.621,0.908,1,5.39e-05,0.421
+1,Runnin,21 Savage,195906,"atl hip hop, hip hop, rap",143.01,-4.574,0.626,0.819,10,0.101,0.415
+2,Dreams and Nightmares,Meek Mill,230693,"hip hop, philly rap, pop rap, rap, southern hip hop, trap",79.745,-2.459,0.774,0.631,11,0.0,0.44
+3,Till I Collapse,Eminem,297786,"detroit hip hop, hip hop, rap",171.447,-3.237,0.847,0.548,1,0.0,0.1
+4,Can't Be Touched (feat. Mr. Magic & Trouble),Roy Jones Jr.,214400,,96.986,-4.809,0.777,0.642,4,0.0,0.413
+5,Dior,Pop Smoke,216386,"brooklyn drill, rap",142.094,-5.732,0.805,0.548,7,0.000389,0.648
+6,All Of The Lights,Kanye West,299613,"chicago rap, hip hop, rap",142.113,-3.284,0.803,0.531,1,1.71e-05,0.221
+7,RIP Roach,XXXTENTACION,169978,"emo rap, miami hip hop",105.003,-6.443,0.62,0.727,8,0.0,0.555
+8,Superhero (Heroes & Villains) [with Future & Chris Brown],Metro Boomin,182666,rap,116.622,-5.3,0.606,0.526,5,2.36e-06,0.492
+9,Lovin On Me,Jack Harlow,138411,"deep underground hip hop, kentucky hip hop, pop rap, rap",104.983,-4.911,0.558,0.943,2,2.19e-06,0.606
+10,fukumean,Gunna,125040,"atl hip hop, melodic rap, rap, trap",130.001,-6.747,0.622,0.847,1,0.0,0.22
+11,Stir Fry,Migos,190288,"atl hip hop, hip hop, pop rap, rap, trap",181.982,-5.402,0.816,0.817,2,0.0,0.508
+12,Ballin,Logic,166080,"conscious hip hop, hip hop, pop rap, rap",150.621,-6.414,0.854,0.737,3,0.0,0.65
+13,Going Bad (feat. Drake),Meek Mill,180522,"hip hop, philly rap, pop rap, rap, southern hip hop, trap",86.003,-6.365,0.496,0.889,4,0.0,0.544
+14,Cinderella Man,Eminem,279013,"detroit hip hop, hip hop, rap",85.918,-3.411,0.908,0.679,8,0.0,0.687
+15,MELTDOWN (feat. Drake),Travis Scott,246133,"hip hop, rap, slap house",111.975,-5.275,0.774,0.557,7,0.0,0.397
+16,Pure Cocaine,Lil Baby,154023,"atl hip hop, atl trap, rap, trap",127.05,-6.071,0.487,0.964,10,6.57e-06,0.107
+17,Black Skinhead,Kanye West,188013,"chicago rap, hip hop, rap",130.127,-6.123,0.809,0.766,1,0.0,0.325
+18,Ric Flair Drip (with Metro Boomin),Offset,172800,"atl hip hop, hip hop, pop rap, rap, trap",100.007,-8.28,0.428,0.88,9,5.05e-05,0.333
+19,"King's Dead (with Kendrick Lamar, Future & James Blake)",Jay Rock,229670,"conscious hip hop, hip hop, rap, southern hip hop, trap",137.133,-5.008,0.705,0.645,1,0.0,0.376
+20,YuNg BrAtZ,XXXTENTACION,101851,"emo rap, miami hip hop",128.063,-5.963,0.695,0.755,9,0.0,0.493
+21,Legends Are Made,Sam Tinnesz,169758,"alt z, bossbeat, rebel blues",87.871,-4.879,0.89,0.553,0,0.0,0.674
+22,Get Into It (Yuh),Doja Cat,138293,"dance pop, pop",91.942,-6.029,0.655,0.912,8,3.39e-05,0.793
+23,Flex Up (feat. Future & Playboi Carti),Lil Yachty,170858,"atl hip hop, melodic rap, rap, trap",160.082,-5.366,0.667,0.829,9,0.000521,0.545
+24,Bodak Yellow,Cardi B,223712,"pop, rap",125.022,-6.337,0.703,0.926,11,0.0,0.485
+25,LOVELY BASTARDS,ZWE1HVNDXR,116104,,150.251,-6.16,0.81,0.613,1,0.899,0.686
+26,Can't Hold Us (feat. Ray Dalton),Macklemore & Ryan Lewis,258431,"pop rap, seattle hip hop",146.097,-4.468,0.927,0.633,2,0.0,0.88
+27,Yes Indeed,Lil Baby,142273,"atl hip hop, atl trap, rap, trap",119.957,-9.309,0.346,0.963,5,0.0,0.562
+28,Stronger,Kanye West,311866,"chicago rap, hip hop, rap",103.992,-7.858,0.717,0.617,10,0.0,0.49
+29,Ball If I Want To,DaBaby,112546,"hip hop, north carolina hip hop, pop rap, rap, trap",139.949,-5.049,0.669,0.902,1,0.0,0.628
+30,Speed Drive (From Barbie The Album),Charli XCX,117809,"art pop, candy pop, metropopolis, pop, uk pop",173.925,-6.405,0.879,0.652,0,0.0896,0.789
+31,Got It On Me,Pop Smoke,164579,"brooklyn drill, rap",88.834,-7.258,0.647,0.688,2,1.65e-05,0.195
+32,Bring Em Out,T.I.,216706,"atl hip hop, dirty south rap, gangster rap, hip hop, pop rap, rap, southern hip hop, trap",98.579,-2.983,0.891,0.759,11,0.0,0.587
+33,Without Me,Eminem,290320,"detroit hip hop, hip hop, rap",112.238,-2.827,0.669,0.908,7,0.0,0.662
+34,My wrist (with Young Thug),Yeat,190133,"pluggnb, rage rap",137.019,-7.159,0.616,0.784,0,0.00592,0.291
+35,"Arise (From Marvel's ""Cloak & Dagger"")",The Seige,130500,"bossbeat, cali rap",139.934,-3.545,0.852,0.627,8,0.0,0.412
+36,Hot N*gga,Bobby Shmurda,194561,"nyc rap, rap, trap",167.879,-7.314,0.51,0.794,9,1.81e-06,0.18
+37,Legend,The Score,189120,"modern alternative rock, pov: indie",82.001,-3.341,0.757,0.601,2,8.85e-05,0.462
+38,Tia Tamera (feat. Rico Nasty),Doja Cat,211013,"dance pop, pop",119.884,-4.623,0.654,0.822,0,0.0,0.421
+39,Champions,Kanye West,334253,"chicago rap, hip hop, rap",134.952,-2.48,0.774,0.692,6,0.0,0.349
+40,"Welcome to the Party (with French Montana & Lil Pump, feat. Zhavia Ward) - from Deadpool 2",Diplo,181720,"dance pop, edm, electro house, moombahton, pop dance",171.921,0.175,0.845,0.618,2,0.0,0.486
+41,Man Of The Year,ScHoolboy Q,216013,"gangster rap, hip hop, pop rap, rap, southern hip hop, trap",111.914,-5.228,0.865,0.749,3,0.0,0.371
+42,WHATS POPPIN,Jack Harlow,139741,"deep underground hip hop, kentucky hip hop, pop rap, rap",145.062,-6.671,0.604,0.923,11,0.0,0.826
+43,Nice For What,Drake,210746,"canadian hip hop, canadian pop, hip hop, pop rap, rap",93.372,-6.474,0.909,0.585,8,9.7e-05,0.758
+44,MotorSport,Migos,303076,"atl hip hop, hip hop, pop rap, rap, trap",137.996,-5.32,0.518,0.904,2,0.0,0.188
+45,SOLVED THE PROBLEM,Comethazine,117073,"trap, underground hip hop",98.43,-10.394,0.698,0.934,10,1.44e-05,0.691
+46,Backseat Freestyle,Kendrick Lamar,212653,"conscious hip hop, hip hop, rap, west coast rap",77.878,-7.601,0.651,0.546,1,0.0,0.646
+47,Higher,Eminem,222036,"detroit hip hop, hip hop, rap",148.0,-4.758,0.82,0.733,4,0.0,0.525
+48,"Down Bad (feat. JID, Bas, J. Cole, EARTHGANG & Young Nudy)",Dreamville,169146,"hip hop, pop rap, rap",149.804,-5.368,0.586,0.761,0,0.0,0.719
+49,Centuries,Fall Out Boy,228360,"emo, modern rock, pop, rock",176.042,-2.868,0.858,0.393,4,0.0,0.56

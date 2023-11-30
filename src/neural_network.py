@@ -11,6 +11,7 @@ from spotify_integration import (get_artist_genres, get_playlist_tracks,
                                  get_token, get_track_features)
 
 
+
 ## just keep in mind this is a template or starter code, needs more refinement
 def fetch_and_prepare_data(playlist_id):
     # Authenticate with Spotify

@@ -2,14 +2,35 @@ import base64
 import csv
 import json
 import os
+import spotipy
+import re
+import pandas as pd
 
 from dotenv import load_dotenv
+from spotipy import SpotifyClientCredentials
 from requests import get, post
 
 load_dotenv()
 
 client_id = os.getenv("Client_ID")
 client_secret = os.getenv("Client_secret")
+
+
+
+# authenticate
+client_credentials_manager = SpotifyClientCredentials(client_id, client_secret)
+
+# create spotify session object
+# I DON'T KNOW WHAT THIS DOES!!!!!!!!!
+session = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
+
+
+def get_uri(playlist):
+    if match := re.match(r"https://open.spotify.com/playlist/(.*)\?", playlist):
+            playlist_uri = match.groups()[0]
+    else:
+        raise ValueError("Expected format: https://open.spotify.com/playlist/...")
+    return playlist_uri
 
 def get_token():
     auth_string = client_id + ":" + client_secret
@@ -26,7 +47,7 @@ def get_token():
     json_result = json.loads(result.content)
     token = json_result["access_token"]
     return token
- 
+
 def get_playlist_tracks(token, playlist_id):
     headers = {
         "Authorization": "Bearer " + token
@@ -34,7 +55,7 @@ def get_playlist_tracks(token, playlist_id):
     url = f"https://api.spotify.com/v1/playlists/{playlist_id}/tracks"
     response = get(url, headers=headers)
     return response.json()
- 
+
 def get_track_features(token, track_id):
     headers = {
         "Authorization": "Bearer " + token
@@ -42,7 +63,7 @@ def get_track_features(token, track_id):
     url = f"https://api.spotify.com/v1/audio-features/{track_id}"
     response = get(url, headers=headers)
     return response.json()
- 
+
 def get_artist_genres(token, artist_id):
     headers = {
         "Authorization": "Bearer " + token
@@ -50,7 +71,7 @@ def get_artist_genres(token, artist_id):
     url = f"https://api.spotify.com/v1/artists/{artist_id}"
     response = get(url, headers=headers)
     return response.json()["genres"]
- 
+
 #def print_track_info(token, tracks):
 #    for item in tracks['items']:
 #        track = item['track']
@@ -72,36 +93,50 @@ def get_artist_genres(token, artist_id):
 #        print(f"instrumentalness: {track_features['instrumentalness']}")
 #        print("\n------------------------")
 
-token = get_token()
-tracks = get_playlist_tracks(token, "3xZlWIpwy8wiIGe7kRDy8s")
+
 #print_track_info(token, tracks)
+def get_track_info(item, token):
+    track = item['track']
+    track_features = get_track_features(token, track['id'])
+    artist_genres = get_artist_genres(token, track['artists'][0]['id'])
+
+    track_info = [
+        track['name'],
+        track['artists'][0]['name'],
+        #"album": track['album']['name'],
+        track['duration_ms'],
+        ', '.join(artist_genres),
+        track_features['tempo'],
+        track_features['loudness'],
+        track_features['energy'],
+        track_features['danceability'],
+        track_features['key'],
+        track_features['instrumentalness'],
+        track_features['valence']   
+    ]
+    return track_info
 
 def format_track_data_for_csv(token, tracks):
-    formatted_data = []
-    for item in tracks['items']:
-        track = item['track']
-        track_features = get_track_features(token, track['id'])
-        artist_genres = get_artist_genres(token, track['artists'][0]['id'])
-
-        formatted_data.append({
-            "track_name": track['name'],
-            "artist": track['artists'][0]['name'],
-            "album": track['album']['name'],
-            "duration_ms": track['duration_ms'],
-            "genres": ', '.join(artist_genres),
-            "tempo": track_features['tempo'],
-            "loudness": track_features['loudness'],
-            "energy": track_features['energy'],
-            "danceability": track_features['danceability'],
-            "key": track_features['key'],
-            "instrumentalness": track_features['instrumentalness']
-        })
+    formatted_data = pd.DataFrame(columns=["track_name", "artist","duration_ms","genres","tempo", "loudness","energy","danceability","key", "instrumentalness","valence"])
+    for i,item in enumerate(tracks['items']):
+        formatted_data.loc[i] = get_track_info(item, token)
+        
     return formatted_data
 
-def write_to_csv(formatted_data, filename='filtered_outputs.csv'):
+
+# Fetch and print track information
+#token = get_token()
+#tracks = get_playlist_tracks(token, "3xZlWIpwy8wiIGe7kRDy8s")
+#print_track_info(token, tracks)
+
+# Format track data and write it to the CSV file
+#formatted_data = format_track_data_for_csv(token, tracks)
+#formatted_data.sort(key=lambda x: x['track_name'].lower()) 
+"""
+def write_to_csv(formatted_data, filename):
     fieldnames = [
-        "track_name", "artist", "album", "duration_ms", "genres",
-        "tempo", "loudness", "energy", "danceability", "key", "instrumentalness"
+        "track_name", "artist", "duration_ms", "genres",
+        "tempo", "loudness", "energy", "danceability", "key", "instrumentalness", "valence"
     ]
 
     with open(filename, 'w', newline='', encoding='utf-8') as csvfile:
@@ -111,13 +146,7 @@ def write_to_csv(formatted_data, filename='filtered_outputs.csv'):
         for track_info in formatted_data:
             writer.writerow(track_info)
 
-# Fetch and print track information
-token = get_token()
-tracks = get_playlist_tracks(token, "3xZlWIpwy8wiIGe7kRDy8s")
-#print_track_info(token, tracks)
+"""
+    # Sort by track_name alphabetically, not case sensitive
 
-# Format track data and write it to the CSV file
-formatted_data = format_track_data_for_csv(token, tracks)
-formatted_data.sort(key=lambda x: x['track_name'].lower())  # Sort by track_name alphabetically, not case sensitive
-
-write_to_csv(formatted_data)
+#write_to_csv(formatted_data)
