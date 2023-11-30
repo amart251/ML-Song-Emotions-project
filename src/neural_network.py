@@ -14,11 +14,7 @@ from spotify_integration import (get_artist_genres, get_playlist_tracks,
 
 ## just keep in mind this is a template or starter code, needs more refinement
 def fetch_and_prepare_data(playlist_id):
-    # Authenticate with Spotify
-    token = get_token()
     
-    # Fetch tracks from the playlist
-    tracks = get_playlist_tracks(token, playlist_id)
     
     # Initialize lists to store features and labels
     features = []

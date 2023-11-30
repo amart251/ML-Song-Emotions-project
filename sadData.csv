@@ -1,51 +1,51 @@
-,track_name,artist,duration_ms,genres,tempo,loudness,energy,danceability,key,instrumentalness,valence
-0,Someone You Loved,Lewis Capaldi,182160,"pop, uk pop",109.891,-5.679,0.405,0.501,1,0.0,0.446
-1,Falling,Harry Styles,240133,pop,110.011,-6.502,0.267,0.567,4,1.46e-06,0.0592
-2,Daylight,David Kushner,212953,gen z singer-songwriter,130.09,-9.475,0.43,0.508,2,0.000441,0.324
-3,Heather,Conan Gray,198040,"bedroom pop, pop, pov: indie",102.078,-7.301,0.425,0.357,5,0.0,0.27
-4,favorite crime,Olivia Rodrigo,152666,pop,172.929,-10.497,0.272,0.369,9,0.0,0.218
-5,Atlantis,Seafret,229173,folk-pop,166.159,-7.989,0.479,0.4,8,2.14e-06,0.213
-6,Train Wreck,James Arthur,208826,"pop, talent show, uk pop",77.355,-5.726,0.485,0.311,6,0.0,0.225
-7,"What Was I Made For? [From The Motion Picture ""Barbie""]",Billie Eilish,222369,"art pop, pop",78.403,-17.665,0.0911,0.444,0,1.05e-06,0.142
-8,Love In The Dark,Adele,285935,"british soul, pop, pop soul, uk pop",109.821,-6.057,0.341,0.331,9,0.0,0.152
-9,Colapso,Kevin Kaarl,235470,indie triste,75.004,-17.237,0.216,0.544,7,0.311,0.145
-10,Ya Me Enteré,Reik,204173,"latin arena pop, latin pop, mexican pop, reggaeton, urbano latino",131.981,-5.449,0.452,0.619,9,0.0,0.174
-11,Bruises,Lewis Capaldi,220492,"pop, uk pop",111.202,-7.83,0.308,0.736,4,0.0,0.361
-12,Sign of the Times,Harry Styles,340706,pop,119.972,-4.63,0.595,0.516,5,0.0,0.222
-13,Je te laisserai des mots,Patrick Watson,160853,"indie folk, indie quebecois",132.731,-16.757,0.187,0.303,2,0.489,0.213
-14,In My Room,Chance Peña,177609,singer-songwriter pop,133.943,-13.626,0.338,0.408,4,0.000639,0.1
-15,happier,Olivia Rodrigo,175933,pop,168.924,-9.72,0.443,0.395,6,9.67e-06,0.338
-16,rises the moon,Liana Flores,161929,pov: indie,137.35,-20.149,0.129,0.483,5,0.145,0.203
-17,Can I Be Him,James Arthur,246880,"pop, talent show, uk pop",107.969,-6.164,0.543,0.696,11,0.0,0.479
-18,lovely (with Khalid),Billie Eilish,200185,"art pop, pop",115.284,-10.109,0.296,0.351,4,0.0,0.12
-19,Muak,Aruma,264939,indonesian pop,82.973,-10.791,0.32,0.265,2,0.000146,0.185
-20,Rosyln,Bon Iver,289560,"chamber pop, eau claire indie, indie folk, melancholia, modern rock",159.719,-13.111,0.277,0.329,10,0.024,0.121
-21,Rosas,La Oreja de Van Gogh,236506,"latin arena pop, latin pop, mexican pop, spanish pop, spanish pop rock",107.01,-5.008,0.685,0.783,9,3.49e-06,0.54
-22,Hold Me While You Wait,Lewis Capaldi,205686,"pop, uk pop",106.958,-5.507,0.53,0.688,11,0.0,0.162
-23,My Love Mine All Mine,Mitski,137773,"brooklyn indie, pov: indie",113.95,-14.958,0.308,0.504,9,0.135,0.121
-24,tolerate it,Taylor Swift,245440,pop,74.952,-10.381,0.361,0.316,9,2.67e-05,0.221
-25,Stars Will Fall,Duster,118160,slowcore,96.41,-13.076,0.13,0.432,9,0.965,0.0741
-26,traitor,Olivia Rodrigo,229226,pop,100.607,-7.885,0.339,0.38,3,0.0,0.0849
-27,Me Soltaste,Jesse & Joy,229933,"latin arena pop, latin pop, mexican pop",111.661,-6.038,0.398,0.4,10,3.47e-06,0.16
-28,A Thousand Years,James Arthur,254316,"pop, talent show, uk pop",138.935,-6.323,0.472,0.529,2,0.0,0.269
-29,TV,Billie Eilish,281380,"art pop, pop",140.214,-15.159,0.236,0.412,4,0.00653,0.119
-30,Watching Him Fade Away,Mac DeMarco,143080,"edmonton indie, lo-fi indie, pov: indie",139.081,-17.984,0.072,0.74,3,0.00698,0.297
-31,Mr. Forgettable,David Kushner,187293,gen z singer-songwriter,144.689,-9.23,0.412,0.564,8,0.0,0.29
-32,Losing Interest,itssvd,120546,"lo-fi chill, sad lo-fi",111.863,-13.295,0.355,0.753,8,0.87,0.506
-33,The Other Woman,Lana Del Rey,181960,"art pop, pop",111.67,-6.43,0.468,0.255,7,0.248,0.175
-34,Lo Que Construimos,Natalia Lafourcade,279213,"cantautora mexicana, latin alternative, latin pop, mexican pop, rock en espanol, veracruz indie",127.981,-9.718,0.287,0.667,0,3.61e-06,0.545
-35,Arcade,Duncan Laurence,185146,dutch pop,72.017,-11.639,0.35,0.453,9,0.00122,0.279
-36,Funeral,Phoebe Bridgers,232373,"indie pop, la indie, pov: indie",170.724,-14.416,0.263,0.218,11,0.00028,0.307
-37,"1 step forward, 3 steps back",Olivia Rodrigo,163586,pop,168.884,-12.627,0.203,0.473,2,0.0,0.419
-38,¡Corre!,Jesse & Joy,288893,"latin arena pop, latin pop, mexican pop",151.97,-6.886,0.477,0.479,11,0.0,0.127
-39,What A Time (feat. Niall Horan),Julia Michaels,173306,pop,132.861,-6.184,0.467,0.516,0,0.0,0.386
-40,Bored,Billie Eilish,180933,"art pop, pop",119.959,-12.695,0.318,0.614,7,0.00239,0.112
-41,Skinny Love,Birdy,201080,"neo mellow, uk pop",166.467,-8.485,0.29,0.379,4,0.00106,0.169
-42,Manos de Tijera,Camilo,267271,"colombian pop, latin pop, latin viral pop, reggaeton colombiano",138.472,-7.486,0.309,0.562,11,0.0,0.497
-43,From the Dining Table,Harry Styles,211960,pop,94.08,-16.288,0.156,0.671,8,0.0518,0.201
-44,Reckless,Madison Beer,203384,pop,180.104,-6.642,0.426,0.386,3,0.0,0.261
-45,No Surprises,Radiohead,229120,"alternative rock, art rock, melancholia, oxford indie, permanent wave, rock",76.426,-10.654,0.393,0.255,5,0.00361,0.118
-46,Older,Sasha Alex Sloan,191001,alt z,64.002,-9.599,0.292,0.681,11,0.0,0.162
-47,Say You Won't Let Go,James Arthur,211466,"pop, talent show, uk pop",85.043,-7.398,0.557,0.358,10,0.0,0.494
-48,drivers license,Olivia Rodrigo,242013,pop,143.875,-8.81,0.431,0.561,10,1.42e-05,0.137
-49,Turning Page,Sleeping At Last,255893,"acoustic pop, ambient worship, chamber pop",115.241,-8.498,0.371,0.307,3,0.0253,0.189
+,track_name,artist,duration_ms,genres,tempo,loudness,energy,danceability,key,instrumentalness,valence,emotion
+0,Someone You Loved,Lewis Capaldi,182160,"pop, uk pop",109.891,-5.679,0.405,0.501,1,0.0,0.446,sad
+1,Falling,Harry Styles,240133,pop,110.011,-6.502,0.267,0.567,4,1.46e-06,0.0592,sad
+2,Daylight,David Kushner,212953,gen z singer-songwriter,130.09,-9.475,0.43,0.508,2,0.000441,0.324,sad
+3,Heather,Conan Gray,198040,"bedroom pop, pop, pov: indie",102.078,-7.301,0.425,0.357,5,0.0,0.27,sad
+4,favorite crime,Olivia Rodrigo,152666,pop,172.929,-10.497,0.272,0.369,9,0.0,0.218,sad
+5,Atlantis,Seafret,229173,folk-pop,166.159,-7.989,0.479,0.4,8,2.14e-06,0.213,sad
+6,Train Wreck,James Arthur,208826,"pop, talent show, uk pop",77.355,-5.726,0.485,0.311,6,0.0,0.225,sad
+7,"What Was I Made For? [From The Motion Picture ""Barbie""]",Billie Eilish,222369,"art pop, pop",78.403,-17.665,0.0911,0.444,0,1.05e-06,0.142,sad
+8,Love In The Dark,Adele,285935,"british soul, pop, pop soul, uk pop",109.821,-6.057,0.341,0.331,9,0.0,0.152,sad
+9,Colapso,Kevin Kaarl,235470,indie triste,75.004,-17.237,0.216,0.544,7,0.311,0.145,sad
+10,Ya Me Enteré,Reik,204173,"latin arena pop, latin pop, mexican pop, reggaeton, urbano latino",131.981,-5.449,0.452,0.619,9,0.0,0.174,sad
+11,Bruises,Lewis Capaldi,220492,"pop, uk pop",111.202,-7.83,0.308,0.736,4,0.0,0.361,sad
+12,Sign of the Times,Harry Styles,340706,pop,119.972,-4.63,0.595,0.516,5,0.0,0.222,sad
+13,Je te laisserai des mots,Patrick Watson,160853,"indie folk, indie quebecois",132.731,-16.757,0.187,0.303,2,0.489,0.213,sad
+14,In My Room,Chance Peña,177609,singer-songwriter pop,133.943,-13.626,0.338,0.408,4,0.000639,0.1,sad
+15,happier,Olivia Rodrigo,175933,pop,168.924,-9.72,0.443,0.395,6,9.67e-06,0.338,sad
+16,rises the moon,Liana Flores,161929,pov: indie,137.35,-20.149,0.129,0.483,5,0.145,0.203,sad
+17,Can I Be Him,James Arthur,246880,"pop, talent show, uk pop",107.969,-6.164,0.543,0.696,11,0.0,0.479,sad
+18,lovely (with Khalid),Billie Eilish,200185,"art pop, pop",115.284,-10.109,0.296,0.351,4,0.0,0.12,sad
+19,Muak,Aruma,264939,indonesian pop,82.973,-10.791,0.32,0.265,2,0.000146,0.185,sad
+20,Rosyln,Bon Iver,289560,"chamber pop, eau claire indie, indie folk, melancholia, modern rock",159.719,-13.111,0.277,0.329,10,0.024,0.121,sad
+21,Rosas,La Oreja de Van Gogh,236506,"latin arena pop, latin pop, mexican pop, spanish pop, spanish pop rock",107.01,-5.008,0.685,0.783,9,3.49e-06,0.54,sad
+22,Hold Me While You Wait,Lewis Capaldi,205686,"pop, uk pop",106.958,-5.507,0.53,0.688,11,0.0,0.162,sad
+23,My Love Mine All Mine,Mitski,137773,"brooklyn indie, pov: indie",113.95,-14.958,0.308,0.504,9,0.135,0.121,sad
+24,tolerate it,Taylor Swift,245440,pop,74.952,-10.381,0.361,0.316,9,2.67e-05,0.221,sad
+25,Stars Will Fall,Duster,118160,slowcore,96.41,-13.076,0.13,0.432,9,0.965,0.0741,sad
+26,traitor,Olivia Rodrigo,229226,pop,100.607,-7.885,0.339,0.38,3,0.0,0.0849,sad
+27,Me Soltaste,Jesse & Joy,229933,"latin arena pop, latin pop, mexican pop",111.661,-6.038,0.398,0.4,10,3.47e-06,0.16,sad
+28,A Thousand Years,James Arthur,254316,"pop, talent show, uk pop",138.935,-6.323,0.472,0.529,2,0.0,0.269,sad
+29,TV,Billie Eilish,281380,"art pop, pop",140.214,-15.159,0.236,0.412,4,0.00653,0.119,sad
+30,Watching Him Fade Away,Mac DeMarco,143080,"edmonton indie, lo-fi indie, pov: indie",139.081,-17.984,0.072,0.74,3,0.00698,0.297,sad
+31,Mr. Forgettable,David Kushner,187293,gen z singer-songwriter,144.689,-9.23,0.412,0.564,8,0.0,0.29,sad
+32,Losing Interest,itssvd,120546,"lo-fi chill, sad lo-fi",111.863,-13.295,0.355,0.753,8,0.87,0.506,sad
+33,The Other Woman,Lana Del Rey,181960,"art pop, pop",111.67,-6.43,0.468,0.255,7,0.248,0.175,sad
+34,Lo Que Construimos,Natalia Lafourcade,279213,"cantautora mexicana, latin alternative, latin pop, mexican pop, rock en espanol, veracruz indie",127.981,-9.718,0.287,0.667,0,3.61e-06,0.545,sad
+35,Arcade,Duncan Laurence,185146,dutch pop,72.017,-11.639,0.35,0.453,9,0.00122,0.279,sad
+36,Funeral,Phoebe Bridgers,232373,"indie pop, la indie, pov: indie",170.724,-14.416,0.263,0.218,11,0.00028,0.307,sad
+37,"1 step forward, 3 steps back",Olivia Rodrigo,163586,pop,168.884,-12.627,0.203,0.473,2,0.0,0.419,sad
+38,¡Corre!,Jesse & Joy,288893,"latin arena pop, latin pop, mexican pop",151.97,-6.886,0.477,0.479,11,0.0,0.127,sad
+39,What A Time (feat. Niall Horan),Julia Michaels,173306,pop,132.861,-6.184,0.467,0.516,0,0.0,0.386,sad
+40,Bored,Billie Eilish,180933,"art pop, pop",119.959,-12.695,0.318,0.614,7,0.00239,0.112,sad
+41,Skinny Love,Birdy,201080,"neo mellow, uk pop",166.467,-8.485,0.29,0.379,4,0.00106,0.169,sad
+42,Manos de Tijera,Camilo,267271,"colombian pop, latin pop, latin viral pop, reggaeton colombiano",138.472,-7.486,0.309,0.562,11,0.0,0.497,sad
+43,From the Dining Table,Harry Styles,211960,pop,94.08,-16.288,0.156,0.671,8,0.0518,0.201,sad
+44,Reckless,Madison Beer,203384,pop,180.104,-6.642,0.426,0.386,3,0.0,0.261,sad
+45,No Surprises,Radiohead,229120,"alternative rock, art rock, melancholia, oxford indie, permanent wave, rock",76.426,-10.654,0.393,0.255,5,0.00361,0.118,sad
+46,Older,Sasha Alex Sloan,191001,alt z,64.002,-9.599,0.292,0.681,11,0.0,0.162,sad
+47,Say You Won't Let Go,James Arthur,211466,"pop, talent show, uk pop",85.043,-7.398,0.557,0.358,10,0.0,0.494,sad
+48,drivers license,Olivia Rodrigo,242013,pop,143.875,-8.81,0.431,0.561,10,1.42e-05,0.137,sad
+49,Turning Page,Sleeping At Last,255893,"acoustic pop, ambient worship, chamber pop",115.241,-8.498,0.371,0.307,3,0.0253,0.189,sad
