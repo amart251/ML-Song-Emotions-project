@@ -1,0 +1,14 @@
+To adapt the pseudo-code to the actual data, we will need to follow these steps:
+
+DONE - Fetching Data: Use the provided Spotify integration functions to fetch data.
+DONE - Data Preprocessing: Convert the textual data into a numerical format (probably one-hot encoding for categorical variables like genres and label encoding for names), and scale numerical features.
+DONE - Data Structuring: Structure the data into a format suitable for the neural network (look into pandas data frame).
+DONE - Feature and Target Definition: Define the features (X) and targets (y) for the neural network, this works with what we have for the inputs we have chosen.
+DONE - Dataset Splitting: Split the dataset into training and test sets.
+
+Model Creation: Create the neural network, making sure it takes csvs as input
+Model Training: Train the neural network model on the four emotions training sets from the csvs
+Model Evaluation: Evaluate the model on the test set to determine its performance.
+Documentation: Document what everyone has done/how they have contributed. Create comments at each function
+Lab Report: Report the experiment
+Video creation: Record an 8 minute video presenting our findings and overall experiment
