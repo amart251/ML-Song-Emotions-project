@@ -1,51 +1,228 @@
 ,track_name,artist,duration_ms,genres,tempo,loudness,energy,danceability,key,instrumentalness,valence,emotion
-0,HUMBLE.,Kendrick Lamar,177000,"conscious hip hop, hip hop, rap, west coast rap",150.011,-6.638,0.621,0.908,1,5.39e-05,0.421,hype
-1,Runnin,21 Savage,195906,"atl hip hop, hip hop, rap",143.01,-4.574,0.626,0.819,10,0.101,0.415,hype
-2,Dreams and Nightmares,Meek Mill,230693,"hip hop, philly rap, pop rap, rap, southern hip hop, trap",79.745,-2.459,0.774,0.631,11,0.0,0.44,hype
-3,Till I Collapse,Eminem,297786,"detroit hip hop, hip hop, rap",171.447,-3.237,0.847,0.548,1,0.0,0.1,hype
-4,Can't Be Touched (feat. Mr. Magic & Trouble),Roy Jones Jr.,214400,,96.986,-4.809,0.777,0.642,4,0.0,0.413,hype
-5,Dior,Pop Smoke,216386,"brooklyn drill, rap",142.094,-5.732,0.805,0.548,7,0.000389,0.648,hype
-6,All Of The Lights,Kanye West,299613,"chicago rap, hip hop, rap",142.113,-3.284,0.803,0.531,1,1.71e-05,0.221,hype
-7,RIP Roach,XXXTENTACION,169978,"emo rap, miami hip hop",105.003,-6.443,0.62,0.727,8,0.0,0.555,hype
-8,Superhero (Heroes & Villains) [with Future & Chris Brown],Metro Boomin,182666,rap,116.622,-5.3,0.606,0.526,5,2.36e-06,0.492,hype
-9,Lovin On Me,Jack Harlow,138411,"deep underground hip hop, kentucky hip hop, pop rap, rap",104.983,-4.911,0.558,0.943,2,2.19e-06,0.606,hype
-10,fukumean,Gunna,125040,"atl hip hop, melodic rap, rap, trap",130.001,-6.747,0.622,0.847,1,0.0,0.22,hype
-11,Stir Fry,Migos,190288,"atl hip hop, hip hop, pop rap, rap, trap",181.982,-5.402,0.816,0.817,2,0.0,0.508,hype
-12,Ballin,Logic,166080,"conscious hip hop, hip hop, pop rap, rap",150.621,-6.414,0.854,0.737,3,0.0,0.65,hype
-13,Going Bad (feat. Drake),Meek Mill,180522,"hip hop, philly rap, pop rap, rap, southern hip hop, trap",86.003,-6.365,0.496,0.889,4,0.0,0.544,hype
-14,Cinderella Man,Eminem,279013,"detroit hip hop, hip hop, rap",85.918,-3.411,0.908,0.679,8,0.0,0.687,hype
-15,MELTDOWN (feat. Drake),Travis Scott,246133,"hip hop, rap, slap house",111.975,-5.275,0.774,0.557,7,0.0,0.397,hype
-16,Pure Cocaine,Lil Baby,154023,"atl hip hop, atl trap, rap, trap",127.05,-6.071,0.487,0.964,10,6.57e-06,0.107,hype
-17,Black Skinhead,Kanye West,188013,"chicago rap, hip hop, rap",130.127,-6.123,0.809,0.766,1,0.0,0.325,hype
-18,Ric Flair Drip (with Metro Boomin),Offset,172800,"atl hip hop, hip hop, pop rap, rap, trap",100.007,-8.28,0.428,0.88,9,5.05e-05,0.333,hype
-19,"King's Dead (with Kendrick Lamar, Future & James Blake)",Jay Rock,229670,"conscious hip hop, hip hop, rap, southern hip hop, trap",137.133,-5.008,0.705,0.645,1,0.0,0.376,hype
-20,YuNg BrAtZ,XXXTENTACION,101851,"emo rap, miami hip hop",128.063,-5.963,0.695,0.755,9,0.0,0.493,hype
-21,Legends Are Made,Sam Tinnesz,169758,"alt z, bossbeat, rebel blues",87.871,-4.879,0.89,0.553,0,0.0,0.674,hype
-22,Get Into It (Yuh),Doja Cat,138293,"dance pop, pop",91.942,-6.029,0.655,0.912,8,3.39e-05,0.793,hype
-23,Flex Up (feat. Future & Playboi Carti),Lil Yachty,170858,"atl hip hop, melodic rap, rap, trap",160.082,-5.366,0.667,0.829,9,0.000521,0.545,hype
-24,Bodak Yellow,Cardi B,223712,"pop, rap",125.022,-6.337,0.703,0.926,11,0.0,0.485,hype
-25,LOVELY BASTARDS,ZWE1HVNDXR,116104,,150.251,-6.16,0.81,0.613,1,0.899,0.686,hype
-26,Can't Hold Us (feat. Ray Dalton),Macklemore & Ryan Lewis,258431,"pop rap, seattle hip hop",146.097,-4.468,0.927,0.633,2,0.0,0.88,hype
-27,Yes Indeed,Lil Baby,142273,"atl hip hop, atl trap, rap, trap",119.957,-9.309,0.346,0.963,5,0.0,0.562,hype
-28,Stronger,Kanye West,311866,"chicago rap, hip hop, rap",103.992,-7.858,0.717,0.617,10,0.0,0.49,hype
-29,Ball If I Want To,DaBaby,112546,"hip hop, north carolina hip hop, pop rap, rap, trap",139.949,-5.049,0.669,0.902,1,0.0,0.628,hype
-30,Speed Drive (From Barbie The Album),Charli XCX,117809,"art pop, candy pop, metropopolis, pop, uk pop",173.925,-6.405,0.879,0.652,0,0.0896,0.789,hype
-31,Got It On Me,Pop Smoke,164579,"brooklyn drill, rap",88.834,-7.258,0.647,0.688,2,1.65e-05,0.195,hype
-32,Bring Em Out,T.I.,216706,"atl hip hop, dirty south rap, gangster rap, hip hop, pop rap, rap, southern hip hop, trap",98.579,-2.983,0.891,0.759,11,0.0,0.587,hype
-33,Without Me,Eminem,290320,"detroit hip hop, hip hop, rap",112.238,-2.827,0.669,0.908,7,0.0,0.662,hype
-34,My wrist (with Young Thug),Yeat,190133,"pluggnb, rage rap",137.019,-7.159,0.616,0.784,0,0.00592,0.291,hype
-35,"Arise (From Marvel's ""Cloak & Dagger"")",The Seige,130500,"bossbeat, cali rap",139.934,-3.545,0.852,0.627,8,0.0,0.412,hype
-36,Hot N*gga,Bobby Shmurda,194561,"nyc rap, rap, trap",167.879,-7.314,0.51,0.794,9,1.81e-06,0.18,hype
-37,Legend,The Score,189120,"modern alternative rock, pov: indie",82.001,-3.341,0.757,0.601,2,8.85e-05,0.462,hype
-38,Tia Tamera (feat. Rico Nasty),Doja Cat,211013,"dance pop, pop",119.884,-4.623,0.654,0.822,0,0.0,0.421,hype
-39,Champions,Kanye West,334253,"chicago rap, hip hop, rap",134.952,-2.48,0.774,0.692,6,0.0,0.349,hype
-40,"Welcome to the Party (with French Montana & Lil Pump, feat. Zhavia Ward) - from Deadpool 2",Diplo,181720,"dance pop, edm, electro house, moombahton, pop dance",171.921,0.175,0.845,0.618,2,0.0,0.486,hype
-41,Man Of The Year,ScHoolboy Q,216013,"gangster rap, hip hop, pop rap, rap, southern hip hop, trap",111.914,-5.228,0.865,0.749,3,0.0,0.371,hype
-42,WHATS POPPIN,Jack Harlow,139741,"deep underground hip hop, kentucky hip hop, pop rap, rap",145.062,-6.671,0.604,0.923,11,0.0,0.826,hype
-43,Nice For What,Drake,210746,"canadian hip hop, canadian pop, hip hop, pop rap, rap",93.372,-6.474,0.909,0.585,8,9.7e-05,0.758,hype
-44,MotorSport,Migos,303076,"atl hip hop, hip hop, pop rap, rap, trap",137.996,-5.32,0.518,0.904,2,0.0,0.188,hype
-45,SOLVED THE PROBLEM,Comethazine,117073,"trap, underground hip hop",98.43,-10.394,0.698,0.934,10,1.44e-05,0.691,hype
-46,Backseat Freestyle,Kendrick Lamar,212653,"conscious hip hop, hip hop, rap, west coast rap",77.878,-7.601,0.651,0.546,1,0.0,0.646,hype
-47,Higher,Eminem,222036,"detroit hip hop, hip hop, rap",148.0,-4.758,0.82,0.733,4,0.0,0.525,hype
-48,"Down Bad (feat. JID, Bas, J. Cole, EARTHGANG & Young Nudy)",Dreamville,169146,"hip hop, pop rap, rap",149.804,-5.368,0.586,0.761,0,0.0,0.719,hype
-49,Centuries,Fall Out Boy,228360,"emo, modern rock, pop, rock",176.042,-2.868,0.858,0.393,4,0.0,0.56,hype
+0,On That Time,Playboi Carti,102421,"atl hip hop, plugg, pluggnb, rage rap, rap",150.078,-3.673,0.476,0.598,0,0.0,0.0545,hype
+1,Eternal War,Bolt Thrower,127706,"british death metal, brutal death metal, death metal, deathgrind, metal, technical death metal",88.843,-6.367,0.986,0.139,0,0.708,0.0341,hype
+2,Blood Fire Death,Bathory,630073,"autonomous black metal, black metal, black thrash, metal, old school thrash, pagan black metal, swedish black metal, swedish metal, thrash metal, viking black metal, viking metal",123.905,-8.876,0.927,0.323,4,0.819,0.0374,hype
+3,444+222,Lil Uzi Vert,247347,"hip hop, melodic rap, philly rap, rage rap, rap",76.997,-6.568,0.513,0.791,10,2.83e-05,0.481,hype
+4,Big tonka (feat. Lil Uzi Vert),Yeat,207760,"pluggnb, rage rap",130.082,-7.081,0.67,0.667,10,0.0,0.208,hype
+5,Early 20 Rager,Lil Uzi Vert,274880,"hip hop, melodic rap, philly rap, rage rap, rap",127.001,-6.057,0.68,0.651,8,0.0,0.092,hype
+6,Miss The Rage (feat. Playboi Carti),Trippie Redd,236883,"melodic rap, rap, trap",77.006,-4.938,0.877,0.581,8,0.0,0.353,hype
+7,Black Mass,Destruction,239306,"death metal, german metal, german thrash metal, metal, old school thrash, thrash metal",183.333,-6.165,0.988,0.162,4,0.0772,0.168,hype
+8,5unna,Homixide Gang,100414,rage rap,146.223,-6.327,0.641,0.688,11,0.0,0.553,hype
+9,Smooktobër,Yeat,175266,"pluggnb, rage rap",148.051,-8.631,0.432,0.663,8,0.034,0.111,hype
+10,Waves,Kanye West,181573,"chicago rap, hip hop, rap",96.091,-4.57,0.586,0.557,10,7.33e-06,0.0681,hype
+11,CIGARETTE,Lil Uzi Vert,182452,"hip hop, melodic rap, philly rap, rage rap, rap",124.998,-5.305,0.628,0.701,8,0.0,0.264,hype
+12,Speed Demon (King Of Kings) - Extended,Oda,278000,,156.039,-6.158,0.986,0.483,5,0.0,0.389,hype
+13,Golden Age,Max Coveri,349220,"eurobeat, super eurobeat",155.673,-8.882,0.935,0.596,10,0.00547,0.963,hype
+14,Final Destination,Cody,210301,,162.09,-3.442,0.99,0.515,6,0.0,0.95,hype
+15,My king is You,Leslie Parrish,316370,"eurobeat, super eurobeat",154.973,-2.671,0.997,0.511,7,3.76e-06,0.707,hype
+16,KILLING MY LOVE,Leslie Parrish,294466,"eurobeat, super eurobeat",156.191,-7.265,0.887,0.595,1,1.15e-05,0.725,hype
+17,LOVE IS IN DANGER,Priscilla,290233,super eurobeat,154.467,-6.858,0.978,0.54,1,0.341,0.858,hype
+18,LOST INTO THE NIGHT,ELISA,295200,,158.023,-5.44,0.956,0.521,1,0.00683,0.801,hype
+19,Save Me - Extended,Leslie Parrish,338156,"eurobeat, super eurobeat",155.767,-7.05,0.938,0.44,10,0.000333,0.699,hype
+20,When The Sun Goes Down - Extended Version,KEN BLAST,291877,"eurobeat, super eurobeat",155.024,-6.111,0.973,0.528,6,0.158,0.823,hype
+21,Fighter - Extended Mix,Marko Polo,291851,super eurobeat,161.971,-6.24,0.953,0.522,9,0.000343,0.785,hype
+22,BLACK OUT,Overload,298533,super eurobeat,157.969,-5.776,0.943,0.495,0,0.00177,0.579,hype
+23,NIGHT & DAY,Mr Groove,311300,super eurobeat,75.659,-5.074,0.985,0.38,1,5.3e-05,0.871,hype
+24,BACK ON THE ROCKS,MEGA NRG MAN,288000,"eurobeat, super eurobeat",156.047,-3.316,0.995,0.477,0,0.00477,0.587,hype
+25,DON'T STOP THE MUSIC,Lou Grant,288100,super eurobeat,159.929,-4.352,0.954,0.609,1,8.29e-06,0.757,hype
+26,BURNING UP FOR YOU,Sara,289466,super eurobeat,156.585,-5.108,0.96,0.466,1,0.0172,0.344,hype
+27,BEAT OF THE RISING SUN - Extended ver.,dave rodgers,241641,super eurobeat,148.094,-6.191,0.956,0.519,3,1.35e-06,0.729,hype
+28,DANCING,Vicky Vale,286266,super eurobeat,160.151,-5.614,0.912,0.59,1,0.00323,0.856,hype
+29,Superdance - Extended mix,Vicky Vale,322722,super eurobeat,153.061,-7.257,0.996,0.511,9,0.265,0.778,hype
+30,The Game Of Love,Vicky Vale,316317,super eurobeat,154.971,-4.366,0.997,0.509,9,6.14e-06,0.575,hype
+31,Feed Me w Ur Kiss,Satanicpornocultshop,230786,"breakcore, funktronica, glitch pop, japanese experimental, japanese idm",175.083,-5.335,0.876,0.47,7,0.0683,0.604,hype
+32,Into The Death,Atari Teenage Riot,206200,"cyberpunk, digital hardcore, hardcore techno",93.98,-6.524,0.94,0.442,4,0.00116,0.314,hype
+33,Holler!,Homixide Gang,102530,rage rap,150.082,-7.554,0.677,0.716,1,0.0,0.582,hype
+34,BURNING DESIRE,MEGA NRG MAN,290966,"eurobeat, super eurobeat",148.018,-6.624,0.928,0.48,11,2.74e-06,0.49,hype
+35,Night of Fire - Extended mix,Niko,318392,super eurobeat,155.134,-7.894,0.945,0.472,1,0.531,0.745,hype
+36,On Sight,Kanye West,156480,"chicago rap, hip hop, rap",101.601,-3.182,0.469,0.605,9,0.0,0.515,hype
+37,RUNNING IN THE 90'S,Max Coveri,283833,"eurobeat, super eurobeat",158.517,-5.484,0.931,0.541,1,0.0127,0.86,hype
+38,Anything,An Endless Sporadic,288984,,127.932,-6.454,0.923,0.379,2,0.881,0.279,hype
+39,Overkill,Motörhead,311133,"alternative metal, hard rock, metal, rock, speed metal",119.41,-7.885,0.866,0.266,11,0.0185,0.211,hype
+40,A Sign For The Norse Hordes To Ride,Immortal,155053,"black metal, metal, norwegian black metal, norwegian metal, pagan black metal, thrash metal",87.805,-9.498,0.881,0.195,5,0.819,0.0328,hype
+41,Electric Eye,Judas Priest,218866,"album rock, alternative metal, birmingham metal, glam metal, hard rock, metal, rock",96.539,-6.011,0.947,0.431,9,0.000253,0.365,hype
+42,Dsco,Sweet Trip,191133,"dream pop, glitchbreak, shoegaze",134.98,-5.161,0.839,0.565,4,0.113,0.855,hype
+43,Too Drunk to Fuck,Dead Kennedys,160653,"alternative rock, early us punk, hardcore punk, punk",103.327,-4.876,0.966,0.441,4,0.000829,0.586,hype
+44,RYDEEN（2018 Bob Ludwig Remastering）,YELLOW MAGIC ORCHESTRA,266306,"classic j-rock, electro, proto-techno, shibuya-kei, synthesizer, techno kayo, zolo",142.815,-5.603,0.864,0.565,2,0.788,0.946,hype
+45,Semtex Revolution,Coroner,330986,"old school thrash, swiss metal, technical thrash, thrash metal",111.298,-12.396,0.79,0.427,10,0.51,0.443,hype
+46,Chemical Warfare,Dead Kennedys,178560,"alternative rock, early us punk, hardcore punk, punk",119.561,-3.041,0.972,0.302,2,0.0227,0.52,hype
+47,"No Guts, No Glory",Bolt Thrower,247733,"british death metal, brutal death metal, death metal, deathgrind, metal, technical death metal",129.672,-7.685,0.957,0.348,5,0.934,0.196,hype
+48,GAS GAS GAS - EXTENDED MIX,Manuel,261040,super eurobeat,153.967,-4.939,0.945,0.454,8,3.09e-05,0.737,hype
+49,Go With The Flow,Queens of the Stone Age,187120,"alternative metal, alternative rock, grunge, modern rock, palm desert scene, rock, stoner metal, stoner rock",159.37,-3.9,0.992,0.242,4,0.113,0.374,hype
+50,WHAT'S GOOD,"Tyler, The Creator",205626,"hip hop, rap",118.227,-6.553,0.909,0.458,1,4.26e-06,0.449,hype
+51,Foreign,Playboi Carti,142893,"atl hip hop, plugg, pluggnb, rage rap, rap",122.955,-5.195,0.705,0.762,6,0.0,0.264,hype
+52,The Chase Is Better Than the Catch,Motörhead,255600,"alternative metal, hard rock, metal, rock, speed metal",122.303,-5.156,0.977,0.467,8,8.29e-05,0.345,hype
+53,Ligeia - Demo,Annihilator,298093,"canadian metal, death metal, metal, old school thrash, speed metal, technical groove metal, thrash metal",91.36,-8.577,0.937,0.182,9,0.745,0.276,hype
+54,The Hammer,Motörhead,166000,"alternative metal, hard rock, metal, rock, speed metal",138.581,-6.266,0.991,0.287,1,0.00136,0.248,hype
+55,Futsal Shuffle 2020 - Bonus Track,Lil Uzi Vert,198912,"hip hop, melodic rap, philly rap, rage rap, rap",136.985,-8.57,0.448,0.879,7,0.0,0.278,hype
+56,Blizzard Beasts,Immortal,169786,"black metal, metal, norwegian black metal, norwegian metal, pagan black metal, thrash metal",174.109,-7.904,0.972,0.13,1,0.9,0.0716,hype
+57,fuck money stay pretty,Black Kray,186826,"cloud rap, plugg, pluggnb",105.5,-13.599,0.669,0.191,8,0.753,0.421,hype
+58,Kill Yourself,S.O.D. Stormtroopers of Death,131400,"crossover thrash, thrash metal",108.138,-12.19,0.791,0.407,8,0.916,0.586,hype
+59,Speed,Atari Teenage Riot,168293,"cyberpunk, digital hardcore, hardcore techno",165.202,-7.083,0.849,0.485,4,0.0732,0.59,hype
+60,Krystle - URL Cyber Palace Mix,Machine Girl,216000,"digital hardcore, hardvapour",160.033,-5.598,0.968,0.506,11,0.87,0.681,hype
+61,Never Catch Me,Flying Lotus,234486,"afrofuturism, alternative hip hop, electronica, escape room, experimental hip hop, glitch, glitch hop, indietronica, instrumental hip hop, intelligent dance music, jazztronica, psychedelic hip hop, wonky",81.305,-4.576,0.936,0.526,8,0.000417,0.283,hype
+62,Frenesi - Machine Girl GabberTrap Mix,Machine Girl,126380,"digital hardcore, hardvapour",95.032,-3.301,0.926,0.565,6,0.0502,0.0503,hype
+63,CHERRY BOMB,"Tyler, The Creator",269352,"hip hop, rap",133.868,-3.389,0.817,0.594,2,0.8,0.151,hype
+64,Post Rave Maximalist,Machine Girl,148363,"digital hardcore, hardvapour",111.122,-6.212,0.998,0.426,11,0.898,0.413,hype
+65,Young,The Soft Moon,230968,"dark post-punk, grave wave, nu gaze",89.99,-6.411,0.911,0.487,6,0.000667,0.32,hype
+66,DEJA VU,dave rodgers,260555,super eurobeat,154.004,-3.106,0.991,0.558,5,0.0,0.775,hype
+67,SPEEDY SPEED BOY,Marko Polo,356300,super eurobeat,152.128,-4.315,0.954,0.525,5,0.0256,0.644,hype
+68,Slaughter House,Sematary,200911,cloud rap,118.142,-6.87,0.908,0.414,1,0.0,0.133,hype
+69,Shotgun,Sematary,232380,cloud rap,125.97,-7.039,0.942,0.483,10,1.94e-06,0.355,hype
+70,Computer Face//Pure Being,Flying Lotus,152840,"afrofuturism, alternative hip hop, electronica, escape room, experimental hip hop, glitch, glitch hop, indietronica, instrumental hip hop, intelligent dance music, jazztronica, psychedelic hip hop, wonky",154.065,-4.68,0.841,0.511,11,0.935,0.343,hype
+71,Confetti,Cold Cave,337573,"dark post-punk, dark synthpop, grave wave, metropopolis, modern goth",104.998,-2.669,0.955,0.471,8,0.856,0.716,hype
+72,Ginger Claps,Machine Girl,184999,"digital hardcore, hardvapour",112.47,-6.936,0.855,0.326,6,0.809,0.537,hype
+73,PILOT (feat. Sydney Bennett),"Tyler, The Creator",209412,"hip hop, rap",109.995,-2.389,0.869,0.596,5,0.0493,0.545,hype
+74,The Threat Is Real,Megadeth,262026,"alternative metal, hard rock, melodic thrash, metal, old school thrash, rock, speed metal, thrash metal",155.097,-3.855,0.988,0.378,2,0.0177,0.107,hype
+75,Dystopia,Megadeth,299106,"alternative metal, hard rock, melodic thrash, metal, old school thrash, rock, speed metal, thrash metal",110.051,-2.934,0.988,0.273,10,0.0115,0.156,hype
+76,Fatal Illusion,Megadeth,255893,"alternative metal, hard rock, melodic thrash, metal, old school thrash, rock, speed metal, thrash metal",123.999,-3.615,0.981,0.34,9,0.00452,0.134,hype
+77,Into The Lungs Of Hell,Megadeth,209733,"alternative metal, hard rock, melodic thrash, metal, old school thrash, rock, speed metal, thrash metal",89.136,-8.068,0.966,0.192,4,0.894,0.0385,hype
+78,Set The World Afire,Megadeth,348760,"alternative metal, hard rock, melodic thrash, metal, old school thrash, rock, speed metal, thrash metal",81.799,-8.696,0.948,0.245,9,0.15,0.122,hype
+79,502,Megadeth,208066,"alternative metal, hard rock, melodic thrash, metal, old school thrash, rock, speed metal, thrash metal",79.322,-10.144,0.936,0.324,11,0.311,0.0955,hype
+80,Liar,Megadeth,200866,"alternative metal, hard rock, melodic thrash, metal, old school thrash, rock, speed metal, thrash metal",102.213,-8.991,0.951,0.516,7,0.0453,0.218,hype
+81,Hook In Mouth,Megadeth,283973,"alternative metal, hard rock, melodic thrash, metal, old school thrash, rock, speed metal, thrash metal",150.864,-9.295,0.931,0.378,0,0.038,0.268,hype
+82,Trench Town,Sickboyrari,145653,"cloud rap, glitchcore",92.495,-11.484,0.719,0.617,1,0.0054,0.262,hype
+83,Ram It Down,Judas Priest,288693,"album rock, alternative metal, birmingham metal, glam metal, hard rock, metal, rock",141.123,-4.928,0.988,0.188,2,0.00282,0.159,hype
+84,Heavy Metal,Judas Priest,358240,"album rock, alternative metal, birmingham metal, glam metal, hard rock, metal, rock",134.018,-5.181,0.975,0.423,2,3.66e-05,0.236,hype
+85,Yamborghini Dream (feat. Young Thug),Lil Uzi Vert,227571,"hip hop, melodic rap, philly rap, rage rap, rap",118.869,-4.993,0.734,0.75,7,0.0,0.364,hype
+86,M-16,Sodom,289133,"black thrash, death metal, deathrash, german metal, german thrash metal, metal, old school thrash, speed metal, thrash metal",140.902,-6.429,0.947,0.307,2,0.931,0.276,hype
+87,I Am the War (2021 - Remaster),Sodom,246746,"black thrash, death metal, deathrash, german metal, german thrash metal, metal, old school thrash, speed metal, thrash metal",98.963,-4.804,0.972,0.311,1,0.723,0.298,hype
+88,Zeroed,Bolt Thrower,346426,"british death metal, brutal death metal, death metal, deathgrind, metal, technical death metal",147.78,-6.652,0.978,0.157,8,0.922,0.0556,hype
+89,One Beer,MF DOOM,258586,"alternative hip hop, east coast hip hop, hip hop, instrumental hip hop",91.115,-6.7,0.718,0.376,7,0.00332,0.615,hype
+90,Rapp Snitch Knishes feat. Mr. Fantastik,MF DOOM,172893,"alternative hip hop, east coast hip hop, hip hop, instrumental hip hop",95.051,-6.827,0.832,0.728,7,0.0,0.825,hype
+91,Doomsday,MF DOOM,298053,"alternative hip hop, east coast hip hop, hip hop, instrumental hip hop",95.416,-7.736,0.84,0.856,6,0.0,0.792,hype
+92,"Sargent ""D"" and the S.O.D.",S.O.D. Stormtroopers of Death,143800,"crossover thrash, thrash metal",97.161,-12.025,0.923,0.199,10,0.898,0.423,hype
+93,Painkiller,Judas Priest,365826,"album rock, alternative metal, birmingham metal, glam metal, hard rock, metal, rock",103.16,-4.667,0.987,0.435,1,0.0847,0.101,hype
+94,Leather Rebel,Judas Priest,214933,"album rock, alternative metal, birmingham metal, glam metal, hard rock, metal, rock",168.151,-5.93,0.936,0.289,9,0.0034,0.25,hype
+95,Immortal Rites,Morbid Angel,243520,"black metal, brutal death metal, death metal, deathgrind, florida death metal, metal, speed metal, technical death metal",98.424,-7.796,0.934,0.19,1,0.107,0.36,hype
+96,Dark Fantasy,Kanye West,280786,"chicago rap, hip hop, rap",87.998,-5.919,0.587,0.599,5,0.0,0.373,hype
+97,POWER,Kanye West,292093,"chicago rap, hip hop, rap",153.993,-4.747,0.914,0.542,0,0.0,0.576,hype
+98,All Of The Lights,Kanye West,299613,"chicago rap, hip hop, rap",142.113,-3.284,0.803,0.531,1,1.71e-05,0.221,hype
+99,Runaway,Kanye West,547733,"chicago rap, hip hop, rap",84.733,-3.825,0.568,0.374,1,0.00219,0.111,hype
+100,Lost In The World,Kanye West,256586,"chicago rap, hip hop, rap",117.072,-5.249,0.746,0.608,5,0.0087,0.277,hype
+101,Battles in the North,Immortal,251973,"black metal, metal, norwegian black metal, norwegian metal, pagan black metal, thrash metal",101.328,-4.335,0.985,0.22,5,0.637,0.0314,hype
+102,Bunny Suit,Sematary,181129,cloud rap,129.339,-7.797,0.909,0.505,6,0.0,0.45,hype
+103,Ballin' (with Roddy Ricch),Mustard,180434,"cali rap, pop rap, rap, southern hip hop, trap",97.008,-6.678,0.545,0.809,7,0.0,0.244,hype
+104,SICKO MODE,Travis Scott,312820,"hip hop, rap, slap house",155.008,-3.714,0.73,0.834,8,0.0,0.446,hype
+105,Mo Bamba,Sheck Wes,183906,"pop rap, rap, trap",146.034,-5.266,0.625,0.729,4,0.00986,0.261,hype
+106,Drip Too Hard (Lil Baby & Gunna),Lil Baby,145542,"atl hip hop, atl trap, rap, trap",112.511,-6.903,0.662,0.897,1,0.0,0.389,hype
+107,REEL IT IN,Aminé,121346,"pop rap, portland hip hop, rap, underground hip hop",128.981,-8.677,0.342,0.754,10,0.0,0.423,hype
+108,Come Get Her,Rae Sremmurd,212946,"melodic rap, mississippi hip hop, pop rap, rap, trap",185.023,-6.226,0.564,0.689,2,0.0,0.123,hype
+109,Yes Indeed,Lil Baby,142273,"atl hip hop, atl trap, rap, trap",119.958,-9.309,0.346,0.964,5,0.0,0.562,hype
+110,Stir Fry,Migos,190288,"atl hip hop, hip hop, pop rap, rap, trap",181.982,-5.402,0.816,0.817,2,0.0,0.508,hype
+111,Bad and Boujee (feat. Lil Uzi Vert),Migos,343150,"atl hip hop, hip hop, pop rap, rap, trap",127.079,-5.314,0.666,0.926,11,0.0,0.168,hype
+112,ZEZE (feat. Travis Scott & Offset),Kodak Black,228653,"florida drill, florida rap, melodic rap, miami hip hop, rap, trap, trap latino",98.044,-5.692,0.637,0.861,8,3.35e-06,0.474,hype
+113,goosebumps,Travis Scott,243836,"hip hop, rap, slap house",130.049,-3.37,0.728,0.841,7,0.0,0.43,hype
+114,HUMBLE.,Kendrick Lamar,177000,"conscious hip hop, hip hop, rap, west coast rap",150.011,-6.638,0.621,0.908,1,5.39e-05,0.421,hype
+115,Topanga,Trippie Redd,215364,"melodic rap, rap, trap",105.955,-8.245,0.615,0.755,4,1.75e-06,0.039,hype
+116,Leave Me Alone,Flipp Dinero,195637,"melodic rap, trap",150.024,-2.806,0.743,0.792,7,0.0,0.742,hype
+117,I Don't Fuck With You,Big Sean,284386,"detroit hip hop, hip hop, pop rap, r&b, rap, trap",97.972,-5.474,0.733,0.824,1,0.0,0.395,hype
+118,Wake Up in the Sky,Gucci Mane,204664,"atl hip hop, dirty south rap, hip hop, pop rap, rap, southern hip hop, trap",143.01,-5.144,0.578,0.8,4,0.0,0.367,hype
+119,XO Tour Llif3,Lil Uzi Vert,182706,"hip hop, melodic rap, philly rap, rage rap, rap",155.096,-6.366,0.75,0.732,11,0.0,0.401,hype
+120,Money Longer,Lil Uzi Vert,198944,"hip hop, melodic rap, philly rap, rage rap, rap",136.173,-7.817,0.568,0.795,5,0.0,0.478,hype
+121,Mask Off,Future,204600,"atl hip hop, hip hop, rap, southern hip hop, trap",150.062,-8.795,0.434,0.833,2,0.0219,0.281,hype
+122,Tunnel Vision,Kodak Black,268186,"florida drill, florida rap, melodic rap, miami hip hop, rap, trap, trap latino",171.853,-7.724,0.489,0.497,11,9.91e-05,0.231,hype
+123,Look Back at It,A Boogie Wit da Hoodie,179449,"melodic rap, rap, trap",96.057,-5.075,0.587,0.791,3,0.0,0.536,hype
+124,Wow.,Post Malone,149546,"dfw rap, melodic rap, pop, rap",99.96,-7.359,0.539,0.829,11,1.78e-06,0.388,hype
+125,Gold Digger,Kanye West,207626,"chicago rap, hip hop, rap",93.034,-5.572,0.696,0.629,1,0.0,0.623,hype
+126,679 (feat. Remy Boyz),Fetty Wap,196693,"new jersey rap, pop rap, rap, southern hip hop, trap",190.05,-5.738,0.717,0.618,7,0.0,0.603,hype
+127,Trap Queen,Fetty Wap,222093,"new jersey rap, pop rap, rap, southern hip hop, trap",148.075,-3.803,0.873,0.746,7,0.0,0.817,hype
+128,Swang,Rae Sremmurd,208120,"melodic rap, mississippi hip hop, pop rap, rap, trap",139.992,-9.319,0.314,0.681,8,9.82e-06,0.166,hype
+129,Taste (feat. Offset),Tyga,232959,"hip hop, pop rap, rap, trap",97.994,-7.442,0.559,0.884,0,0.0,0.342,hype
+130,Hot (feat. Gunna),Young Thug,193026,"atl hip hop, atl trap, gangster rap, melodic rap, rap, trap",111.997,-8.044,0.651,0.855,0,0.0,0.559,hype
+131,Baby Birkin,Gunna,181948,"atl hip hop, melodic rap, rap, trap",118.04,-6.083,0.649,0.848,2,0.0,0.629,hype
+132,Broccoli,DRAM,225205,"pop rap, trap, underground hip hop, viral trap, virginia hip hop",145.99,-7.39,0.525,0.886,8,0.0,0.708,hype
+133,Shotta Flow (Feat. Blueface) [Remix],NLE Choppa,176631,"memphis hip hop, rap",120.08,-4.768,0.511,0.894,2,0.0,0.568,hype
+134,HIGHEST IN THE ROOM,Travis Scott,175720,"hip hop, rap, slap house",76.469,-8.764,0.427,0.598,7,5.83e-06,0.0605,hype
+135,"Young, Wild & Free (feat. Bruno Mars)",Snoop Dogg,207333,"g funk, gangster rap, hip hop, pop rap, rap, west coast rap",95.078,-6.425,0.655,0.715,0,0.0,0.531,hype
+136,Gas Pedal,Sage The Gemini,208160,"hyphy, pop rap, southern hip hop, trap",97.49,-8.028,0.538,0.843,1,0.0,0.428,hype
+137,Bands,Comethazine,98734,"trap, underground hip hop",158.008,-10.775,0.457,0.834,10,0.0,0.533,hype
+138,"BIG BANK (feat. 2 Chainz, Big Sean, Nicki Minaj)",YG,237240,"cali rap, hip hop, pop rap, rap, southern hip hop, trap",203.911,-7.709,0.346,0.745,1,0.0,0.112,hype
+139,Going Bad (feat. Drake),Meek Mill,180522,"hip hop, philly rap, pop rap, rap, southern hip hop, trap",86.003,-6.365,0.496,0.889,4,0.0,0.544,hype
+140,Faucet Failure,Life Loops,144222,,99.965,-5.64,0.775,0.945,10,0.0,0.778,hype
+141,"Flex (Ooh, Ooh, Ooh)",Rich Homie Quan,176674,"atl hip hop, dirty south rap, rap, southern hip hop, trap",81.998,-7.533,0.62,0.728,2,0.0,0.885,hype
+142,Ni**as In Paris,JAY-Z,219333,"east coast hip hop, gangster rap, hip hop, pop rap, rap",140.027,-5.542,0.859,0.788,1,0.0,0.769,hype
+143,No Role Modelz,J. Cole,292986,"conscious hip hop, hip hop, north carolina hip hop, rap",100.45,-8.465,0.521,0.692,10,0.0,0.463,hype
+144,Throw Sum Mo,Rae Sremmurd,260453,"melodic rap, mississippi hip hop, pop rap, rap, trap",142.062,-7.91,0.627,0.859,6,0.000202,0.594,hype
+145,Really Really,Kevin Gates,232093,"baton rouge rap, rap, southern hip hop, trap",118.97,-6.055,0.666,0.762,0,0.0,0.278,hype
+146,A Milli,Lil Wayne,221840,"hip hop, new orleans rap, pop rap, rap, trap",151.486,-8.636,0.695,0.674,6,0.00202,0.773,hype
+147,Only,Nicki Minaj,312026,"hip pop, pop, queens hip hop, rap",179.196,-7.245,0.495,0.573,8,0.0,0.255,hype
+148,Lose Yourself,Eminem,326466,"detroit hip hop, hip hop, rap",171.374,-4.565,0.744,0.692,2,0.000423,0.0612,hype
+149,Uber Everywhere,MadeinTYO,153428,"atl hip hop, melodic rap, trap",140.181,-15.025,0.455,0.779,1,0.0,0.197,hype
+150,23,Mike WiLL Made-It,252520,"atl hip hop, rap, southern hip hop, trap",140.005,-5.254,0.599,0.859,9,8.2e-06,0.319,hype
+151,Slob On My Nob,Tear Da Club Up Thugs,118973,"crunk, dirty south rap, memphis hip hop",84.809,-6.236,0.661,0.861,1,0.0,0.556,hype
+152,Yeah! (feat. Lil Jon & Ludacris),USHER,250373,"atl hip hop, contemporary r&b, dance pop, pop, r&b, rap, south carolina hip hop, urban contemporary",105.018,-4.699,0.791,0.894,2,0.0,0.583,hype
+153,Rack City,Tyga,208840,"hip hop, pop rap, rap, trap",98.958,-10.943,0.326,0.928,1,2.56e-05,0.261,hype
+154,Caroline,Aminé,209746,"pop rap, portland hip hop, rap, underground hip hop",120.058,-8.571,0.394,0.945,10,0.0,0.743,hype
+155,iSpy,KYLE,253106,"deep underground hip hop, indie pop rap, pop rap",75.016,-6.745,0.653,0.746,7,0.0,0.672,hype
+156,Turn My Swag On,Soulja Boy,206333,"atl hip hop, chicago bop, dance pop, pop rap, rap, southern hip hop, trap",150.154,-3.104,0.712,0.546,3,0.0,0.489,hype
+157,Tuesday (feat. Drake),ILOVEMAKONNEN,321987,"atl hip hop, lgbtq+ hip hop, trap",140.163,-5.604,0.664,0.77,0,0.000118,0.472,hype
+158,"Bitch, Don’t Kill My Vibe",Kendrick Lamar,310720,"conscious hip hop, hip hop, rap, west coast rap",133.954,-8.948,0.698,0.587,1,0.0,0.0985,hype
+159,Hey Ya!,Outkast,235213,"atl hip hop, dirty south rap, hip hop, old school atlanta hip hop, rap, southern hip hop",79.526,-2.261,0.974,0.727,4,0.000532,0.965,hype
+160,Chill Bill (feat. J. Davi$ & Spooks),Rob $tone,177184,"san diego rap, viral trap",108.034,-10.028,0.427,0.886,6,0.00099,0.23,hype
+161,You Was Right,Lil Uzi Vert,163944,"hip hop, melodic rap, philly rap, rage rap, rap",81.987,-7.417,0.359,0.843,0,0.0,0.156,hype
+162,Plain Jane,A$AP Ferg,173600,"hip hop, pop rap, rap, southern hip hop, trap",170.142,-5.482,0.844,0.797,11,0.0,0.52,hype
+163,Down In the DM,Yo Gotti,182733,"dirty south rap, gangster rap, memphis hip hop, rap, southern hip hop, tennessee hip hop, trap",152.927,-7.016,0.662,0.776,1,2.1e-05,0.324,hype
+164,Antidote,Travis Scott,262693,"hip hop, rap, slap house",131.05,-5.046,0.526,0.713,1,0.000148,0.131,hype
+165,HeadBand (feat. 2 Chainz),B.o.B,220240,"atl hip hop, dance pop, pop rap, rap, southern hip hop",97.465,-7.14,0.506,0.919,1,0.0,0.273,hype
+166,No Hands (feat. Roscoe Dash & Wale),Waka Flocka Flame,263773,"atl hip hop, dirty south rap, pop rap, rap, southern hip hop, trap",131.497,-6.366,0.595,0.76,1,0.0,0.361,hype
+167,Dark Knight Dummo (Feat. Travis Scott),Trippie Redd,256162,"melodic rap, rap, trap",181.444,-2.864,0.821,0.28,8,0.0,0.254,hype
+168,Bounce Out With That,YBN Nahmir,97343,"alabama rap, rap, trap",94.94,-8.224,0.624,0.865,8,0.0,0.396,hype
+169,Do What I Want,Lil Uzi Vert,175203,"hip hop, melodic rap, philly rap, rage rap, rap",139.952,-6.336,0.701,0.681,9,0.0,0.398,hype
+170,Black Beatles,Rae Sremmurd,291893,"melodic rap, mississippi hip hop, pop rap, rap, trap",145.926,-6.163,0.632,0.794,0,0.0,0.355,hype
+171,No Heart,21 Savage,235040,"atl hip hop, hip hop, rap",140.063,-8.692,0.444,0.906,4,6.44e-05,0.678,hype
+172,Father Stretch My Hands Pt. 1,Kanye West,135920,"chicago rap, hip hop, rap",113.088,-4.113,0.573,0.724,7,0.0,0.438,hype
+173,pick up the phone,Young Thug,252262,"atl hip hop, atl trap, gangster rap, melodic rap, rap, trap",136.904,-4.263,0.716,0.706,7,0.0,0.459,hype
+174,My Way (feat. Monty),Fetty Wap,213053,"new jersey rap, pop rap, rap, southern hip hop, trap",128.077,-3.103,0.741,0.748,6,0.0,0.537,hype
+175,Get Low,Lil Jon & The East Side Boyz,334066,"atl hip hop, atlanta bass, crunk, dirty south rap, old school atlanta hip hop, southern hip hop",101.007,-7.453,0.621,0.771,1,0.0,0.154,hype
+176,Bounce Back,Big Sean,222360,"detroit hip hop, hip hop, pop rap, r&b, rap, trap",81.502,-5.628,0.575,0.78,1,0.0,0.273,hype
+177,Skateboard P,MadeinTYO,179506,"atl hip hop, melodic rap, trap",150.933,-6.838,0.498,0.842,1,0.0,0.32,hype
+178,Pretty Boy Swag,Soulja Boy,236093,"atl hip hop, chicago bop, dance pop, pop rap, rap, southern hip hop, trap",123.157,-5.158,0.42,0.837,8,0.0,0.143,hype
+179,My Shit,A Boogie Wit da Hoodie,128156,"melodic rap, rap, trap",77.998,-8.3,0.621,0.812,5,0.0,0.847,hype
+180,Rolex,Ayo & Teo,238586,"trap, viral rap, viral trap",144.946,-2.512,0.886,0.804,1,0.0,0.789,hype
+181,Candy Shop,50 Cent,209106,"east coast hip hop, gangster rap, hip hop, pop rap, queens hip hop, rap",125.173,-7.961,0.574,0.614,11,3.2e-05,0.755,hype
+182,Gassed Up,Nebu Kiniza,193911,"melodic rap, plugg",148.88,-9.072,0.568,0.798,5,0.0,0.45,hype
+183,Drop It Like It's Hot,Snoop Dogg,266066,"g funk, gangster rap, hip hop, pop rap, rap, west coast rap",91.979,-3.872,0.632,0.888,1,0.0,0.662,hype
+184,Low (feat. T-Pain),Flo Rida,231400,"dance pop, miami hip hop, pop, pop rap",128.008,-5.64,0.609,0.918,10,0.0,0.304,hype
+185,Don't Tell 'Em,Jeremih,266840,"chicago rap, pop rap, r&b, trap, urban contemporary",98.052,-5.225,0.527,0.856,2,0.0,0.386,hype
+186,We Get Turnt Up,Team Twin,221936,viral trap,139.009,-7.467,0.557,0.923,1,0.0,0.344,hype
+187,Look At Me!,XXXTENTACION,126345,"emo rap, miami hip hop",139.059,-6.405,0.726,0.763,1,0.0,0.349,hype
+188,Yes Indeed,Lil Baby,142273,"atl hip hop, atl trap, rap, trap",119.957,-9.309,0.346,0.963,5,0.0,0.562,hype
+189,I Don't Like,Chief Keef,293840,"chicago bop, chicago drill, chicago rap, drill, hip hop, rap, southern hip hop, trap",131.986,-4.622,0.844,0.742,2,0.0,0.416,hype
+190,Shots,Lil Jon,218000,"atl hip hop, crunk, dance pop, dirty south rap, old school atlanta hip hop, pop rap, southern hip hop, trap",128.017,-2.441,0.863,0.822,1,1.29e-06,0.174,hype
+191,beibs in the trap,Travis Scott,213863,"hip hop, rap, slap house",119.054,-6.054,0.571,0.743,7,0.0,0.495,hype
+192,Water,Ugly God,138936,"rap, trap, underground hip hop",140.04,-15.617,0.245,0.816,0,0.000813,0.187,hype
+193,Myron,Lil Uzi Vert,224954,"hip hop, melodic rap, philly rap, rage rap, rap",155.047,-6.976,0.654,0.771,8,0.0,0.573,hype
+194,Shoota (feat. Lil Uzi Vert),Playboi Carti,153800,"atl hip hop, plugg, pluggnb, rage rap, rap",153.075,-8.433,0.649,0.673,1,0.0,0.47,hype
+195,FEFE,6ix9ine,179404,emo rap,125.978,-9.127,0.387,0.931,1,0.0,0.376,hype
+196,All 4 One - Extended Mix,Dave Simon,354454,super eurobeat,154.09,-2.314,0.986,0.471,0,0.000194,0.828,hype
+197,ELDORADO,dave rodgers,279338,super eurobeat,151.975,-4.802,0.98,0.459,4,3.2e-06,0.176,hype
+198,"Moving Up, Moving Now - Extended",Jean Love,337339,super eurobeat,151.937,-2.26,0.954,0.541,0,0.49,0.83,hype
+199,Power Kiss - Extended,JOE DE NOVO,270020,eurobeat,159.007,-4.08,0.981,0.42,7,0.00024,0.798,hype
+200,I Just Wanna Call You Now - Extended Mix,Norma Sheffield,326266,"eurobeat, super eurobeat",145.989,-2.522,0.978,0.475,0,0.49,0.939,hype
+201,LOVE & MONEY,Za Za,299933,super eurobeat,155.437,-5.338,0.971,0.564,9,0.132,0.961,hype
+202,TAKE ME BACK TO TOKYO,MEGA NRG MAN,303733,"eurobeat, super eurobeat",155.106,-4.51,0.961,0.544,7,1.93e-05,0.88,hype
+203,Tokyo Lights - Extended Version,Ace,294233,super eurobeat,154.99,-6.814,0.981,0.442,9,0.0511,0.581,hype
+204,No Control - Extended Mix,Manuel,310760,super eurobeat,148.035,-1.996,0.985,0.497,6,0.0,0.904,hype
+205,CALLED MY NAME,MEGA NRG MAN,292600,"eurobeat, super eurobeat",76.566,-8.54,0.958,0.491,8,1.7e-06,0.748,hype
+206,Manifold Love - Eurobeat Version,Hotblade,242658,"eurobeat, super eurobeat",157.996,-6.124,0.979,0.418,6,1.03e-05,0.633,hype
+207,I NEED YOUR LOVE,Dave Simon,286566,super eurobeat,157.998,-4.335,0.955,0.458,10,1.53e-06,0.707,hype
+208,Love Generation - Extended mix,SUZY LAZY,333798,,152.14,-7.648,0.95,0.483,7,0.327,0.74,hype
+209,GOODBYE YELLOW BRICK ROAD,Wain L,272833,super eurobeat,149.076,-5.275,0.971,0.453,9,0.000976,0.662,hype
+210,Supertonic Lady - Extended Mix,MEGA NRG MAN,275500,"eurobeat, super eurobeat",149.005,-1.977,0.991,0.556,1,0.0,0.873,hype
+211,"Let'S Go, Come On - Extended Mix",Manuel,308466,super eurobeat,148.944,-2.051,0.989,0.519,0,3.9e-05,0.917,hype
+212,Don't Let Me Go,Luise,330742,,152.012,-6.219,0.998,0.54,6,0.00581,0.925,hype
+213,Heavensent,Ace,244389,super eurobeat,157.014,-6.362,0.956,0.445,1,0.0,0.36,hype
+214,TORA TORA TORA,DOMINO,255933,super eurobeat,148.016,-8.844,0.938,0.568,4,0.0151,0.961,hype
+215,Crazy for Love - Extended Version,Dusty,283960,eurobeat,159.994,-4.063,0.996,0.578,11,2.82e-05,0.522,hype
+216,I Won't Fall Apart - Eurobeat Version,Jager,257558,"eurobeat, super eurobeat",150.041,-4.331,0.999,0.456,4,2.48e-05,0.622,hype
+217,Call Me Through the Night - Extended Version,KEN BLAST,313757,"eurobeat, super eurobeat",157.017,-3.274,0.998,0.481,9,5.25e-06,0.793,hype
+218,Forever Young - Extended Mix,Symbol,380533,,157.961,-4.947,0.933,0.453,0,0.0,0.533,hype
+219,T-RRex - Extended,Maximum Power,306666,,161.95,-4.23,0.995,0.458,0,0.0262,0.832,hype
+220,Freedom Ride - Eurobeat Version,The Snake,252387,super eurobeat,155.043,-4.554,0.922,0.456,7,6.71e-06,0.474,hype
+221,メフィスト - Oshi No Ko - Eurobeat Version,LMR Eurobeat,222400,,149.969,-6.393,0.838,0.596,2,0.000343,0.821,hype
+222,Boom Boom Para Para - Extended Mix,Lou Grant,360656,super eurobeat,153.879,-2.636,0.995,0.448,9,4.42e-05,0.807,hype
+223,Super Rider,Mark Astley,253853,super eurobeat,157.003,-3.637,0.995,0.481,5,0.000351,0.969,hype
+224,King Of The World,David Dima,320506,"eurobeat, super eurobeat",151.989,-2.696,0.997,0.431,11,0.000327,0.833,hype
+225,Hot Hot Racing Car,Go2,270236,"eurobeat, super eurobeat",158.054,-4.737,0.998,0.48,9,0.000592,0.405,hype
+226,Energy love,Delta Queens,359907,super eurobeat,155.927,-6.515,0.968,0.597,11,0.0972,0.963,hype

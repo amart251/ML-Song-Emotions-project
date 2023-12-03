@@ -1,51 +1,226 @@
 ,track_name,artist,duration_ms,genres,tempo,loudness,energy,danceability,key,instrumentalness,valence,emotion
-0,Best Day Of My Life,American Authors,194240,"modern rock, pop rock",100.012,-2.392,0.902,0.673,2,0.000262,0.538,happy
-1,Watermelon Sugar,Harry Styles,174000,pop,95.39,-4.209,0.816,0.548,0,0.0,0.557,happy
-2,Everybody Talks,Neon Trees,177280,"modern rock, neo mellow, pop rock, pov: indie",154.961,-3.906,0.924,0.471,8,0.0,0.725,happy
-3,Feel So Close - Radio Edit,Calvin Harris,206413,"dance pop, edm, electro house, house, pop, pop dance, progressive house, uk dance",127.937,-2.842,0.924,0.707,7,0.00703,0.919,happy
-4,Levitating (feat. DaBaby),Dua Lipa,203064,"dance pop, pop, uk pop",102.977,-3.787,0.825,0.702,6,0.0,0.915,happy
-5,Cruel Summer,Taylor Swift,178426,pop,169.994,-5.707,0.702,0.552,9,2.06e-05,0.564,happy
-6,Here Comes The Sun - Remastered 2009,The Beatles,185733,"british invasion, classic rock, merseybeat, psychedelic rock, rock",129.171,-10.484,0.54,0.557,9,0.00248,0.394,happy
-7,Riptide,Vance Joy,204280,"folk-pop, modern rock",101.654,-6.694,0.731,0.484,1,0.0,0.51,happy
-8,Babydoll,Dominic Fike,97960,"alternative pop rock, pov: indie",168.007,-5.296,0.604,0.762,7,0.0,0.847,happy
-9,Electric Love,BØRNS,218106,"indie poptimism, modern alternative rock, modern rock, pov: indie",120.041,-7.627,0.797,0.611,6,0.00137,0.518,happy
-10,Brown Eyed Girl,Van Morrison,183306,"classic rock, folk, folk rock, heartland rock, mellow gold, rock, singer-songwriter, soft rock",150.566,-10.964,0.583,0.491,7,0.0,0.908,happy
-11,AOK,Tai Verdes,173640,"modern indie pop, singer-songwriter pop",82.488,-6.919,0.626,0.731,11,0.0,0.862,happy
-12,Sugar (feat. Francesco Yates),Robin Schulz,219043,"deep euro house, deep house, edm, german dance, pop dance, tropical house",123.063,-5.098,0.815,0.636,5,0.0,0.636,happy
-13,Sucker,Jonas Brothers,181026,"boy band, pop",137.958,-5.065,0.734,0.842,1,0.0,0.952,happy
-14,One Kiss (with Dua Lipa),Calvin Harris,214846,"dance pop, edm, electro house, house, pop, pop dance, progressive house, uk dance",123.994,-3.24,0.862,0.791,9,2.19e-05,0.592,happy
-15,Are You Bored Yet? (feat. Clairo),Wallows,178000,pov: indie,120.023,-6.444,0.683,0.682,8,2.32e-05,0.64,happy
-16,Three Little Birds,Bob Marley & The Wailers,180266,"reggae, roots reggae",74.126,-10.477,0.49,0.826,9,4.41e-06,0.627,happy
-17,Iko Iko (My Bestie),Justin Wellington,182857,"melanesian pop, pacific islands pop, png pop",105.039,-5.356,0.753,0.862,5,2.01e-06,0.827,happy
-18,Rude,MAGIC!,224840,"pop, reggae fusion",144.033,-4.993,0.758,0.773,1,0.0,0.925,happy
-19,Kiss Me More (feat. SZA),Doja Cat,208666,"dance pop, pop",110.97,-3.463,0.705,0.764,8,8.92e-05,0.781,happy
-20,Dance The Night - From Barbie The Album,Dua Lipa,176579,"dance pop, pop, uk pop",110.056,-4.93,0.845,0.671,11,0.0,0.775,happy
-21,Walking On Sunshine,Katrina & The Waves,238733,new wave pop,109.902,-11.97,0.869,0.596,10,0.173,0.944,happy
-22,Lush Life,Zara Larsson,201122,"pop, scandipop, swedish electropop, swedish pop",98.023,-3.923,0.712,0.694,7,0.0,0.799,happy
-23,Golden,Harry Styles,208906,pop,139.863,-5.257,0.838,0.448,4,0.000131,0.254,happy
-24,Weekends,Jonas Blue,127003,"pop, pop dance, tropical house, uk dance",148.979,-3.365,0.937,0.571,6,3.71e-05,0.607,happy
-25,The Spins,Mac Miller,195873,"hip hop, pittsburgh rap, pop rap, rap",127.006,-3.894,0.766,0.794,9,0.0,0.55,happy
-26,Green Green Grass,George Ezra,167613,"folk-pop, neo-singer-songwriter, talent show",112.972,-4.413,0.738,0.685,8,0.0,0.8,happy
-27,Sunday Best,Surfaces,158947,bedroom soul,112.003,-5.984,0.555,0.869,5,0.0,0.738,happy
-28,Run,OneRepublic,168259,"piano rock, pop",116.988,-8.176,0.72,0.682,11,0.0,0.649,happy
-29,Hard Times,Paramore,182693,"candy pop, modern rock, pixie, pop, pop emo, pop punk, rock",119.965,-5.379,0.818,0.695,5,4.87e-06,0.916,happy
-30,What You Know,Two Door Cinema Club,191706,"indie rock, indietronica, irish rock, modern alternative rock, modern rock, northern irish indie",139.0,-4.239,0.739,0.563,6,1.45e-05,0.775,happy
-31,Acapulco,Jason Derulo,139672,"dance pop, pop",122.062,-4.021,0.792,0.774,10,0.0,0.507,happy
-32,Levitating,Dua Lipa,203807,"dance pop, pop, uk pop",103.014,-2.278,0.884,0.695,6,0.0,0.914,happy
-33,Numb,Marshmello,155588,"brostep, edm, pop, progressive electro house",119.966,-4.673,0.774,0.912,0,0.0127,0.632,happy
-34,Words (feat. Zara Larsson),Alesso,142677,"dance pop, edm, pop, pop dance, progressive electro house",124.026,-5.079,0.586,0.739,10,0.000252,0.444,happy
-35,Lovers Rock,TV Girl,213920,pov: indie,104.97,-5.338,0.871,0.559,5,0.00545,0.572,happy
-36,"Sunflower, Vol. 6",Harry Styles,221826,pop,160.02,-6.904,0.846,0.566,7,0.000795,0.86,happy
-37,Funny Thing,Thundercat,116630,"afrofuturism, escape room, indie soul",140.023,-8.772,0.893,0.586,7,0.642,0.65,happy
-38,Budapest,George Ezra,200733,"folk-pop, neo-singer-songwriter, talent show",127.812,-8.303,0.455,0.717,5,0.0,0.389,happy
-39,More Than You Know,Axwell /\ Ingrosso,203000,"edm, pop dance",123.077,-4.973,0.741,0.646,5,0.0,0.571,happy
-40,Can I Call You Tonight?,Dayglow,278769,"austindie, indie rock, pov: indie",129.978,-7.27,0.842,0.641,9,0.911,0.499,happy
-41,BEST INTEREST,"Tyler, The Creator",127921,"hip hop, rap",98.265,-8.325,0.575,0.596,11,0.000153,0.34,happy
-42,Don't Call Me Up,Mabel,178480,"pop, uk pop",98.994,-2.853,0.881,0.674,9,3.01e-06,0.234,happy
-43,Anything You Want,JAWNY,123556,"bedroom pop, pov: indie",112.025,-4.75,0.78,0.798,6,0.0,0.929,happy
-44,"These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",Rudimental,211760,"pop dance, uk dance, uk funky",92.207,-4.084,0.798,0.654,0,0.0,0.574,happy
-45,Sundress,A$AP Rocky,158205,"east coast hip hop, hip hop, rap, trap",125.005,-6.364,0.707,0.721,6,3.68e-06,0.743,happy
-46,In the Summertime,Mungo Jerry,211880,"british blues, classic uk pop",82.751,-14.013,0.449,0.754,4,0.0,0.973,happy
-47,Island In The Sun,Weezer,200306,"alternative rock, modern power pop, modern rock, permanent wave, rock",114.623,-6.26,0.81,0.654,4,0.00251,0.661,happy
-48,Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers],Daft Punk,248413,"electro, filter house, rock",116.047,-8.966,0.811,0.794,6,1.07e-06,0.862,happy
-49,Saturday Sun,Vance Joy,214720,"folk-pop, modern rock",99.995,-4.381,0.864,0.637,8,0.0,0.706,happy
+0,Here Comes The Sun - Remastered 2009,The Beatles,185733,"british invasion, classic rock, merseybeat, psychedelic rock, rock",129.171,-10.484,0.54,0.557,9,0.00248,0.394,happy
+1,Send Me On My Way,Rusted Root,263360,"jam band, pittsburgh rock",119.463,-8.797,0.704,0.5,0,1.79e-05,0.722,happy
+2,"Signed, Sealed, Delivered (I'm Yours)",Stevie Wonder,161160,"motown, soul",108.875,-11.329,0.597,0.675,5,0.0,0.828,happy
+3,Hooked On A Feeling,Blue Swede,172866,classic swedish pop,118.208,-6.728,0.82,0.547,8,0.0,0.933,happy
+4,I'm a Believer - 2006 Remaster,The Monkees,167373,"album rock, beatlesque, bubblegum pop, classic rock, folk rock, heartland rock, mellow gold, psychedelic rock, rock-and-roll, singer-songwriter, soft rock, sunshine pop",80.106,-6.05,0.775,0.526,0,2.05e-05,0.962,happy
+5,Three Little Birds,Bob Marley & The Wailers,180266,"reggae, roots reggae",148.404,-10.493,0.482,0.814,9,1.57e-06,0.615,happy
+6,Superstition - Single Version,Stevie Wonder,245493,"motown, soul",100.499,-12.115,0.634,0.633,8,0.0064,0.872,happy
+7,Sweet Caroline,Neil Diamond,203573,"adult standards, brill building pop, folk rock, heartland rock, mellow gold, singer-songwriter, soft rock, yacht rock",63.05,-16.066,0.127,0.529,11,0.000109,0.578,happy
+8,Jessie's Girl,Rick Springfield,194120,"album rock, australian rock, classic rock, glam metal, hard rock, heartland rock, mellow gold, new romantic, new wave pop, soft rock, yacht rock",131.7,-5.851,0.834,0.727,2,0.0,0.816,happy
+9,Stayin' Alive,Bee Gees,285373,"disco, mellow gold, soft rock",103.564,-7.179,0.826,0.703,10,0.00629,0.945,happy
+10,Sir Duke,Stevie Wonder,232760,"motown, soul",106.938,-9.766,0.568,0.588,6,0.0,0.952,happy
+11,Take on Me,a-ha,225280,"new romantic, new wave, new wave pop, permanent wave, synthpop",84.412,-7.638,0.902,0.573,6,0.00125,0.876,happy
+12,Stuck In The Middle With You,Stealers Wheel,208946,folk rock,123.765,-9.144,0.575,0.82,7,0.000135,0.964,happy
+13,Piano Man,Billy Joel,339000,"album rock, classic rock, heartland rock, mellow gold, piano rock, rock, singer-songwriter, soft rock",177.734,-6.483,0.55,0.331,0,3.96e-06,0.429,happy
+14,Africa,TOTO,295893,"album rock, classic rock, hard rock, mellow gold, rock, soft rock, yacht rock",92.718,-18.064,0.373,0.671,9,8.01e-05,0.732,happy
+15,All Star,Smash Mouth,200373,"pop rock, post-grunge",104.019,-5.881,0.867,0.731,11,0.0,0.776,happy
+16,Should I Stay or Should I Go - Remastered,The Clash,188986,"alternative rock, permanent wave, punk, rock",113.375,-6.465,0.836,0.743,2,0.0,0.82,happy
+17,We Built This City,Starship,296080,"album rock, classic rock, mellow gold, new romantic, new wave pop, soft rock, synthpop",144.091,-4.897,0.908,0.661,5,0.0,0.656,happy
+18,Kung Fu Fighting,Carl Douglas,197693,,102.034,-10.431,0.673,0.598,2,6.9e-05,0.59,happy
+19,Hey Ya!,Outkast,235213,"atl hip hop, dirty south rap, hip hop, old school atlanta hip hop, rap, southern hip hop",79.526,-2.261,0.974,0.727,4,0.000532,0.965,happy
+20,I'm Gonna Be (500 Miles),The Proclaimers,219466,"celtic rock, scottish rock",131.922,-5.177,0.551,0.851,4,0.0,0.807,happy
+21,I Want To Hold Your Hand - Remastered 2015,The Beatles,145746,"british invasion, classic rock, merseybeat, psychedelic rock, rock",130.726,-5.549,0.715,0.49,7,0.0,0.866,happy
+22,More Than a Feeling,Boston,285133,"album rock, classic rock, glam metal, hard rock, mellow gold, rock, soft rock",108.789,-8.039,0.681,0.377,7,0.0023,0.285,happy
+23,Love Me Do - Remastered 2009,The Beatles,141693,"british invasion, classic rock, merseybeat, psychedelic rock, rock",147.997,-6.228,0.829,0.52,0,6.2e-05,0.744,happy
+24,Start Me Up - Remastered 2009,The Rolling Stones,213066,"album rock, british invasion, classic rock, rock",122.429,-4.142,0.932,0.631,5,0.137,0.971,happy
+25,Highway to Hell,AC/DC,208400,"australian rock, hard rock, rock",115.728,-4.793,0.913,0.574,6,0.00158,0.423,happy
+26,Livin' On A Prayer,Bon Jovi,249293,"glam metal, rock",122.511,-3.757,0.887,0.532,0,0.000214,0.795,happy
+27,Daylight,Matt and Kim,171333,"brooklyn indie, indietronica, modern rock, shimmer pop",103.303,-4.92,0.798,0.57,9,0.000128,0.671,happy
+28,Home - 2019 - Remaster,Edward Sharpe & The Magnetic Zeros,306373,"la indie, stomp and holler",111.615,-5.759,0.634,0.53,2,0.000622,0.106,happy
+29,One Love / People Get Ready - Medley,Bob Marley & The Wailers,172933,"reggae, roots reggae",76.292,-9.593,0.523,0.725,10,0.0,0.95,happy
+30,Free Fallin',Tom Petty,256000,"album rock, classic rock, hard rock, heartland rock, mellow gold, rock, singer-songwriter, soft rock",84.383,-13.333,0.449,0.623,5,0.0,0.572,happy
+31,Eye of the Tiger,Survivor,243773,"album rock, glam metal, hard rock, soft rock",108.965,-14.522,0.438,0.815,0,0.000466,0.552,happy
+32,(I Can't Get No) Satisfaction - Mono Version,The Rolling Stones,222813,"album rock, british invasion, classic rock, rock",136.302,-7.89,0.863,0.723,2,0.0317,0.931,happy
+33,Don't You (Forget About Me),Simple Minds,263040,"album rock, dance rock, new romantic, new wave, new wave pop, rock, scottish new wave, soft rock",111.346,-6.61,0.816,0.66,2,0.0181,0.678,happy
+34,We Didn't Start the Fire,Billy Joel,287733,"album rock, classic rock, heartland rock, mellow gold, piano rock, rock, singer-songwriter, soft rock",145.024,-5.206,0.967,0.712,7,0.0,0.895,happy
+35,Billie Jean,Michael Jackson,293826,"r&b, soul",117.046,-3.051,0.654,0.92,11,0.0153,0.847,happy
+36,Carry on Wayward Son,Kansas,323000,"album rock, classic rock, hard rock, heartland rock, mellow gold, progressive rock, rock, soft rock",126.755,-5.735,0.786,0.482,7,8.88e-05,0.793,happy
+37,Mr. Jones,Counting Crows,272293,"neo mellow, pop rock, post-grunge, rock",141.621,-6.542,0.817,0.578,0,3.06e-06,0.726,happy
+38,You Really Got Me,The Kinks,131573,"album rock, art rock, british invasion, classic rock, folk rock, glam rock, protopunk, psychedelic rock, rock, singer-songwriter",137.382,-6.441,0.939,0.573,8,0.0,0.963,happy
+39,Rockin' Robin,Bobby Day,160080,"doo-wop, rock-and-roll",171.992,-13.083,0.608,0.541,7,0.0,0.938,happy
+40,One Week,Barenaked Ladies,169760,"canadian pop, canadian rock, pop rock, post-grunge",112.845,-6.003,0.898,0.702,9,0.000154,0.731,happy
+41,Wild World,Yusuf / Cat Stevens,200173,"british folk, classic rock, folk, folk rock, mellow gold, singer-songwriter",151.867,-9.308,0.508,0.484,0,0.000791,0.554,happy
+42,Jack & Diane,John Mellencamp,254493,"album rock, classic rock, country rock, folk rock, hard rock, heartland rock, mellow gold, rock, singer-songwriter, soft rock",103.965,-8.214,0.41,0.811,9,6.63e-06,0.626,happy
+43,Fat Bottomed Girls - Remastered 2011,Queen,255600,"classic rock, glam rock, rock",88.772,-7.674,0.684,0.337,2,6.57e-06,0.404,happy
+44,You Give Love A Bad Name,Bon Jovi,222706,"glam metal, rock",122.803,-2.947,0.96,0.541,0,2.25e-06,0.812,happy
+45,Don't Stop Me Now - Remastered 2011,Queen,209413,"classic rock, glam rock, rock",156.271,-5.277,0.865,0.563,5,0.000191,0.601,happy
+46,Under Pressure - Remastered 2011,Queen,248440,"classic rock, glam rock, rock",113.809,-7.813,0.711,0.671,2,0.0,0.466,happy
+47,Somebody To Love - Remastered 2011,Queen,296493,"classic rock, glam rock, rock",111.539,-7.024,0.693,0.497,8,0.0,0.358,happy
+48,Upside Down,Jack Johnson,208653,neo mellow,102.485,-8.339,0.655,0.787,6,0.000171,0.65,happy
+49,Johnny B. Goode,Chuck Berry,161560,"blues, blues rock, classic rock, rock, rock-and-roll, rockabilly, soul",167.983,-9.129,0.803,0.534,10,6.07e-05,0.969,happy
+50,Jailhouse Rock,Elvis Presley,146480,"rock-and-roll, rockabilly",167.396,-9.538,0.582,0.647,10,1.93e-06,0.915,happy
+51,Crocodile Rock,Elton John,235440,"glam rock, mellow gold, piano rock, rock",149.91,-7.284,0.8,0.621,4,1.51e-05,0.968,happy
+52,Old Time Rock & Roll,Bob Seger,194146,"album rock, classic rock, country rock, detroit rock, hard rock, heartland rock, mellow gold, rock, singer-songwriter, soft rock",124.13,-2.947,0.937,0.714,6,0.0,0.964,happy
+53,Magic Carpet Ride,Steppenwolf,271573,"acid rock, album rock, blues rock, classic canadian rock, classic rock, hard rock, proto-metal, rock, singer-songwriter, soft rock",111.676,-14.981,0.651,0.64,4,0.28,0.801,happy
+54,Semi-Charmed Life,Third Eye Blind,268360,"alternative metal, alternative rock, pop rock, post-grunge",102.026,-6.576,0.864,0.64,7,0.0,0.701,happy
+55,All Summer Long,Kid Rock,297586,nu metal,102.997,-3.629,0.864,0.7,7,0.0,0.887,happy
+56,"Paint It, Black",The Rolling Stones,202266,"album rock, british invasion, classic rock, rock",158.691,-9.267,0.795,0.464,1,0.00244,0.612,happy
+57,Play That Funky Music,Wild Cherry,300000,"disco, funk rock",109.394,-12.068,0.672,0.814,9,0.0,0.933,happy
+58,Sherry,Frankie Valli & The Four Seasons,152160,"adult standards, bubblegum pop, doo-wop, lounge, northern soul, rock-and-roll, rockabilly",117.564,-8.072,0.471,0.701,0,0.0,0.69,happy
+59,"Bad, Bad Leroy Brown",Jim Croce,182240,"classic rock, country rock, folk, folk rock, heartland rock, mellow gold, singer-songwriter, soft rock",148.072,-10.742,0.676,0.697,7,0.0,0.852,happy
+60,Landslide,Fleetwood Mac,199493,"album rock, classic rock, rock, soft rock, yacht rock",159.375,-22.32,0.161,0.414,7,0.000223,0.423,happy
+61,Drops of Jupiter (Tell Me),Train,259933,"dance pop, neo mellow, pop, pop rock",79.064,-5.862,0.638,0.481,0,0.0,0.497,happy
+62,Cat's in the Cradle,Harry Chapin,222951,"classic rock, country rock, folk, folk rock, heartland rock, mellow gold, singer-songwriter, soft rock",78.111,-9.766,0.578,0.489,10,0.0,0.511,happy
+63,Juke Box Hero,Foreigner,259800,"album rock, classic rock, glam metal, hard rock, heartland rock, mellow gold, rock, soft rock",176.647,-5.554,0.653,0.357,9,0.0,0.522,happy
+64,Glory Days,Bruce Springsteen,254733,"heartland rock, mellow gold, permanent wave, rock, singer-songwriter",117.486,-4.906,0.96,0.574,9,0.0,0.978,happy
+65,Splish Splash,Bobby Darin,131719,"adult standards, easy listening, lounge, rock-and-roll, vocal jazz",147.768,-1.526,0.943,0.645,0,0.0,0.965,happy
+66,Big Girls Don't Cry,Frankie Valli & The Four Seasons,148013,"adult standards, bubblegum pop, doo-wop, lounge, northern soul, rock-and-roll, rockabilly",130.276,-5.023,0.84,0.764,2,8.64e-06,0.843,happy
+67,Takin' Care Of Business,Bachman-Turner Overdrive,289893,"album rock, classic canadian rock, classic rock, country rock, folk rock, hard rock, mellow gold, rock, singer-songwriter, soft rock",129.985,-14.007,0.703,0.724,5,2.69e-06,0.965,happy
+68,The Chain - 2004 Remaster,Fleetwood Mac,270213,"album rock, classic rock, rock, soft rock, yacht rock",151.553,-8.81,0.67,0.545,9,0.000822,0.481,happy
+69,You Ain't Seen Nothing Yet,Bachman-Turner Overdrive,234866,"album rock, classic canadian rock, classic rock, country rock, folk rock, hard rock, mellow gold, rock, singer-songwriter, soft rock",118.392,-15.039,0.439,0.475,11,0.000277,0.76,happy
+70,(We're Gonna) Rock Around The Clock,Bill Haley & His Comets,129893,"rock-and-roll, rockabilly",90.686,-6.317,0.859,0.811,9,3.73e-06,0.784,happy
+71,Love Potion No. 9 - Remastered / Single Version,The Clovers,113200,"doo-wop, rhythm and blues, rock-and-roll",128.853,-12.949,0.451,0.738,7,0.0,0.793,happy
+72,Ain't That A Shame,Fats Domino,152200,"louisiana blues, motown, new orleans blues, piano blues, rock-and-roll, rockabilly",122.894,-8.57,0.501,0.486,4,7.6e-05,0.942,happy
+73,Unchained Melody,The Righteous Brothers,218013,"adult standards, brill building pop, folk rock, motown, rock-and-roll, rockabilly",98.54,-16.725,0.208,0.339,0,0.000519,0.288,happy
+74,We Belong Together,Ritchie Valens,116626,"rock-and-roll, rockabilly",106.522,-13.71,0.247,0.684,5,0.000166,0.768,happy
+75,I've Got a Woman,Ray Charles,171466,"classic soul, jazz blues, piano blues, soul, soul blues, vocal jazz",199.373,-4.729,0.61,0.556,9,2.22e-06,0.665,happy
+76,Do You Wanna Dance,Bobby Freeman,156160,"doo-wop, rhythm and blues, rock-and-roll",170.14,-13.04,0.566,0.502,0,6.61e-05,0.969,happy
+77,Rama Lama Ding Dong (Original version 1958),The Edsels,147720,"doo-wop, rhythm and blues",122.465,-7.056,0.709,0.609,1,1.05e-05,0.949,happy
+78,Chapel of Love,The Dixie Cups,170874,"classic girl group, doo-wop, rock-and-roll",124.63,-10.269,0.354,0.593,9,0.0,0.793,happy
+79,I Walk the Line,Johnny Cash,176533,"arkansas country, outlaw country, rock",98.805,-14.59,0.258,0.713,9,0.00606,0.56,happy
+80,New Shoes,Paolo Nutini,203653,"british soul, neo mellow, scottish singer-songwriter",150.04,-8.692,0.735,0.748,8,1.09e-05,0.854,happy
+81,I Get's My Boogie On,T Bird and the Breaks,250408,austindie,96.633,-5.671,0.733,0.683,9,8.53e-06,0.719,happy
+82,The General,DISPATCH,246920,"jam band, modern folk rock",91.09,-6.136,0.675,0.541,10,0.0,0.686,happy
+83,Right Back Where We Started From,Maxine Nightingale,192266,classic uk pop,148.018,-5.715,0.653,0.692,5,0.00707,0.901,happy
+84,If You Could Read My Mind,Gordon Lightfoot,229560,"canadian country, canadian singer-songwriter, classic rock, country rock, folk, folk rock, heartland rock, mellow gold, singer-songwriter, soft rock",122.631,-12.402,0.252,0.603,2,6.96e-05,0.179,happy
+85,Smile,Lily Allen,196893,"dance pop, electropop",95.506,-5.938,0.639,0.632,5,0.0,0.733,happy
+86,Mr. Blue Sky,Electric Light Orchestra,303373,"album rock, art rock, beatlesque, classic rock, glam rock, mellow gold, rock, soft rock, symphonic rock",177.765,-10.054,0.338,0.388,10,3.73e-06,0.478,happy
+87,No Rain,Blind Melon,217106,"alternative metal, alternative rock, grunge, pop rock, rock",148.117,-9.342,0.476,0.389,9,5.09e-05,0.566,happy
+88,What's Up?,4 Non Blondes,295533,"new wave pop, pop rock",134.355,-10.044,0.564,0.565,2,0.0,0.454,happy
+89,Supermodel,Jill Sobule,187533,"ectofolk, lilith",115.197,-7.808,0.799,0.524,7,0.00436,0.55,happy
+90,Alright,Supergrass,180880,"alternative rock, britpop, oxford indie",145.92,-4.808,0.958,0.467,4,0.199,0.701,happy
+91,One Way Or Another,Blondie,217364,"candy pop, new wave pop, permanent wave, power pop, rock, synthpop",162.272,-5.086,0.922,0.442,2,3.86e-06,0.855,happy
+92,Twist And Shout - Remastered 2009,The Beatles,155226,"british invasion, classic rock, merseybeat, psychedelic rock, rock",124.631,-9.198,0.849,0.482,2,7.74e-06,0.937,happy
+93,Sweet Dreams (Are Made of This) - Remastered,Eurythmics,216933,"dance rock, new romantic, new wave, new wave pop, soft rock, sophisti-pop, synthpop",125.135,-7.498,0.711,0.692,0,0.0,0.875,happy
+94,Never Going Back Again - 2004 Remaster,Fleetwood Mac,134400,"album rock, classic rock, rock, soft rock, yacht rock",176.083,-12.825,0.336,0.654,6,0.385,0.947,happy
+95,Diamonds On The Inside,Ben Harper,266906,"neo mellow, pastoral",77.882,-6.477,0.735,0.527,10,2.3e-05,0.729,happy
+96,Like Dreamers Do,The Radiators,242960,"new orleans funk, swamp rock",95.411,-9.867,0.772,0.524,5,0.0339,0.961,happy
+97,Pride and Joy,Stevie Ray Vaughan,219586,"album rock, blues, blues rock, classic rock, electric blues, hard rock, heartland rock, instrumental rock, rock, texas blues",126.877,-11.821,0.626,0.427,8,0.00395,0.743,happy
+98,Ophelia,The Lumineers,160097,"folk-pop, modern rock, stomp and holler",76.023,-6.519,0.573,0.664,5,0.000363,0.566,happy
+99,Kiss from a Rose,Seal,288426,"british soul, new wave pop",131.745,-7.11,0.533,0.584,10,0.0,0.224,happy
+100,Say It Ain't So,Weezer,258826,"alternative rock, modern power pop, modern rock, permanent wave, rock",151.779,-7.136,0.551,0.634,3,1.82e-05,0.453,happy
+101,"Hey, Hey, What Can I Do - Remaster",Led Zeppelin,236760,"album rock, classic rock, hard rock, rock",77.987,-9.639,0.858,0.468,1,0.000304,0.526,happy
+102,Snow (Hey Oh),Red Hot Chili Peppers,334666,"alternative rock, funk metal, funk rock, permanent wave, rock",104.655,-3.674,0.9,0.427,11,1.75e-05,0.599,happy
+103,We're Going To Be Friends,The White Stripes,142226,"alternative rock, blues rock, detroit rock, garage rock, modern blues rock, permanent wave, punk blues, rock",97.213,-5.499,0.459,0.533,7,0.0,0.386,happy
+104,Can't You See,The Marshall Tucker Band,362933,"album rock, classic rock, country rock, mellow gold, singer-songwriter, soft rock, southern rock",164.128,-12.297,0.49,0.416,7,0.00106,0.534,happy
+105,Brown Eyed Girl,Van Morrison,183306,"classic rock, folk, folk rock, heartland rock, mellow gold, rock, singer-songwriter, soft rock",150.566,-10.964,0.583,0.491,7,0.0,0.908,happy
+106,Break My Stride,Matthew Wilder,184480,new wave pop,110.077,-11.047,0.588,0.917,10,0.0,0.828,happy
+107,Island In The Sun,Weezer,200306,"alternative rock, modern power pop, modern rock, permanent wave, rock",114.623,-6.26,0.81,0.654,4,0.00251,0.661,happy
+108,Fever,Peggy Lee,199600,"adult standards, torch song, vocal jazz",135.925,-12.614,0.171,0.838,4,0.0,0.397,happy
+109,Seven Nation Army,The White Stripes,231733,"alternative rock, blues rock, detroit rock, garage rock, modern blues rock, permanent wave, punk blues, rock",123.881,-7.828,0.463,0.726,0,0.447,0.321,happy
+110,Waiting On the World to Change,John Mayer,201173,"neo mellow, singer-songwriter",176.739,-5.82,0.756,0.578,2,0.000232,0.663,happy
+111,Dog Days Are Over,Florence + The Machine,251840,"baroque pop, electropop, modern rock, uk alternative pop",149.954,-5.315,0.81,0.492,7,0.00379,0.245,happy
+112,Forget You,CeeLo Green,222733,atl hip hop,127.39,-3.682,0.875,0.696,0,0.0,0.772,happy
+113,"Rocket Man (I Think It's Going To Be A Long, Long Time)",Elton John,281613,"glam rock, mellow gold, piano rock, rock",136.571,-9.119,0.532,0.601,10,6.25e-06,0.341,happy
+114,You Are a Tourist,Death Cab for Cutie,286653,"alternative rock, canadian indie, chamber pop, indie rock, indietronica, modern rock, seattle indie, washington indie",95.16,-7.566,0.872,0.569,2,0.144,0.661,happy
+115,California Dreamin' - Single Version,The Mamas & The Papas,162373,"classic rock, folk, folk rock, mellow gold, psychedelic rock, rock, soft rock, sunshine pop",112.367,-9.786,0.608,0.552,1,0.0,0.637,happy
+116,Candy,Robbie Williams,201053,"dance rock, europop",116.043,-6.63,0.791,0.715,10,0.0,0.879,happy
+117,Lovely Day,Bill Withers,254560,"classic soul, funk, quiet storm, soul",97.923,-8.267,0.651,0.692,9,0.00241,0.706,happy
+118,American Pie,Don McLean,516893,"classic rock, folk, folk rock, heartland rock, mellow gold, singer-songwriter, soft rock",138.45,-11.709,0.481,0.531,4,0.0,0.491,happy
+119,You Make My Dreams (Come True),Daryl Hall & John Oates,190626,"album rock, classic rock, heartland rock, mellow gold, rock, singer-songwriter, soft rock, yacht rock",167.057,-12.151,0.501,0.751,5,0.112,0.902,happy
+120,Spirit In The Sky - Deluxe Edition,Norman Greenbaum,242893,classic rock,128.903,-7.091,0.617,0.609,9,0.00404,0.543,happy
+121,Escape (The Pina Colada Song),Rupert Holmes,276493,yacht rock,138.714,-13.668,0.509,0.836,0,4.1e-06,0.949,happy
+122,Uptown Girl,Billy Joel,197706,"album rock, classic rock, heartland rock, mellow gold, piano rock, rock, singer-songwriter, soft rock",128.993,-2.986,0.944,0.701,4,0.0,0.792,happy
+123,Tiny Dancer,Elton John,377093,"glam rock, mellow gold, piano rock, rock",145.075,-11.097,0.428,0.414,0,0.000243,0.282,happy
+124,Centerfold,The J. Geils Band,216533,"album rock, classic rock, country rock, hard rock, mellow gold, rock, singer-songwriter, soft rock",114.37,-12.244,0.677,0.653,0,0.0,0.888,happy
+125,A Little Less Conversation,Elvis Presley,132013,"rock-and-roll, rockabilly",114.172,-8.03,0.802,0.584,2,0.0,0.835,happy
+126,Love Shack,The B-52's,320680,"album rock, classic rock, dance rock, new romantic, new wave, new wave pop, permanent wave, post-punk, rock, zolo",133.608,-6.786,0.803,0.701,5,1.54e-06,0.903,happy
+127,Don't Stop Believin',Journey,250986,"album rock, classic rock, hard rock, heartland rock, mellow gold, rock, soft rock",118.852,-9.072,0.748,0.5,4,0.0,0.514,happy
+128,You Sexy Thing,Hot Chocolate,244920,disco,105.853,-5.465,0.733,0.791,5,0.0016,0.962,happy
+129,Walking on Sunshine - 2004 Version,Katrina & The Waves,216000,new wave pop,109.014,-7.255,0.943,0.595,10,0.288,0.961,happy
+130,Longview,Green Day,233240,"modern rock, permanent wave, punk, rock",142.504,-7.594,0.732,0.381,10,0.0101,0.814,happy
+131,Just Breathe,Pearl Jam,215853,"alternative metal, alternative rock, grunge, permanent wave, rock",107.791,-11.077,0.349,0.453,0,7.94e-05,0.302,happy
+132,Steal My Kisses,Ben Harper And The Innocent Criminals,245360,modern folk rock,101.019,-11.396,0.56,0.914,7,0.0214,0.87,happy
+133,Peace Frog,The Doors,170132,"acid rock, album rock, classic rock, hard rock, psychedelic rock, rock",112.529,-7.376,0.725,0.641,7,0.00321,0.808,happy
+134,Peace Train,Yusuf / Cat Stevens,251333,"british folk, classic rock, folk, folk rock, mellow gold, singer-songwriter",82.492,-10.422,0.582,0.61,0,3.76e-05,0.781,happy
+135,Come On Eileen,Dexys Midnight Runners,287306,"new romantic, new wave, new wave pop",106.61,-7.049,0.656,0.45,2,3.02e-06,0.782,happy
+136,Good Vibrations - Remastered 2001,The Beach Boys,219026,"baroque pop, classic rock, folk rock, mellow gold, psychedelic rock, rock, sunshine pop",133.449,-7.67,0.473,0.396,10,0.000124,0.385,happy
+137,What Makes A Good Man?,The Heavy,226380,"bath indie, modern blues rock",186.15,-4.265,0.803,0.456,2,0.000368,0.333,happy
+138,This Love,Maroon 5,206200,pop,95.051,-4.612,0.862,0.712,5,0.0,0.809,happy
+139,What A Wonderful World,Louis Armstrong,139226,"adult standards, dixieland, harlem renaissance, jazz trumpet, new orleans jazz, soul, swing, vocal jazz",77.082,-20.652,0.165,0.271,5,1.6e-06,0.203,happy
+140,Smells Like Teen Spirit,Nirvana,301920,"grunge, permanent wave, rock",116.761,-4.556,0.912,0.502,1,0.000173,0.72,happy
+141,Ants Marching,Dave Matthews Band,271186,"jam band, neo mellow, pop rock",113.32,-4.34,0.856,0.637,2,1.99e-05,0.846,happy
+142,Bitter Sweet Symphony - Remastered 2016,The Verve,357266,"britpop, permanent wave, rock, shoegaze",171.176,-6.006,0.917,0.356,9,0.0,0.518,happy
+143,Cecilia,Simon & Garfunkel,174826,"classic rock, folk, folk rock, melancholia, mellow gold, rock, soft rock",102.762,-8.867,0.876,0.755,0,5.17e-06,0.954,happy
+144,Message In A Bottle - Remastered 2003,The Police,290280,"album rock, classic rock, permanent wave, rock",151.006,-7.024,0.81,0.582,1,1.68e-05,0.875,happy
+145,Someone New,Hozier,222813,"irish singer-songwriter, modern rock, pov: indie",183.791,-5.956,0.533,0.443,7,3.66e-06,0.596,happy
+146,In the Summertime,Mungo Jerry,215800,"british blues, classic uk pop",164.421,-8.567,0.65,0.642,4,0.0,0.973,happy
+147,F.N.T.,Semisonic,209960,"pop rock, post-grunge",99.823,-6.954,0.773,0.537,11,0.00492,0.647,happy
+148,How to Save a Life,The Fray,262533,"neo mellow, piano rock, pop, pop rock",122.035,-4.08,0.743,0.64,10,0.0,0.361,happy
+149,Are You Gonna Be My Girl,Jet,213800,"garage rock, modern rock, pop rock",105.046,-3.435,0.953,0.613,2,0.000582,0.537,happy
+150,Beautiful Day,U2,246400,"irish rock, permanent wave, rock",136.279,-6.495,0.926,0.539,2,0.00136,0.454,happy
+151,All For You,Sister Hazel,218706,"neo mellow, pop rock, post-grunge",137.047,-6.495,0.754,0.633,8,2.27e-05,0.641,happy
+152,Pinball Wizard,The Who,180943,"album rock, british invasion, classic rock, hard rock, rock",124.011,-8.89,0.715,0.543,2,0.0,0.468,happy
+153,Any Way You Want It,Journey,201693,"album rock, classic rock, hard rock, heartland rock, mellow gold, rock, soft rock",138.158,-7.501,0.932,0.529,7,0.00109,0.571,happy
+154,Dani California,Red Hot Chili Peppers,282160,"alternative rock, funk metal, funk rock, permanent wave, rock",96.184,-2.36,0.913,0.556,0,8.59e-06,0.73,happy
+155,Iris,The Goo Goo Dolls,289533,"neo mellow, permanent wave, pop rock, post-grunge",155.925,-8.072,0.715,0.315,11,7.97e-06,0.497,happy
+156,Shut Up and Dance,WALK THE MOON,199080,"dance rock, modern alternative rock, modern rock, neo mellow, pop rock",128.038,-3.804,0.866,0.578,1,0.0,0.619,happy
+157,What I Like About You,The Romantics,175266,"album rock, classic rock, heartland rock, mellow gold, new romantic, new wave, new wave pop, power pop, soft rock",159.847,-8.433,0.942,0.514,9,6.6e-05,0.912,happy
+158,"December, 1963 (Oh What a Night!)",Frankie Valli & The Four Seasons,197146,"adult standards, bubblegum pop, doo-wop, lounge, northern soul, rock-and-roll, rockabilly",104.409,-13.489,0.495,0.737,1,9.12e-06,0.967,happy
+159,Don't Bring Me Down,Electric Light Orchestra,243373,"album rock, art rock, beatlesque, classic rock, glam rock, mellow gold, rock, soft rock, symphonic rock",115.692,-6.469,0.867,0.638,2,0.000733,0.805,happy
+160,Runaway Baby,Bruno Mars,148448,"dance pop, pop",163.864,-3.028,0.762,0.658,10,0.0,0.823,happy
+161,"Layla - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",Eric Clapton,289026,"album rock, blues rock, classic rock, electric blues, mellow gold, rock, singer-songwriter, soft rock",93.654,-11.626,0.524,0.558,2,0.000952,0.636,happy
+162,The Perfect Space,The Avett Brothers,271080,"indie folk, new americana, north carolina indie, north carolina roots, progressive bluegrass, stomp and holler",112.559,-9.148,0.217,0.392,0,0.00375,0.111,happy
+163,My Sharona,The Knack,295400,"album rock, classic rock, hard rock, heartland rock, mellow gold, new wave, new wave pop, power pop, soft rock",147.245,-9.558,0.7,0.586,0,0.00125,0.897,happy
+164,Blister In The Sun,Violent Femmes,145706,"acoustic punk, alternative rock, punk",96.889,-8.896,0.537,0.726,0,0.0,0.882,happy
+165,Turning Japanese - Non Stop Edit,The Vapors,224106,"mod revival, new wave",179.929,-5.845,0.908,0.503,0,7.88e-05,0.92,happy
+166,Over the Hills and Far Away - Remaster,Led Zeppelin,290933,"album rock, classic rock, hard rock, rock",96.95,-10.274,0.691,0.402,7,0.133,0.206,happy
+167,Naked Eye,Luscious Jackson,280693,"alternative pop, lilith",131.022,-10.962,0.657,0.737,4,0.0339,0.76,happy
+168,Better Days (And the Bottom Drops Out),Citizen King,207026,,94.911,-3.311,0.896,0.758,9,3.18e-05,0.797,happy
+169,I Want To Break Free - Remastered 2011,Queen,258013,"classic rock, glam rock, rock",108.947,-8.927,0.433,0.795,4,0.000284,0.6,happy
+170,Drift Away - Single Version,Dobie Gray,237466,northern soul,76.228,-8.188,0.443,0.521,11,0.0,0.596,happy
+171,Rich Girl,Daryl Hall & John Oates,142786,"album rock, classic rock, heartland rock, mellow gold, rock, singer-songwriter, soft rock, yacht rock",169.519,-6.644,0.683,0.573,5,0.0,0.817,happy
+172,Me and Julio Down by the Schoolyard,Paul Simon,164813,"classic rock, folk, folk rock, mellow gold, permanent wave, rock, singer-songwriter, soft rock",105.307,-10.593,0.816,0.626,9,1.8e-06,0.798,happy
+173,Wonderwall,Oasis,258906,"beatlesque, britpop, madchester, permanent wave, rock",174.584,-5.609,0.854,0.41,2,0.0,0.456,happy
+174,Only Wanna Be With You,Hootie & The Blowfish,229586,"heartland rock, pop rock, post-grunge",103.272,-5.861,0.873,0.49,6,5.19e-06,0.513,happy
+175,You Can Call Me Al,Paul Simon,280000,"classic rock, folk, folk rock, mellow gold, permanent wave, rock, singer-songwriter, soft rock",128.433,-8.124,0.763,0.776,5,0.00647,0.82,happy
+176,Kids In America,The Muffs,198400,"alternative pop, power-pop punk, riot grrrl",165.04,-6.692,0.827,0.35,1,0.000125,0.475,happy
+177,Under the Bridge,Red Hot Chili Peppers,264306,"alternative rock, funk metal, funk rock, permanent wave, rock",84.581,-13.496,0.345,0.559,4,0.000105,0.458,happy
+178,Breakfast At Tiffany's,Deep Blue Something,257373,pop rock,110.367,-5.548,0.829,0.622,2,0.0,0.539,happy
+179,AOK,Tai Verdes,173640,"modern indie pop, singer-songwriter pop",82.488,-6.919,0.626,0.731,11,0.0,0.862,happy
+180,Run-Around,Blues Traveler,279800,"heartland rock, jam band, pop rock, post-grunge",151.695,-7.307,0.867,0.629,7,0.0,0.876,happy
+181,Big Yellow Taxi,Counting Crows,225573,"neo mellow, pop rock, post-grunge, rock",88.041,-4.341,0.866,0.678,1,0.0,0.842,happy
+182,Ventura Highway,America,211386,"album rock, classic rock, folk rock, heartland rock, mellow gold, soft rock",130.771,-10.205,0.581,0.673,2,0.000206,0.818,happy
+183,Wouldn't It Be Nice,The Beach Boys,153205,"baroque pop, classic rock, folk rock, mellow gold, psychedelic rock, rock, sunshine pop",124.511,-7.056,0.629,0.392,5,3.76e-06,0.72,happy
+184,Life Is A Highway,Tom Cochrane,266080,"canadian singer-songwriter, classic canadian rock, mellow gold",103.051,-3.455,0.897,0.683,5,5.18e-06,0.752,happy
+185,Shine,Collective Soul,306040,"alternative rock, grunge, nu metal, pop rock, post-grunge, rock",150.132,-8.797,0.423,0.543,6,0.0862,0.355,happy
+186,Sweet Home Alabama,Lynyrd Skynyrd,283800,"album rock, classic rock, hard rock, rock, southern rock",97.798,-12.145,0.605,0.596,7,0.000331,0.886,happy
+187,Bad Moon Rising,Creedence Clearwater Revival,141600,"classic rock, country rock, rock, southern rock, swamp rock",178.946,-5.973,0.774,0.508,2,4.87e-06,0.942,happy
+188,Jane Says,Jane's Addiction,287000,"alternative metal, alternative rock, funk metal, funk rock, grunge, nu metal, permanent wave, rock",81.806,-9.258,0.597,0.402,2,2.09e-06,0.496,happy
+189,Man in the Mirror,Michael Jackson,319306,"r&b, soul",100.338,-5.639,0.798,0.794,8,1.16e-05,0.265,happy
+190,Skating Away (On the Thin Ice of the New Day),Jethro Tull,236293,"album rock, art rock, blues rock, classic rock, flute rock, folk rock, hard rock, progressive rock, psychedelic rock, rock, singer-songwriter, symphonic rock",83.673,-10.886,0.428,0.52,5,0.0,0.753,happy
+191,Ten Thousand Words,The Avett Brothers,336000,"indie folk, new americana, north carolina indie, north carolina roots, progressive bluegrass, stomp and holler",154.14,-12.079,0.29,0.479,7,0.000331,0.374,happy
+192,Good as Hell,Lizzo,159735,"escape room, minnesota hip hop, pop, trap queen",95.982,-3.18,0.919,0.682,0,0.0,0.535,happy
+193,Get Down Tonight - 2004 Remaster,KC & The Sunshine Band,317160,"disco, mellow gold, new wave pop, soft rock, soul",112.629,-11.414,0.776,0.671,10,0.00649,0.92,happy
+194,Gonna Fly Now,Bill Conti,170240,"classic soundtrack, theme",95.121,-12.71,0.538,0.415,9,0.767,0.449,happy
+195,Out Loud (Live),DISPATCH,212160,"jam band, modern folk rock",80.953,-7.931,0.262,0.678,4,0.0,0.231,happy
+196,I Just Want To Celebrate,Rare Earth,217560,"blues rock, classic rock, country rock, psychedelic rock, psychedelic soul, southern rock",175.448,-7.7,0.929,0.435,9,1.58e-06,0.65,happy
+197,Friday I'm in Love,The Cure,214400,"new wave, permanent wave, rock, uk post-punk",136.203,-12.437,0.762,0.526,0,0.000116,0.505,happy
+198,(Don't Fear) The Reaper,Blue Öyster Cult,308120,"album rock, classic rock, glam metal, hard rock, progressive rock, rock",141.466,-8.55,0.927,0.333,9,0.000208,0.385,happy
+199,Like a Stone,Audioslave,293960,"alternative metal, alternative rock, grunge, hard rock, nu metal, permanent wave, post-grunge, rock, supergroup",107.849,-5.477,0.568,0.614,7,0.0,0.516,happy
+200,Hell N Back,Bakar,213573,uk alternative hip hop,210.164,-4.314,0.684,0.584,10,9.05e-05,0.72,happy
+201,Go Your Own Way - 2004 Remaster,Fleetwood Mac,223613,"album rock, classic rock, rock, soft rock, yacht rock",135.448,-5.12,0.947,0.583,5,0.00109,0.803,happy
+202,Don't Stop - 2004 Remaster,Fleetwood Mac,193346,"album rock, classic rock, rock, soft rock, yacht rock",118.745,-7.724,0.71,0.671,9,1.12e-05,0.834,happy
+203,Lola - 2020 Stereo Remaster,The Kinks,241991,"album rock, art rock, british invasion, classic rock, folk rock, glam rock, protopunk, psychedelic rock, rock, singer-songwriter",151.333,-4.602,0.894,0.456,9,0.485,0.926,happy
+204,You Can't Always Get What You Want,The Rolling Stones,448720,"album rock, british invasion, classic rock, rock",86.327,-9.686,0.62,0.32,0,6.36e-05,0.472,happy
+205,Werewolves of London,Warren Zevon,209466,"country rock, folk, folk rock, heartland rock, piano rock, roots rock, singer-songwriter",103.538,-8.72,0.62,0.75,7,0.0135,0.93,happy
+206,It's Still Rock and Roll to Me,Billy Joel,176440,"album rock, classic rock, heartland rock, mellow gold, piano rock, rock, singer-songwriter, soft rock",141.075,-7.599,0.684,0.752,0,0.0,0.539,happy
+207,Born to Run,Bruce Springsteen,269920,"heartland rock, mellow gold, permanent wave, rock, singer-songwriter",146.347,-4.199,0.944,0.27,4,2.05e-05,0.606,happy
+208,Kokomo,The Beach Boys,217692,"baroque pop, classic rock, folk rock, mellow gold, psychedelic rock, rock, sunshine pop",115.584,-10.05,0.635,0.682,0,0.0,0.927,happy
+209,Hard Sun,Eddie Vedder,322080,"acoustic rock, grunge, permanent wave",143.377,-6.531,0.827,0.438,8,0.000402,0.645,happy
+210,Stand Up,The Revivalists,231053,modern alternative rock,188.153,-5.116,0.864,0.55,5,5.56e-05,0.551,happy
+211,Astronauts,Quietkid,185196,,127.097,-5.4,0.89,0.706,6,0.000468,0.73,happy
+212,Holiday Road,The Frank & Todd Show,155173,,199.75,-4.017,0.629,0.218,5,0.0,0.336,happy
+213,Closer to Fine,Indigo Girls,241600,"ectofolk, folk, lilith, singer-songwriter, women's music",98.339,-6.349,0.677,0.54,9,0.0,0.748,happy
+214,Everything's Alright,Yvonne Elliman,314737,,133.055,-8.263,0.58,0.41,4,0.0,0.548,happy
+215,The Joker,Steve Miller Band,264503,"album rock, classic rock, hard rock, heartland rock, mellow gold, rock, singer-songwriter, soft rock",83.293,-9.616,0.448,0.596,5,5.3e-06,0.796,happy
+216,Baba O'Riley,The Who,300400,"album rock, british invasion, classic rock, hard rock, rock",117.292,-8.367,0.724,0.489,5,0.185,0.15,happy
+217,Listen to the Music,The Doobie Brothers,227266,"album rock, classic rock, country rock, folk rock, heartland rock, mellow gold, rock, singer-songwriter, soft rock, yacht rock",105.929,-13.18,0.598,0.645,1,3.53e-06,0.913,happy
+218,"If I Had $1,000,000",Barenaked Ladies,266733,"canadian pop, canadian rock, pop rock, post-grunge",80.161,-14.016,0.433,0.644,9,0.0,0.761,happy
+219,Something Beautiful,NEEDTOBREATHE,220613,"ccm, christian alternative rock, christian indie, christian music, folk-pop",95.98,-5.036,0.817,0.527,1,2.04e-05,0.516,happy
+220,The Boys Are Back In Town,Thin Lizzy,266720,"album rock, blues rock, classic rock, glam metal, hard rock, irish rock, metal, rock",80.823,-9.803,0.706,0.445,8,0.000252,0.768,happy
+221,Dead Man's Party,Oingo Boingo,381626,"dance rock, new romantic, new wave, zolo",161.261,-10.984,0.863,0.568,1,0.000137,0.923,happy
+222,Low Rider,War,191560,"classic soul, funk, motown, p funk, soul",139.787,-10.989,0.647,0.811,0,0.681,0.99,happy
+223,"Long Black Veil - Live at Continental Airlines Arena, East Rutherford, NJ - September 1999",Dave Matthews Band,524493,"jam band, neo mellow, pop rock",90.421,-9.746,0.535,0.5,0,0.0568,0.0597,happy
+224,Fireball (feat. John Ryan),Pitbull,235012,"dance pop, miami hip hop, pop",122.951,-5.393,0.937,0.69,10,0.000104,0.794,happy

@@ -4,12 +4,11 @@ import numpy as np
 import pandas as pd
 from sklearn.metrics import classification_report
 from sklearn.model_selection import train_test_split
-from sklearn.tree import DecisionTreeClassifier
 from sklearn.neural_network import MLPClassifier
+from sklearn.tree import DecisionTreeClassifier
 
 from spotify_integration import (get_artist_genres, get_playlist_tracks,
                                  get_token, get_track_features)
-
 
 
 ## just keep in mind this is a template or starter code, needs more refinement

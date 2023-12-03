@@ -1,51 +1,221 @@
 ,track_name,artist,duration_ms,genres,tempo,loudness,energy,danceability,key,instrumentalness,valence,emotion
-0,Someone You Loved,Lewis Capaldi,182160,"pop, uk pop",109.891,-5.679,0.405,0.501,1,0.0,0.446,sad
-1,Falling,Harry Styles,240133,pop,110.011,-6.502,0.267,0.567,4,1.46e-06,0.0592,sad
-2,Daylight,David Kushner,212953,gen z singer-songwriter,130.09,-9.475,0.43,0.508,2,0.000441,0.324,sad
-3,Heather,Conan Gray,198040,"bedroom pop, pop, pov: indie",102.078,-7.301,0.425,0.357,5,0.0,0.27,sad
-4,favorite crime,Olivia Rodrigo,152666,pop,172.929,-10.497,0.272,0.369,9,0.0,0.218,sad
-5,Atlantis,Seafret,229173,folk-pop,166.159,-7.989,0.479,0.4,8,2.14e-06,0.213,sad
-6,Train Wreck,James Arthur,208826,"pop, talent show, uk pop",77.355,-5.726,0.485,0.311,6,0.0,0.225,sad
-7,"What Was I Made For? [From The Motion Picture ""Barbie""]",Billie Eilish,222369,"art pop, pop",78.403,-17.665,0.0911,0.444,0,1.05e-06,0.142,sad
-8,Love In The Dark,Adele,285935,"british soul, pop, pop soul, uk pop",109.821,-6.057,0.341,0.331,9,0.0,0.152,sad
-9,Colapso,Kevin Kaarl,235470,indie triste,75.004,-17.237,0.216,0.544,7,0.311,0.145,sad
-10,Ya Me Enteré,Reik,204173,"latin arena pop, latin pop, mexican pop, reggaeton, urbano latino",131.981,-5.449,0.452,0.619,9,0.0,0.174,sad
-11,Bruises,Lewis Capaldi,220492,"pop, uk pop",111.202,-7.83,0.308,0.736,4,0.0,0.361,sad
-12,Sign of the Times,Harry Styles,340706,pop,119.972,-4.63,0.595,0.516,5,0.0,0.222,sad
-13,Je te laisserai des mots,Patrick Watson,160853,"indie folk, indie quebecois",132.731,-16.757,0.187,0.303,2,0.489,0.213,sad
-14,In My Room,Chance Peña,177609,singer-songwriter pop,133.943,-13.626,0.338,0.408,4,0.000639,0.1,sad
-15,happier,Olivia Rodrigo,175933,pop,168.924,-9.72,0.443,0.395,6,9.67e-06,0.338,sad
-16,rises the moon,Liana Flores,161929,pov: indie,137.35,-20.149,0.129,0.483,5,0.145,0.203,sad
-17,Can I Be Him,James Arthur,246880,"pop, talent show, uk pop",107.969,-6.164,0.543,0.696,11,0.0,0.479,sad
-18,lovely (with Khalid),Billie Eilish,200185,"art pop, pop",115.284,-10.109,0.296,0.351,4,0.0,0.12,sad
-19,Muak,Aruma,264939,indonesian pop,82.973,-10.791,0.32,0.265,2,0.000146,0.185,sad
-20,Rosyln,Bon Iver,289560,"chamber pop, eau claire indie, indie folk, melancholia, modern rock",159.719,-13.111,0.277,0.329,10,0.024,0.121,sad
-21,Rosas,La Oreja de Van Gogh,236506,"latin arena pop, latin pop, mexican pop, spanish pop, spanish pop rock",107.01,-5.008,0.685,0.783,9,3.49e-06,0.54,sad
-22,Hold Me While You Wait,Lewis Capaldi,205686,"pop, uk pop",106.958,-5.507,0.53,0.688,11,0.0,0.162,sad
-23,My Love Mine All Mine,Mitski,137773,"brooklyn indie, pov: indie",113.95,-14.958,0.308,0.504,9,0.135,0.121,sad
-24,tolerate it,Taylor Swift,245440,pop,74.952,-10.381,0.361,0.316,9,2.67e-05,0.221,sad
-25,Stars Will Fall,Duster,118160,slowcore,96.41,-13.076,0.13,0.432,9,0.965,0.0741,sad
-26,traitor,Olivia Rodrigo,229226,pop,100.607,-7.885,0.339,0.38,3,0.0,0.0849,sad
-27,Me Soltaste,Jesse & Joy,229933,"latin arena pop, latin pop, mexican pop",111.661,-6.038,0.398,0.4,10,3.47e-06,0.16,sad
-28,A Thousand Years,James Arthur,254316,"pop, talent show, uk pop",138.935,-6.323,0.472,0.529,2,0.0,0.269,sad
-29,TV,Billie Eilish,281380,"art pop, pop",140.214,-15.159,0.236,0.412,4,0.00653,0.119,sad
-30,Watching Him Fade Away,Mac DeMarco,143080,"edmonton indie, lo-fi indie, pov: indie",139.081,-17.984,0.072,0.74,3,0.00698,0.297,sad
-31,Mr. Forgettable,David Kushner,187293,gen z singer-songwriter,144.689,-9.23,0.412,0.564,8,0.0,0.29,sad
-32,Losing Interest,itssvd,120546,"lo-fi chill, sad lo-fi",111.863,-13.295,0.355,0.753,8,0.87,0.506,sad
-33,The Other Woman,Lana Del Rey,181960,"art pop, pop",111.67,-6.43,0.468,0.255,7,0.248,0.175,sad
-34,Lo Que Construimos,Natalia Lafourcade,279213,"cantautora mexicana, latin alternative, latin pop, mexican pop, rock en espanol, veracruz indie",127.981,-9.718,0.287,0.667,0,3.61e-06,0.545,sad
-35,Arcade,Duncan Laurence,185146,dutch pop,72.017,-11.639,0.35,0.453,9,0.00122,0.279,sad
-36,Funeral,Phoebe Bridgers,232373,"indie pop, la indie, pov: indie",170.724,-14.416,0.263,0.218,11,0.00028,0.307,sad
-37,"1 step forward, 3 steps back",Olivia Rodrigo,163586,pop,168.884,-12.627,0.203,0.473,2,0.0,0.419,sad
-38,¡Corre!,Jesse & Joy,288893,"latin arena pop, latin pop, mexican pop",151.97,-6.886,0.477,0.479,11,0.0,0.127,sad
-39,What A Time (feat. Niall Horan),Julia Michaels,173306,pop,132.861,-6.184,0.467,0.516,0,0.0,0.386,sad
-40,Bored,Billie Eilish,180933,"art pop, pop",119.959,-12.695,0.318,0.614,7,0.00239,0.112,sad
-41,Skinny Love,Birdy,201080,"neo mellow, uk pop",166.467,-8.485,0.29,0.379,4,0.00106,0.169,sad
-42,Manos de Tijera,Camilo,267271,"colombian pop, latin pop, latin viral pop, reggaeton colombiano",138.472,-7.486,0.309,0.562,11,0.0,0.497,sad
-43,From the Dining Table,Harry Styles,211960,pop,94.08,-16.288,0.156,0.671,8,0.0518,0.201,sad
-44,Reckless,Madison Beer,203384,pop,180.104,-6.642,0.426,0.386,3,0.0,0.261,sad
-45,No Surprises,Radiohead,229120,"alternative rock, art rock, melancholia, oxford indie, permanent wave, rock",76.426,-10.654,0.393,0.255,5,0.00361,0.118,sad
-46,Older,Sasha Alex Sloan,191001,alt z,64.002,-9.599,0.292,0.681,11,0.0,0.162,sad
-47,Say You Won't Let Go,James Arthur,211466,"pop, talent show, uk pop",85.043,-7.398,0.557,0.358,10,0.0,0.494,sad
-48,drivers license,Olivia Rodrigo,242013,pop,143.875,-8.81,0.431,0.561,10,1.42e-05,0.137,sad
-49,Turning Page,Sleeping At Last,255893,"acoustic pop, ambient worship, chamber pop",115.241,-8.498,0.371,0.307,3,0.0253,0.189,sad
+0,SAD!,XXXTENTACION,166605,"emo rap, miami hip hop",75.023,-4.88,0.613,0.74,8,0.00372,0.473,sad
+1,Moonlight,XXXTENTACION,135090,"emo rap, miami hip hop",128.009,-5.723,0.537,0.921,9,0.00404,0.711,sad
+2,changes,XXXTENTACION,121886,"emo rap, miami hip hop",64.934,-10.068,0.308,0.669,11,0.0,0.52,sad
+3,Fuck Love,XXXTENTACION,146520,"emo rap, miami hip hop",131.036,-9.74,0.533,0.797,0,0.000152,0.329,sad
+4,Jaded,Drake,262453,"canadian hip hop, canadian pop, hip hop, pop rap, rap",116.019,-5.697,0.271,0.764,0,0.0,0.0371,sad
+5,The Sequence,Bryson Tiller,194013,"kentucky hip hop, r&b, rap",131.194,-8.504,0.498,0.529,1,0.0,0.54,sad
+6,Nights,Frank Ocean,307151,"lgbtq+ hip hop, neo soul",89.87,-9.36,0.551,0.457,5,1.15e-06,0.428,sad
+7,Coloring,Kevin Garrett,219973,"nyc pop, pittsburgh indie",76.025,-10.075,0.264,0.645,0,0.064,0.221,sad
+8,the remedy for a broken heart (why am I so in love),XXXTENTACION,160184,"emo rap, miami hip hop",119.705,-11.192,0.304,0.699,1,0.000993,0.271,sad
+9,NUMB,XXXTENTACION,186267,"emo rap, miami hip hop",159.91,-8.024,0.416,0.414,11,0.179,0.196,sad
+10,Hope,XXXTENTACION,110886,"emo rap, miami hip hop",146.04,-6.081,0.457,0.592,9,0.000331,0.225,sad
+11,Depression & Obsession,XXXTENTACION,144733,"emo rap, miami hip hop",105.95,-10.7,0.156,0.769,11,0.015,0.527,sad
+12,Everybody Dies In Their Nightmares,XXXTENTACION,95466,"emo rap, miami hip hop",129.953,-7.066,0.57,0.734,7,2.14e-05,0.689,sad
+13,Jocelyn Flores,XXXTENTACION,119133,"emo rap, miami hip hop",134.021,-9.144,0.391,0.872,0,4.13e-06,0.437,sad
+14,Over My Dead Body,Drake,272573,"canadian hip hop, canadian pop, hip hop, pop rap, rap",185.516,-10.291,0.57,0.489,1,2.1e-06,0.584,sad
+15,Shot For Me,Drake,224720,"canadian hip hop, canadian pop, hip hop, pop rap, rap",143.015,-11.714,0.465,0.566,2,0.0,0.177,sad
+16,Take Care,Drake,277386,"canadian hip hop, canadian pop, hip hop, pop rap, rap",121.845,-10.358,0.515,0.629,0,1.22e-05,0.299,sad
+17,Cameras / Good Ones Go Interlude - Medley,Drake,434960,"canadian hip hop, canadian pop, hip hop, pop rap, rap",139.92,-11.18,0.403,0.441,2,1.27e-05,0.158,sad
+18,Doing It Wrong,Drake,265120,"canadian hip hop, canadian pop, hip hop, pop rap, rap",101.275,-15.698,0.172,0.397,6,6.78e-05,0.123,sad
+19,The Real Her,Drake,321080,"canadian hip hop, canadian pop, hip hop, pop rap, rap",65.041,-14.254,0.309,0.567,8,0.0,0.509,sad
+20,Look What You've Done,Drake,301960,"canadian hip hop, canadian pop, hip hop, pop rap, rap",134.369,-14.669,0.351,0.495,3,0.0,0.271,sad
+21,Practice,Drake,237733,"canadian hip hop, canadian pop, hip hop, pop rap, rap",104.675,-15.327,0.239,0.446,1,7.76e-05,0.31,sad
+22,The Ride,Drake,351000,"canadian hip hop, canadian pop, hip hop, pop rap, rap",155.948,-10.079,0.702,0.556,0,0.0,0.793,sad
+23,Redemption,Drake,333946,"canadian hip hop, canadian pop, hip hop, pop rap, rap",119.905,-7.82,0.314,0.694,0,2.07e-06,0.341,sad
+24,U With Me?,Drake,297373,"canadian hip hop, canadian pop, hip hop, pop rap, rap",174.983,-11.373,0.43,0.429,2,1.18e-05,0.125,sad
+25,Fire & Desire,Drake,238120,"canadian hip hop, canadian pop, hip hop, pop rap, rap",79.923,-14.411,0.252,0.722,1,0.0,0.275,sad
+26,The Resistance,Drake,225360,"canadian hip hop, canadian pop, hip hop, pop rap, rap",82.589,-8.127,0.741,0.547,0,0.0,0.637,sad
+27,Own It,Drake,251973,"canadian hip hop, canadian pop, hip hop, pop rap, rap",103.064,-11.305,0.342,0.654,8,3.37e-05,0.294,sad
+28,Jungle,Drake,320400,"canadian hip hop, canadian pop, hip hop, pop rap, rap",99.947,-8.651,0.235,0.697,7,0.000144,0.378,sad
+29,Lose You,Drake,305373,"canadian hip hop, canadian pop, hip hop, pop rap, rap",89.837,-9.172,0.583,0.526,4,0.0,0.378,sad
+30,Finesse,Drake,182080,"canadian hip hop, canadian pop, hip hop, pop rap, rap",94.992,-8.152,0.319,0.807,0,0.000338,0.299,sad
+31,March 14,Drake,309560,"canadian hip hop, canadian pop, hip hop, pop rap, rap",127.094,-7.355,0.414,0.558,10,0.0,0.318,sad
+32,Summer Games,Drake,247893,"canadian hip hop, canadian pop, hip hop, pop rap, rap",136.008,-11.269,0.482,0.776,1,0.0456,0.134,sad
+33,Exchange,Bryson Tiller,194613,"kentucky hip hop, r&b, rap",160.108,-10.598,0.433,0.525,6,0.0,0.276,sad
+34,Don't,Bryson Tiller,198293,"kentucky hip hop, r&b, rap",96.991,-5.556,0.356,0.765,11,0.0,0.189,sad
+35,Run Me Dry,Bryson Tiller,169266,"kentucky hip hop, r&b, rap",193.88,-9.017,0.756,0.646,9,3e-05,0.602,sad
+36,Canceled,Bryson Tiller,183960,"kentucky hip hop, r&b, rap",94.034,-5.173,0.611,0.767,5,0.0116,0.11,sad
+37,Right My Wrongs,Bryson Tiller,249320,"kentucky hip hop, r&b, rap",132.609,-8.065,0.449,0.543,1,0.0,0.29,sad
+38,Let Em' Know,Bryson Tiller,261880,"kentucky hip hop, r&b, rap",110.551,-11.44,0.406,0.489,9,0.0,0.178,sad
+39,For However Long,Bryson Tiller,124853,"kentucky hip hop, r&b, rap",100.033,-6.788,0.644,0.584,5,0.0,0.415,sad
+40,Sorry Not Sorry,Bryson Tiller,200760,"kentucky hip hop, r&b, rap",97.934,-6.093,0.608,0.681,1,0.0,0.262,sad
+41,Been That Way,Bryson Tiller,199320,"kentucky hip hop, r&b, rap",183.279,-6.475,0.759,0.527,6,0.0,0.802,sad
+42,Overtime,Bryson Tiller,218253,"kentucky hip hop, r&b, rap",106.049,-7.689,0.497,0.657,1,0.0,0.593,sad
+43,Call Out My Name,The Weeknd,228373,"canadian contemporary r&b, canadian pop, pop",134.045,-4.929,0.598,0.489,1,0.0,0.172,sad
+44,Wasted Times,The Weeknd,220293,"canadian contemporary r&b, canadian pop, pop",122.699,-6.049,0.674,0.562,10,2.04e-05,0.293,sad
+45,Die For You,The Weeknd,260252,"canadian contemporary r&b, canadian pop, pop",133.249,-7.163,0.525,0.582,1,0.0,0.51,sad
+46,True Colors,The Weeknd,206013,"canadian contemporary r&b, canadian pop, pop",76.671,-8.237,0.424,0.624,1,0.0,0.584,sad
+47,Acquainted,The Weeknd,348853,"canadian contemporary r&b, canadian pop, pop",105.36,-9.874,0.481,0.38,7,0.0,0.237,sad
+48,PRBLMS,6LACK,246773,"atl hip hop, melodic rap, r&b, rap, trap",68.58,-4.574,0.58,0.417,9,1.45e-06,0.139,sad
+49,Never Know,6LACK,249680,"atl hip hop, melodic rap, r&b, rap, trap",95.223,-9.021,0.571,0.645,5,3.32e-06,0.184,sad
+50,Rules,6LACK,211866,"atl hip hop, melodic rap, r&b, rap, trap",147.045,-6.13,0.758,0.682,8,0.00158,0.638,sad
+51,Free,6LACK,263013,"atl hip hop, melodic rap, r&b, rap, trap",123.961,-5.088,0.535,0.755,2,4.99e-06,0.38,sad
+52,Learn Ya,6LACK,215680,"atl hip hop, melodic rap, r&b, rap, trap",81.576,-8.692,0.527,0.416,0,0.00312,0.202,sad
+53,MTFU,6LACK,208320,"atl hip hop, melodic rap, r&b, rap, trap",111.838,-10.181,0.488,0.467,10,2.81e-05,0.267,sad
+54,Luving U,6LACK,252893,"atl hip hop, melodic rap, r&b, rap, trap",121.962,-9.506,0.471,0.723,10,0.000881,0.135,sad
+55,Gettin' Old,6LACK,215000,"atl hip hop, melodic rap, r&b, rap, trap",80.01,-12.369,0.4,0.743,11,0.000311,0.229,sad
+56,Worst Luck,6LACK,206133,"atl hip hop, melodic rap, r&b, rap, trap",177.869,-9.244,0.518,0.327,5,0.000795,0.153,sad
+57,Ex Calling,6LACK,211960,"atl hip hop, melodic rap, r&b, rap, trap",155.976,-7.241,0.564,0.773,1,1.99e-05,0.0588,sad
+58,Alone / EA6,6LACK,553853,"atl hip hop, melodic rap, r&b, rap, trap",124.767,-7.642,0.66,0.448,9,0.000465,0.119,sad
+59,One Way (feat. T-Pain) - Bonus,6LACK,286956,"atl hip hop, melodic rap, r&b, rap, trap",184.061,-8.911,0.406,0.425,4,3.59e-06,0.124,sad
+60,Coaster,Khalid,199120,"pop, pop r&b",94.021,-14.586,0.219,0.441,8,0.0,0.244,sad
+61,Triste,Bryant Myers,264905,"reggaeton, reggaeton flow, trap latino, urbano latino",130.05,-5.379,0.724,0.693,9,0.0,0.263,sad
+62,Te Vas,Ozuna,196520,"puerto rican pop, reggaeton, trap latino, urbano latino",176.03,-11.894,0.291,0.796,5,0.0,0.923,sad
+63,Amorfoda,Bad Bunny,155675,"reggaeton, trap latino, urbano latino",148.005,-7.539,0.432,0.742,9,5.78e-05,0.252,sad
+64,East Atlanta Love Letter (feat. Future),6LACK,246088,"atl hip hop, melodic rap, r&b, rap, trap",61.381,-11.947,0.315,0.581,5,1.68e-05,0.185,sad
+65,Could've Been (feat. Bryson Tiller),H.E.R.,248466,"r&b, rap",103.553,-11.719,0.33,0.545,1,7e-06,0.399,sad
+66,With Me,dvsn,419500,"canadian contemporary r&b, r&b",110.011,-8.651,0.466,0.771,0,0.000761,0.245,sad
+67,All Girls Are The Same,Juice WRLD,169295,"chicago rap, melodic rap, rap",161.925,-9.727,0.449,0.673,0,0.00115,0.216,sad
+68,Hallucinations,dvsn,246293,"canadian contemporary r&b, r&b",95.976,-8.993,0.398,0.765,7,8.48e-06,0.348,sad
+69,Think About Me,dvsn,246240,"canadian contemporary r&b, r&b",105.027,-10.202,0.294,0.547,7,0.786,0.11,sad
+70,Body Talk,Majid Jordan,207057,"canadian contemporary r&b, canadian hip hop",91.979,-8.916,0.507,0.789,6,0.0,0.226,sad
+71,OG Heartthrob,Majid Jordan,268693,"canadian contemporary r&b, canadian hip hop",99.985,-10.451,0.415,0.698,8,0.0,0.321,sad
+72,Gave Your Love Away,Majid Jordan,285160,"canadian contemporary r&b, canadian hip hop",100.989,-5.487,0.47,0.826,5,0.00337,0.541,sad
+73,What You Do to Me,Majid Jordan,216280,"canadian contemporary r&b, canadian hip hop",101.726,-12.363,0.337,0.728,2,0.0,0.21,sad
+74,Why,Roy Woods,262343,"canadian contemporary r&b, canadian hip hop",158.061,-6.115,0.468,0.577,4,0.00838,0.237,sad
+75,Down Girl,Roy Woods,169604,"canadian contemporary r&b, canadian hip hop",102.069,-9.214,0.507,0.797,1,0.0,0.447,sad
+76,How I Feel,Roy Woods,223880,"canadian contemporary r&b, canadian hip hop",112.045,-8.912,0.466,0.8,0,0.00308,0.0778,sad
+77,Gwan Big up Urself,Roy Woods,200000,"canadian contemporary r&b, canadian hip hop",90.027,-7.397,0.527,0.674,5,0.0,0.272,sad
+78,You Love It,Roy Woods,186358,"canadian contemporary r&b, canadian hip hop",136.014,-10.391,0.572,0.559,6,1.67e-05,0.216,sad
+79,Sonic Boom,Roy Woods,184874,"canadian contemporary r&b, canadian hip hop",141.961,-10.134,0.437,0.409,5,0.0193,0.149,sad
+80,Love You,Roy Woods,197720,"canadian contemporary r&b, canadian hip hop",203.893,-10.414,0.399,0.541,11,6.02e-05,0.392,sad
+81,Come Thru,Drake,236360,"canadian hip hop, canadian pop, hip hop, pop rap, rap",81.94,-5.815,0.468,0.472,3,0.0,0.404,sad
+82,Feel No Ways,Drake,240653,"canadian hip hop, canadian pop, hip hop, pop rap, rap",193.818,-7.081,0.677,0.582,7,6.6e-06,0.205,sad
+83,Best I Ever Had,Drake,257760,"canadian hip hop, canadian pop, hip hop, pop rap, rap",161.776,-4.874,0.861,0.427,1,0.0,0.581,sad
+84,Furthest Thing,Drake,267373,"canadian hip hop, canadian pop, hip hop, pop rap, rap",137.101,-5.264,0.78,0.484,9,0.0,0.271,sad
+85,Too Good,Drake,263373,"canadian hip hop, canadian pop, hip hop, pop rap, rap",117.996,-7.839,0.653,0.794,7,4.88e-05,0.397,sad
+86,Close Friends (Lil Baby & Gunna),Lil Baby,203881,"atl hip hop, atl trap, rap, trap",158.896,-4.669,0.578,0.676,10,0.0,0.698,sad
+87,Let Me Explain,Bryson Tiller,223969,"kentucky hip hop, r&b, rap",120.065,-3.201,0.504,0.809,2,0.0,0.525,sad
+88,Wicked Games,The Weeknd,323746,"canadian contemporary r&b, canadian pop, pop",114.078,-5.197,0.591,0.658,9,5.27e-06,0.326,sad
+89,She Knows About Me,Roy Woods,220408,"canadian contemporary r&b, canadian hip hop",81.656,-7.407,0.541,0.445,9,0.0,0.377,sad
+90,Come and See Me (feat. Drake),PARTYNEXTDOOR,235477,"r&b, rap, urban contemporary",84.987,-10.265,0.347,0.717,11,2.43e-06,0.0589,sad
+91,The Morning,The Weeknd,312426,"canadian contemporary r&b, canadian pop, pop",120.073,-7.555,0.549,0.652,6,0.0,0.186,sad
+92,Menace,Roy Woods,293703,"canadian contemporary r&b, canadian hip hop",100.014,-9.516,0.398,0.73,0,0.018,0.394,sad
+93,Often,The Weeknd,249040,"canadian contemporary r&b, canadian pop, pop",134.078,-9.836,0.631,0.572,7,0.0,0.0713,sad
+94,The Hills,The Weeknd,242253,"canadian contemporary r&b, canadian pop, pop",113.003,-7.063,0.564,0.585,0,0.0,0.137,sad
+95,Tell Your Friends,The Weeknd,334333,"canadian contemporary r&b, canadian pop, pop",74.64,-11.091,0.454,0.583,1,0.0,0.309,sad
+96,High For This,The Weeknd,247226,"canadian contemporary r&b, canadian pop, pop",74.95,-8.895,0.403,0.465,11,0.000667,0.0687,sad
+97,The Zone,The Weeknd,418506,"canadian contemporary r&b, canadian pop, pop",139.886,-8.092,0.521,0.619,3,0.000542,0.254,sad
+98,The Birds Pt. 1,The Weeknd,214186,"canadian contemporary r&b, canadian pop, pop",127.937,-6.656,0.692,0.571,0,0.0,0.22,sad
+99,Earned It (Fifty Shades Of Grey),The Weeknd,277680,"canadian contemporary r&b, canadian pop, pop",119.829,-8.275,0.291,0.659,2,0.0,0.406,sad
+100,Twenty Eight,The Weeknd,258453,"canadian contemporary r&b, canadian pop, pop",129.996,-7.338,0.633,0.639,3,0.000218,0.243,sad
+101,Marvins Room,Drake,347586,"canadian hip hop, canadian pop, hip hop, pop rap, rap",168.068,-17.448,0.254,0.412,9,0.00124,0.332,sad
+102,LOVE. FEAT. ZACARI.,Kendrick Lamar,213400,"conscious hip hop, hip hop, rap, west coast rap",126.058,-7.343,0.585,0.8,10,0.0,0.779,sad
+103,Drama (feat. Drake),Roy Woods,251859,"canadian contemporary r&b, canadian hip hop",122.043,-9.814,0.362,0.709,11,0.0,0.113,sad
+104,Let's Get Lost (feat. Devon Baldwin),G-Eazy,240680,"indie pop rap, oakland hip hop, pop rap, rap",117.96,-9.188,0.672,0.671,4,3.98e-05,0.186,sad
+105,Sure Thing,Miguel,195373,"r&b, urban contemporary",81.001,-8.127,0.607,0.684,11,0.000307,0.498,sad
+106,Hurt You,The Weeknd,230026,"canadian contemporary r&b, canadian pop, pop",184.131,-7.193,0.716,0.484,5,0.00214,0.365,sad
+107,First Fuck,6LACK,205489,"atl hip hop, melodic rap, r&b, rap, trap",88.449,-9.753,0.315,0.35,3,2.82e-06,0.427,sad
+108,Switch,Roy Woods,201305,"canadian contemporary r&b, canadian hip hop",91.04,-8.863,0.406,0.671,1,0.000324,0.409,sad
+109,Pretty Little Fears (feat. J. Cole),6LACK,240341,"atl hip hop, melodic rap, r&b, rap, trap",192.099,-11.336,0.458,0.61,9,0.000103,0.246,sad
+110,Thinkin Bout You,Frank Ocean,200746,"lgbtq+ hip hop, neo soul",129.83,-11.195,0.339,0.721,0,0.00153,0.2,sad
+111,Power Trip (feat. Miguel),J. Cole,241160,"conscious hip hop, hip hop, north carolina hip hop, rap",99.991,-7.054,0.61,0.667,1,0.000203,0.465,sad
+112,Priorities,Sy Ari Da Kid,342318,pop r&b,95.617,-22.147,0.0851,0.458,4,0.0,0.201,sad
+113,Stuck on Stupid - Edit,NO1-NOAH,225720,trap soul,138.249,-6.67,0.478,0.663,5,0.0,0.418,sad
+114,FaceTime for 30,NO1-NOAH,209160,trap soul,107.806,-7.677,0.591,0.707,8,0.0,0.116,sad
+115,Alone Pt. 2 (Here We Go Again),NO1-NOAH,320853,trap soul,81.664,-11.642,0.352,0.365,11,2.9e-05,0.123,sad
+116,Moonlight,Juice Thekid,183451,,146.38,-9.553,0.5,0.591,11,0.0,0.234,sad
+117,She's Mine Pt. 2,J. Cole,278920,"conscious hip hop, hip hop, north carolina hip hop, rap",70.031,-15.265,0.194,0.486,2,0.00624,0.048,sad
+118,Say It,Tory Lanez,237786,"canadian hip hop, canadian trap, melodic rap, pop rap, r&b, rap, trap",107.331,-10.511,0.529,0.546,11,6.5e-06,0.247,sad
+119,Fear,Drake,280626,"canadian hip hop, canadian pop, hip hop, pop rap, rap",86.704,-6.086,0.763,0.464,9,0.0,0.299,sad
+120,Find Your Love,Drake,208946,"canadian hip hop, canadian pop, hip hop, pop rap, rap",96.038,-6.006,0.614,0.627,6,0.0,0.758,sad
+121,Shut It Down,Drake,419306,"canadian hip hop, canadian pop, hip hop, pop rap, rap",119.905,-9.298,0.434,0.59,9,0.0,0.399,sad
+122,Diamonds Dancing,Drake,314631,"canadian hip hop, canadian pop, hip hop, pop rap, rap",136.036,-10.847,0.358,0.51,1,3.74e-05,0.171,sad
+123,BAD!,XXXTENTACION,94245,"emo rap, miami hip hop",143.983,-3.4,0.492,0.78,5,0.0313,0.374,sad
+124,Say Less,Roy Woods,187066,"canadian contemporary r&b, canadian hip hop",93.023,-13.388,0.259,0.694,3,0.00018,0.295,sad
+125,Top Left,Roy Woods,178246,"canadian contemporary r&b, canadian hip hop",130.372,-11.019,0.447,0.657,8,0.0103,0.189,sad
+126,The Way You Sex,Roy Woods,235527,"canadian contemporary r&b, canadian hip hop",125.36,-9.806,0.384,0.92,1,0.000195,0.179,sad
+127,My Love (feat. Drake),Majid Jordan,248432,"canadian contemporary r&b, canadian hip hop",119.088,-9.575,0.536,0.624,2,0.000428,0.131,sad
+128,Get You Good,Roy Woods,226632,"canadian contemporary r&b, canadian hip hop",86.185,-7.077,0.502,0.69,0,0.0,0.329,sad
+129,Her,Majid Jordan,300728,"canadian contemporary r&b, canadian hip hop",90.029,-6.6,0.5,0.675,1,0.00268,0.0709,sad
+130,Best Part (feat. H.E.R.),Daniel Caesar,209831,canadian contemporary r&b,75.24,-10.209,0.364,0.524,7,0.0,0.436,sad
+131,Get You (feat. Kali Uchis),Daniel Caesar,278179,canadian contemporary r&b,74.038,-8.533,0.294,0.658,4,5.2e-05,0.358,sad
+132,Don't Tell Me You Love Me,Big Sean,236320,"detroit hip hop, hip hop, pop rap, r&b, rap, trap",91.444,-5.12,0.878,0.398,9,0.0,0.236,sad
+133,Live For,The Weeknd,222666,"canadian contemporary r&b, canadian pop, pop",75.983,-7.64,0.68,0.624,0,0.0,0.227,sad
+134,Complicated Love (feat. Drake),BeeLo Loco,154174,,174.115,-17.191,0.338,0.527,1,3.95e-05,0.289,sad
+135,Poetic Justice,Kendrick Lamar,300160,"conscious hip hop, hip hop, rap, west coast rap",135.956,-9.985,0.572,0.779,6,0.0,0.647,sad
+136,Transparency,PARTYNEXTDOOR,230599,"r&b, rap, urban contemporary",126.838,-11.628,0.245,0.582,10,5.58e-06,0.0575,sad
+137,1942,PARTYNEXTDOOR,341934,"r&b, rap, urban contemporary",116.621,-9.657,0.532,0.758,1,0.00104,0.0912,sad
+138,High Hopes,PARTYNEXTDOOR,442077,"r&b, rap, urban contemporary",174.702,-7.683,0.448,0.613,1,0.00864,0.197,sad
+139,Same Mistakes,Champagne Pa,257724,,137.077,-13.537,0.391,0.467,1,0.00029,0.178,sad
+140,I Get Lonely Too,Champagne Pa,253596,,81.579,-12.316,0.456,0.424,11,2.5e-05,0.593,sad
+141,Cece's Interlude,Drake,154120,"canadian hip hop, canadian pop, hip hop, pop rap, rap",94.984,-6.875,0.603,0.473,9,6.25e-06,0.234,sad
+142,Arms Around You (feat. Maluma & Swae Lee),XXXTENTACION,198902,"emo rap, miami hip hop",104.969,-5.45,0.723,0.703,9,2.06e-06,0.288,sad
+143,I Don't Wanna Do This Anymore,XXXTENTACION,87560,"emo rap, miami hip hop",114.208,-7.681,0.778,0.433,4,0.0,0.764,sad
+144,Carry On,XXXTENTACION,129720,"emo rap, miami hip hop",147.899,-13.378,0.197,0.735,3,0.000276,0.383,sad
+145,"ALONE, PART 3",XXXTENTACION,109986,"emo rap, miami hip hop",127.08,-12.758,0.258,0.61,0,0.0145,0.164,sad
+146,before I close my eyes,XXXTENTACION,99658,"emo rap, miami hip hop",75.522,-15.148,0.143,0.356,9,1.89e-05,0.334,sad
+147,Dark Times,The Weeknd,260640,"canadian contemporary r&b, canadian pop, pop",132.986,-9.593,0.421,0.585,7,9.54e-06,0.24,sad
+148,Hopeless Romantic (feat. Swae Lee),Wiz Khalifa,226742,"hip hop, pittsburgh rap, pop rap, rap, southern hip hop, trap",127.023,-7.379,0.477,0.877,9,0.0,0.552,sad
+149,&burn (with Vince Staples),Billie Eilish,179015,"art pop, pop",82.531,-9.351,0.379,0.776,9,0.00175,0.346,sad
+150,Lowkey (feat. Roy Woods & 24hrs),PnB Rock,200275,"melodic rap, rap, trap",145.015,-6.313,0.666,0.75,8,0.0,0.531,sad
+151,Feelins,PnB Rock,221000,"melodic rap, rap, trap",150.076,-4.046,0.782,0.63,6,0.0,0.657,sad
+152,Selfish,PnB Rock,245604,"melodic rap, rap, trap",101.981,-5.84,0.6,0.638,1,0.0,0.0399,sad
+153,Too Deep,dvsn,200223,"canadian contemporary r&b, r&b",183.948,-13.975,0.243,0.616,9,0.149,0.56,sad
+154,"You, World, or Myself (feat. Roy Woods)",Stwo,205600,"trap soul, vapor twitch",150.028,-7.767,0.411,0.858,2,0.000274,0.248,sad
+155,Jealousy,Roy Woods,224546,"canadian contemporary r&b, canadian hip hop",124.082,-10.606,0.38,0.579,5,1.94e-05,0.046,sad
+156,Snow White,Roy Woods,261834,"canadian contemporary r&b, canadian hip hop",88.038,-7.955,0.559,0.782,0,2.11e-06,0.199,sad
+157,Angel,The Weeknd,377346,"canadian contemporary r&b, canadian pop, pop",127.966,-7.574,0.583,0.626,10,0.0,0.335,sad
+158,Chanel,Frank Ocean,210285,"lgbtq+ hip hop, neo soul",110.134,-5.732,0.503,0.776,0,0.0,0.473,sad
+159,Self Control,Frank Ocean,249667,"lgbtq+ hip hop, neo soul",80.099,-10.426,0.21,0.581,8,0.0,0.452,sad
+160,Go Go Go,Roy Woods,245626,"canadian contemporary r&b, canadian hip hop",77.958,-11.274,0.365,0.637,0,1.06e-05,0.0459,sad
+161,Got Me,Roy Woods,218084,"canadian contemporary r&b, canadian hip hop",101.997,-4.937,0.685,0.692,10,1.28e-05,0.502,sad
+162,Connect,Drake,296413,"canadian hip hop, canadian pop, hip hop, pop rap, rap",75.039,-9.473,0.488,0.683,6,0.0,0.469,sad
+163,From Time,Drake,322160,"canadian hip hop, canadian pop, hip hop, pop rap, rap",94.378,-9.726,0.491,0.738,1,0.0,0.448,sad
+164,whoa (mind in awe),XXXTENTACION,157776,"emo rap, miami hip hop",160.147,-2.939,0.525,0.735,6,0.918,0.369,sad
+165,what are you so afraid of,XXXTENTACION,150769,"emo rap, miami hip hop",103.369,-9.902,0.312,0.639,0,0.469,0.347,sad
+166,Honesty,Pink Sweat$,191000,bedroom soul,79.826,-11.421,0.204,0.616,6,0.0,0.419,sad
+167,Play with Me,Rendezvous At Two,252445,bedroom soul,106.614,-12.369,0.438,0.716,6,0.0,0.262,sad
+168,difference (interlude),XXXTENTACION,76973,"emo rap, miami hip hop",102.456,-15.268,0.0668,0.593,11,1.31e-05,0.19,sad
+169,Guardian angel,XXXTENTACION,108034,"emo rap, miami hip hop",133.952,-10.215,0.374,0.712,0,0.0,0.779,sad
+170,What You Need,The Weeknd,196360,"canadian contemporary r&b, canadian pop, pop",133.895,-8.637,0.405,0.657,0,0.072,0.0673,sad
+171,I Fall Apart,Post Malone,223346,"dfw rap, melodic rap, pop, rap",143.95,-5.408,0.538,0.556,8,0.0,0.291,sad
+172,Christmas At Swae’s,Swae Lee,226031,"melodic rap, rap, trap",99.811,-6.558,0.336,0.556,4,0.0,0.233,sad
+173,Stay,Post Malone,204426,"dfw rap, melodic rap, pop, rap",86.046,-5.418,0.48,0.507,5,0.0,0.35,sad
+174,Would You,Pink Sweat$,153124,bedroom soul,105.14,-11.137,0.19,0.71,4,0.0,0.495,sad
+175,Cocaine,Pink Sweat$,131500,bedroom soul,118.499,-12.343,0.228,0.455,5,0.0,0.142,sad
+176,BB,Roy Woods,236382,"canadian contemporary r&b, canadian hip hop",105.973,-9.09,0.354,0.687,0,0.0325,0.111,sad
+177,Feeling in Color,NO1-NOAH,250000,trap soul,135.408,-11.915,0.314,0.641,1,1.5e-05,0.364,sad
+178,i miss the old u,blackbear,211127,pop,132.995,-5.257,0.805,0.718,7,0.0,0.36,sad
+179,Frustrated,R.LUM.R,201463,,122.329,-6.186,0.57,0.441,2,0.0,0.229,sad
+180,Left Unsaid,NO1-NOAH,356013,trap soul,119.528,-10.423,0.286,0.425,2,2.52e-05,0.139,sad
+181,Break on Monday,Ryan Trey,264000,trap soul,100.884,-9.099,0.331,0.425,6,3.64e-05,0.104,sad
+182,Little Bit (feat. Lykke Li),Drake,230484,"canadian hip hop, canadian pop, hip hop, pop rap, rap",120.392,-4.899,0.888,0.758,11,0.0336,0.771,sad
+183,A Night Off (feat. Lloyd),Drake,193962,"canadian hip hop, canadian pop, hip hop, pop rap, rap",103.612,-5.573,0.508,0.611,11,3.87e-06,0.368,sad
+184,Bria's Interlude (feat. Omarion),Drake,139574,"canadian hip hop, canadian pop, hip hop, pop rap, rap",147.037,-6.205,0.507,0.49,2,0.00104,0.237,sad
+185,Lust For Life,Drake,176179,"canadian hip hop, canadian pop, hip hop, pop rap, rap",87.364,-10.381,0.422,0.462,6,0.0327,0.0853,sad
+186,Sooner Than Later,Drake,262046,"canadian hip hop, canadian pop, hip hop, pop rap, rap",94.554,-5.722,0.501,0.616,5,1.2e-05,0.506,sad
+187,Lie,NF,209213,"hip hop, pop rap",94.791,-6.419,0.661,0.513,5,0.0,0.179,sad
+188,All Over You,Majid Jordan,215327,"canadian contemporary r&b, canadian hip hop",106.957,-6.964,0.5,0.797,0,0.0,0.492,sad
+189,My Imagination (feat. dvsn),Majid Jordan,225775,"canadian contemporary r&b, canadian hip hop",129.001,-10.836,0.545,0.695,0,0.128,0.0387,sad
+190,Robbery,Juice WRLD,240527,"chicago rap, melodic rap, rap",79.99,-5.179,0.691,0.708,2,0.0,0.535,sad
+191,Talk 2 U,Brent Faiyaz,159485,"r&b, rap",88.018,-10.443,0.634,0.688,5,0.000263,0.561,sad
+192,Little Bit of You,Kevin Garrett,273946,"nyc pop, pittsburgh indie",89.925,-10.632,0.328,0.655,6,0.0884,0.261,sad
+193,This Way - From SUPERFLY - Original Soundtrack,Khalid,211204,"pop, pop r&b",124.609,-10.533,0.282,0.62,5,0.0,0.193,sad
+194,See My Face,WRKINSILENCE,166416,dark r&b,149.99,-8.292,0.606,0.587,4,5.38e-06,0.0918,sad
+195,Let You Down,NF,212120,"hip hop, pop rap",147.997,-5.68,0.714,0.662,5,0.0,0.464,sad
+196,To the Women,NO1-NOAH,339533,trap soul,97.242,-14.189,0.181,0.573,10,7.23e-05,0.222,sad
+197,Solo,Dylan Joshua,217105,,127.186,-10.235,0.402,0.622,3,0.0311,0.0372,sad
+198,Since Way Back,Drake,368035,"canadian hip hop, canadian pop, hip hop, pop rap, rap",153.294,-11.121,0.266,0.468,0,9.55e-06,0.222,sad
+199,Final Fantasy,Drake,219960,"canadian hip hop, canadian pop, hip hop, pop rap, rap",144.206,-10.977,0.449,0.5,0,7.96e-06,0.104,sad
+200,Right Hand,Drake,190595,"canadian hip hop, canadian pop, hip hop, pop rap, rap",100.518,-7.657,0.301,0.916,2,0.0,0.351,sad
+201,Blame,Bryson Tiller,127028,"kentucky hip hop, r&b, rap",114.975,-8.558,0.38,0.729,11,5.01e-05,0.323,sad
+202,Gold Roses (feat. Drake),Rick Ross,345160,"dirty south rap, gangster rap, hip hop, rap, southern hip hop, trap",80.142,-5.318,0.642,0.581,1,0.0,0.536,sad
+203,when the party's over,Billie Eilish,196077,"art pop, pop",82.642,-14.084,0.111,0.367,4,3.97e-05,0.198,sad
+204,lovely (with Khalid),Billie Eilish,200185,"art pop, pop",115.284,-10.109,0.296,0.351,4,0.0,0.12,sad
+205,Trust Issues,Drake,281518,"canadian hip hop, canadian pop, hip hop, pop rap, rap",89.177,-5.456,0.539,0.421,11,0.0,0.523,sad
+206,How Bout Now,Drake,235566,"canadian hip hop, canadian pop, hip hop, pop rap, rap",122.062,-8.364,0.404,0.789,1,0.0,0.472,sad
+207,The Motion,Drake,240956,"canadian hip hop, canadian pop, hip hop, pop rap, rap",157.769,-7.142,0.788,0.631,4,0.000317,0.544,sad
+208,Heat Of The Moment,Drake,343455,"canadian hip hop, canadian pop, hip hop, pop rap, rap",78.036,-8.344,0.454,0.641,5,0.000116,0.302,sad
+209,Girls Love Beyoncé (feat. James Fauntleroy),Drake,225011,"canadian hip hop, canadian pop, hip hop, pop rap, rap",126.046,-11.25,0.489,0.619,11,0.0,0.328,sad
+210,I Get Lonely,Drake,253561,"canadian hip hop, canadian pop, hip hop, pop rap, rap",81.376,-9.178,0.501,0.477,11,5.61e-06,0.689,sad
+211,My Side,Drake,294650,"canadian hip hop, canadian pop, hip hop, pop rap, rap",81.012,-5.661,0.495,0.549,6,7.26e-06,0.385,sad
+212,Blinding Lights,The Weeknd,201573,"canadian contemporary r&b, canadian pop, pop",171.017,-4.075,0.796,0.513,1,0.000209,0.345,sad
+213,Heartless,The Weeknd,200080,"canadian contemporary r&b, canadian pop, pop",169.954,-5.831,0.75,0.531,10,7.6e-05,0.198,sad
+214,Vete,Bad Bunny,192024,"reggaeton, trap latino, urbano latino",91.976,-4.394,0.672,0.886,1,8.78e-06,0.526,sad
+215,Who Needs Love,Trippie Redd,158532,"melodic rap, rap, trap",108.963,-7.664,0.516,0.85,0,0.0,0.874,sad
+216,Wanna Be a Kid Again,NO1-NOAH,148453,trap soul,76.04,-12.927,0.191,0.598,8,2.13e-05,0.288,sad
+217,Losin Control,Russ,237506,"hawaiian hip hop, pop rap",96.992,-6.545,0.245,0.759,6,0.000154,0.209,sad
+218,Get You The Moon (feat. Snøw),Kina,179080,"sad lo-fi, slowed and reverb",118.917,-16.541,0.235,0.498,1,0.0,0.0895,sad
+219,Falling,Trevor Daniel,159381,melodic rap,127.085,-8.756,0.431,0.785,10,0.0,0.236,sad
