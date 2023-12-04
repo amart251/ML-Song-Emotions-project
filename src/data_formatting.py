@@ -12,7 +12,7 @@ emotion_playlists_https = [
     ["hype","https://open.spotify.com/playlist/1ey6i22I34wPgMuOQf97J0?si=cd58b6a1ded54a55"],     #hype
     ["calm","https://open.spotify.com/playlist/37i9dQZF1DX4TnpT6vw5rE?si=05b981350aea4841"]      #calm
 ]
-test_playlist_https = ["test","https://open.spotify.com/playlist/3xZlWIpwy8wiIGe7kRDy8s?si=50ef75bcef81498b"]
+test_playlist_https = ["test","https://open.spotify.com/playlist/3xZlWIpwy8wiIGe7kRDy8s?si=2383f1625ca54485"]
 
 def playlists_to_csv(playlist):
     token = spotify_integration.get_token()
@@ -28,8 +28,8 @@ def playlists_to_csv(playlist):
 
 # Use this portion if training data is not included
 
-for playlist in emotion_playlists_https:
-    playlists_to_csv(playlist)
+# for playlist in emotion_playlists_https:
+  #  playlists_to_csv(playlist)
 
 playlists_to_csv(test_playlist_https)
 
