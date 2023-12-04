@@ -1,20 +1,101 @@
-,track_name,artist,duration_ms,genres,tempo,loudness,energy,danceability,key,instrumentalness,valence,emotion
-0,Alright,Kendrick Lamar,219333,"conscious hip hop, hip hop, rap, west coast rap",110.034,-5.974,0.766,0.796,7,0.0,0.558,test
-1,Congratulations,Post Malone,220293,"dfw rap, melodic rap, pop, rap",123.146,-4.183,0.804,0.63,6,0.0,0.492,test
-2,Wagon Wheel,Darius Rucker,298373,"black americana, contemporary country, country, country road, modern country rock",148.096,-7.174,0.66,0.537,9,0.0,0.574,test
-3,Scar Tissue,Red Hot Chili Peppers,215906,"alternative rock, funk metal, funk rock, permanent wave, rock",88.969,-4.803,0.717,0.595,0,0.00274,0.547,test
-4,Amen,Logic,146771,"conscious hip hop, hip hop, pop rap, rap",170.339,-5.748,0.789,0.604,2,0.0,0.651,test
-5,fuck money stay pretty,Black Kray,186826,"cloud rap, plugg, pluggnb",105.5,-13.599,0.669,0.191,8,0.753,0.421,test
-6,Los Chismes,Chalino Sanchez,179211,"banda, corrido, corridos clasicos, musica mexicana, norteno, sierreno",121.18,-8.036,0.737,0.779,8,0.000279,0.943,test
-7,A RING,TOWA TEI,188133,"japanese jazztronica, shibuya-kei",151.936,-7.719,0.806,0.766,7,0.243,0.943,test
-8,The Missing Boy,The Durutti Column,395160,uk post-punk,162.429,-10.501,0.815,0.556,11,0.848,0.811,test
-9,Saigo-no Tejina,Hiroshi Sato,225226,classic city pop,144.907,-9.572,0.558,0.62,5,0.00447,0.731,test
-10,M-16,Sodom,289133,"black thrash, death metal, deathrash, german metal, german thrash metal, metal, old school thrash, speed metal, thrash metal",140.902,-6.429,0.947,0.307,2,0.931,0.276,test
-11,Polish Girl,Neon Indian,264000,"chillwave, denton tx indie, hypnagogic pop, indietronica, neo-synthpop",111.984,-4.255,0.873,0.622,9,1.25e-05,0.434,test
-12,The Cuddler,Dance Gavin Dance,153400,"pixie, sacramento indie, screamo, swancore",140.981,-2.479,0.977,0.487,4,0.0,0.548,test
-13,Homecoming,Kanye West,203493,"chicago rap, hip hop, rap",86.917,-7.059,0.747,0.667,1,0.0,0.918,test
-14,Religiously,Bailey Zimmerman,178723,"contemporary country, modern country pop",140.924,-6.519,0.67,0.57,1,0.0,0.593,test
-15,What A Wonderful World,Louis Armstrong,139226,"adult standards, dixieland, harlem renaissance, jazz trumpet, new orleans jazz, soul, swing, vocal jazz",77.082,-20.652,0.165,0.271,5,1.6e-06,0.203,test
-16,Missing Sibling,Black Marble,103184,"chillwave, experimental pop, grave wave, nu gaze",142.055,-13.408,0.389,0.373,2,0.908,0.271,test
-17,Blizzard Beasts,Immortal,169786,"black metal, metal, norwegian black metal, norwegian metal, pagan black metal, thrash metal",174.109,-7.904,0.972,0.13,1,0.9,0.0716,test
-18,OH! TENGO SUERTE,Masayoshi Takanaka,252666,classic japanese jazz,93.555,-9.487,0.744,0.519,2,0.0526,0.408,test
+,track_name,artist,duration_ms,genres,tempo,loudness,energy,danceability,key,instrumentalness,valence
+0,Alright,Kendrick Lamar,219333,"conscious hip hop, hip hop, rap, west coast rap",110.034,-5.974,0.766,0.796,7,0.0,0.558
+1,Congratulations,Post Malone,220293,"dfw rap, melodic rap, pop, rap",123.146,-4.183,0.804,0.63,6,0.0,0.492
+2,Wagon Wheel,Darius Rucker,298373,"black americana, contemporary country, country, country road, modern country rock",148.096,-7.174,0.66,0.537,9,0.0,0.574
+3,Scar Tissue,Red Hot Chili Peppers,215906,"alternative rock, funk metal, funk rock, permanent wave, rock",88.969,-4.803,0.717,0.595,0,0.00274,0.547
+4,Amen,Logic,146771,"conscious hip hop, hip hop, pop rap, rap",170.339,-5.748,0.789,0.604,2,0.0,0.651
+5,fuck money stay pretty,Black Kray,186826,"cloud rap, plugg, pluggnb",105.5,-13.599,0.669,0.191,8,0.753,0.421
+6,Los Chismes,Chalino Sanchez,179211,"banda, corrido, corridos clasicos, musica mexicana, norteno, sierreno",121.18,-8.036,0.737,0.779,8,0.000279,0.943
+7,A RING,TOWA TEI,188133,"japanese jazztronica, shibuya-kei",151.936,-7.719,0.806,0.766,7,0.243,0.943
+8,The Missing Boy,The Durutti Column,395160,uk post-punk,162.429,-10.501,0.815,0.556,11,0.848,0.811
+9,Saigo-no Tejina,Hiroshi Sato,225226,classic city pop,144.907,-9.572,0.558,0.62,5,0.00447,0.731
+10,M-16,Sodom,289133,"black thrash, death metal, deathrash, german metal, german thrash metal, metal, old school thrash, speed metal, thrash metal",140.902,-6.429,0.947,0.307,2,0.931,0.276
+11,Polish Girl,Neon Indian,264000,"chillwave, denton tx indie, hypnagogic pop, indietronica, neo-synthpop",111.984,-4.255,0.873,0.622,9,1.25e-05,0.434
+12,The Cuddler,Dance Gavin Dance,153400,"pixie, sacramento indie, screamo, swancore",140.981,-2.479,0.977,0.487,4,0.0,0.548
+13,Homecoming,Kanye West,203493,"chicago rap, hip hop, rap",86.917,-7.059,0.747,0.667,1,0.0,0.918
+14,Religiously,Bailey Zimmerman,178723,"contemporary country, modern country pop",140.924,-6.519,0.67,0.57,1,0.0,0.593
+15,What A Wonderful World,Louis Armstrong,139226,"adult standards, dixieland, harlem renaissance, jazz trumpet, new orleans jazz, soul, swing, vocal jazz",77.082,-20.652,0.165,0.271,5,1.6e-06,0.203
+16,Missing Sibling,Black Marble,103184,"chillwave, experimental pop, grave wave, nu gaze",142.055,-13.408,0.389,0.373,2,0.908,0.271
+17,Blizzard Beasts,Immortal,169786,"black metal, metal, norwegian black metal, norwegian metal, pagan black metal, thrash metal",174.109,-7.904,0.972,0.13,1,0.9,0.0716
+18,OH! TENGO SUERTE,Masayoshi Takanaka,252666,classic japanese jazz,93.555,-9.487,0.744,0.519,2,0.0526,0.408
+19,As the Night Falls...,Këkht Aräkh,57990,ukrainian black metal,136.653,-26.004,0.0587,0.703,3,0.913,0.173
+20,Elegy for the Memory of Me,Këkht Aräkh,214274,ukrainian black metal,141.901,-8.116,0.831,0.208,8,0.839,0.0392
+21,Den Venstre Hånd På Den Høyre,Këkht Aräkh,146129,ukrainian black metal,137.899,-6.936,0.953,0.319,8,0.767,0.0372
+22,Night,Këkht Aräkh,290745,ukrainian black metal,112.134,-32.448,0.0311,0.171,4,0.0401,0.0635
+23,Her Body Strewn With Petals Black,Këkht Aräkh,249475,ukrainian black metal,140.053,-8.75,0.783,0.406,4,0.863,0.0358
+24,Primal Beauty of Silence,Këkht Aräkh,134192,ukrainian black metal,141.814,-7.282,0.839,0.363,4,0.604,0.178
+25,As the Wounds Gently Bleed,Këkht Aräkh,229903,ukrainian black metal,141.719,-8.08,0.879,0.372,0,0.882,0.0397
+26,Love,Këkht Aräkh,313365,ukrainian black metal,143.853,-34.634,0.0408,0.241,9,0.92,0.112
+27,Down to the Depths of Inner Cold,Këkht Aräkh,170475,ukrainian black metal,136.009,-7.251,0.891,0.414,9,0.686,0.26
+28,Mysteriet Med Svartfiolett,Këkht Aräkh,84139,ukrainian black metal,105.109,-25.167,0.047,0.488,4,0.927,0.325
+29,Through Night Which Knows No Dawn,Këkht Aräkh,250173,ukrainian black metal,141.893,-8.248,0.814,0.211,0,0.879,0.0455
+30,Forever Night Castle of Love,Këkht Aräkh,223384,ukrainian black metal,115.058,-19.052,0.137,0.62,3,0.885,0.0718
+31,...And Never Ends (Eternal Love),Këkht Aräkh,126692,ukrainian black metal,81.516,-31.756,0.0554,0.15,2,0.989,0.0396
+32,Flooded The Face,Lil Uzi Vert,192727,"hip hop, melodic rap, philly rap, rage rap, rap",131.889,-7.714,0.609,0.64,1,2.47e-06,0.393
+33,Suicide Doors,Lil Uzi Vert,259079,"hip hop, melodic rap, philly rap, rage rap, rap",75.388,-2.565,0.783,0.538,11,0.0,0.553
+34,Aye (feat. Travis Scott),Lil Uzi Vert,207835,"hip hop, melodic rap, philly rap, rage rap, rap",111.998,-4.452,0.604,0.777,9,5.64e-05,0.121
+35,Crush Em,Lil Uzi Vert,165589,"hip hop, melodic rap, philly rap, rage rap, rap",145.011,-5.564,0.797,0.613,7,0.0,0.336
+36,Amped,Lil Uzi Vert,173061,"hip hop, melodic rap, philly rap, rage rap, rap",147.169,-5.078,0.699,0.534,7,8.21e-06,0.0555
+37,x2,Lil Uzi Vert,234324,"hip hop, melodic rap, philly rap, rage rap, rap",148.054,-4.639,0.891,0.64,10,0.0,0.449
+38,Died and Came Back,Lil Uzi Vert,180636,"hip hop, melodic rap, philly rap, rage rap, rap",132.098,-5.079,0.669,0.674,1,0.0,0.431
+39,Spin Again,Lil Uzi Vert,97769,"hip hop, melodic rap, philly rap, rage rap, rap",140.023,-4.252,0.606,0.619,1,0.0,0.0669
+40,That Fiya,Lil Uzi Vert,154832,"hip hop, melodic rap, philly rap, rage rap, rap",138.124,-4.012,0.712,0.565,3,0.0,0.22
+41,I Gotta,Lil Uzi Vert,173025,"hip hop, melodic rap, philly rap, rage rap, rap",129.057,-7.05,0.51,0.818,2,0.0,0.416
+42,Endless Fashion (feat. Nicki Minaj),Lil Uzi Vert,216703,"hip hop, melodic rap, philly rap, rage rap, rap",132.946,-5.01,0.605,0.731,1,7.7e-06,0.413
+43,"Mama, I’m Sorry",Lil Uzi Vert,210961,"hip hop, melodic rap, philly rap, rage rap, rap",128.177,-4.943,0.594,0.783,4,0.0,0.596
+44,All Alone,Lil Uzi Vert,222618,"hip hop, melodic rap, philly rap, rage rap, rap",138.104,-6.087,0.693,0.752,6,0.0,0.473
+45,Nakamura,Lil Uzi Vert,197900,"hip hop, melodic rap, philly rap, rage rap, rap",160.008,-3.707,0.876,0.52,5,0.0,0.38
+46,Just Wanna Rock,Lil Uzi Vert,123890,"hip hop, melodic rap, philly rap, rage rap, rap",150.185,-7.924,0.545,0.485,11,0.00547,0.0385
+47,Fire Alarm (feat. Snow Strippers),Lil Uzi Vert,185167,"hip hop, melodic rap, philly rap, rage rap, rap",130.996,-3.953,0.772,0.603,8,0.000141,0.0632
+48,CS,Lil Uzi Vert,212040,"hip hop, melodic rap, philly rap, rage rap, rap",127.907,-5.914,0.758,0.418,3,0.00107,0.202
+49,Werewolf (feat. Bring Me The Horizon),Lil Uzi Vert,239863,"hip hop, melodic rap, philly rap, rage rap, rap",183.049,-4.772,0.962,0.389,2,0.623,0.155
+50,Pluto to Mars,Lil Uzi Vert,246497,"hip hop, melodic rap, philly rap, rage rap, rap",122.963,-6.829,0.627,0.807,11,0.0,0.761
+51,Patience (feat. Don Toliver),Lil Uzi Vert,262429,"hip hop, melodic rap, philly rap, rage rap, rap",143.905,-3.146,0.64,0.706,4,0.0,0.184
+52,Days Come and Go,Lil Uzi Vert,257673,"hip hop, melodic rap, philly rap, rage rap, rap",76.209,-3.905,0.735,0.529,9,0.0,0.617
+53,Rehab,Lil Uzi Vert,245070,"hip hop, melodic rap, philly rap, rage rap, rap",141.963,-5.695,0.598,0.63,8,1.95e-06,0.488
+54,The End (feat. BABYMETAL),Lil Uzi Vert,187244,"hip hop, melodic rap, philly rap, rage rap, rap",109.973,-4.547,0.954,0.522,1,0.676,0.239
+55,Zoom (Bonus Track),Lil Uzi Vert,166012,"hip hop, melodic rap, philly rap, rage rap, rap",79.483,-5.868,0.547,0.818,5,1.3e-06,0.432
+56,Of Course (Bonus Track),Lil Uzi Vert,208966,"hip hop, melodic rap, philly rap, rage rap, rap",147.003,-4.049,0.829,0.686,8,0.0,0.562
+57,Shardai (Bonus Track),Lil Uzi Vert,201344,"hip hop, melodic rap, philly rap, rage rap, rap",148.935,-5.465,0.673,0.679,1,0.0,0.086
+58,Le isole dell'amore,Piero Umiliani,149536,vintage italian soundtrack,119.404,-11.12,0.324,0.267,3,0.851,0.463
+59,Tamourè - Titoli,Piero Umiliani,136465,vintage italian soundtrack,136.973,-11.594,0.652,0.554,5,0.00688,0.802
+60,Palme e cocci,Piero Umiliani,104945,vintage italian soundtrack,114.031,-15.179,0.346,0.649,7,0.447,0.824
+61,Il tamourè dei bambini,Piero Umiliani,77949,vintage italian soundtrack,176.989,-17.05,0.34,0.651,3,0.943,0.971
+62,Papete aru,Piero Umiliani,63599,vintage italian soundtrack,68.418,-28.872,0.0311,0.383,3,0.738,0.633
+63,Vele al vento - Titoli,Piero Umiliani,108135,vintage italian soundtrack,68.661,-11.73,0.471,0.358,3,0.0362,0.844
+64,Isola sperduta - Titoli,Piero Umiliani,161100,vintage italian soundtrack,97.444,-18.956,0.155,0.545,7,0.616,0.341
+65,Jumb tamourè,Piero Umiliani,100345,vintage italian soundtrack,179.482,-11.288,0.748,0.556,7,0.000125,0.845
+66,Nuku - Titoli,Piero Umiliani,124785,vintage italian soundtrack,117.428,-15.041,0.245,0.402,3,0.67,0.386
+67,Isola tuttofare,Piero Umiliani,101471,vintage italian soundtrack,119.454,-17.506,0.405,0.617,8,0.0401,0.883
+68,La capanna nel bosco,Piero Umiliani,117439,vintage italian soundtrack,88.521,-21.903,0.0775,0.439,9,0.673,0.467
+69,Tamoure finale - Titoli,Piero Umiliani,70479,vintage italian soundtrack,135.756,-13.553,0.775,0.555,5,0.749,0.971
+70,Arrivo a Papete - Titoli,Piero Umiliani,78052,vintage italian soundtrack,105.826,-15.002,0.609,0.274,7,0.91,0.866
+71,Lotta di galli,Piero Umiliani,90023,vintage italian soundtrack,158.693,-16.511,0.441,0.317,2,0.823,0.911
+72,Comunità hippy - Titoli,Piero Umiliani,141652,vintage italian soundtrack,116.1,-18.848,0.351,0.48,7,0.768,0.803
+73,La danza del turista - Titoli,Piero Umiliani,58096,vintage italian soundtrack,87.244,-12.391,0.763,0.622,0,0.765,0.978
+74,Le isole dell'amore - Finale,Piero Umiliani,195385,vintage italian soundtrack,60.655,-13.4,0.336,0.205,3,0.853,0.473
+75,Corale isole - Tema,Piero Umiliani,69032,vintage italian soundtrack,66.555,-27.232,0.000258,0.225,3,0.79,0.865
+76,SPACE BOY,dave rodgers,296466,super eurobeat,155.08,-5.547,0.966,0.465,5,0.000125,0.628
+77,NO ONE SLEEP IN TOKYO,EDO BOYS,302033,"eurobeat, super eurobeat",154.994,-3.639,0.956,0.499,9,2.57e-06,0.636
+78,BE MY BABE,Jilly,285400,super eurobeat,154.024,-4.111,0.902,0.536,1,0.000882,0.625
+79,REMEMBERME,Leslie Parrish,282933,"eurobeat, super eurobeat",153.739,-4.093,0.988,0.54,5,0.0114,0.722
+80,SPARK IN THE DARK,MAN POWER,279300,super eurobeat,155.089,-4.148,0.953,0.518,9,0.131,0.736
+81,DON'T STOP THE MUSIC,Lou Grant,288100,super eurobeat,159.929,-4.352,0.954,0.609,1,8.29e-06,0.757
+82,DANCE AROUND THE WORLD,Delta Queens,297833,super eurobeat,154.679,-5.556,0.966,0.497,1,0.000508,0.476
+83,GET ME POWER,MEGA NRG MAN,284666,"eurobeat, super eurobeat",155.061,-5.014,0.974,0.506,4,2.92e-06,0.87
+84,RUNNING IN THE 90'S,Max Coveri,283833,"eurobeat, super eurobeat",158.517,-5.484,0.931,0.541,1,0.0127,0.86
+85,HEARTBEAT,Nathalie,301366,super eurobeat,155.016,-5.109,0.948,0.503,0,0.00151,0.695
+86,BREAK THE NIGHT,Tommy K,290666,super eurobeat,156.007,-3.365,0.955,0.487,10,0.000343,0.736
+87,BACK ON THE ROCKS,MEGA NRG MAN,288000,"eurobeat, super eurobeat",156.047,-3.316,0.995,0.477,0,0.00477,0.587
+88,SAVE ME,Leslie Parrish,272800,"eurobeat, super eurobeat",155.747,-3.941,0.96,0.455,7,0.00198,0.604
+89,MY ONLY STAR,Susan Bell,284933,super eurobeat,155.034,-5.131,0.884,0.492,4,2.1e-06,0.676
+90,around the world - Dave Rodgers Remix,m.o.v.e,274666,"classic j-pop, eurobeat, super eurobeat",138.071,-4.099,0.938,0.624,0,0.0,0.656
+91,Start,Frank Ocean,45640,"lgbtq+ hip hop, neo soul",82.85,-19.761,0.33,0.347,7,0.931,0.0316
+92,Thinkin Bout You,Frank Ocean,200746,"lgbtq+ hip hop, neo soul",129.83,-11.195,0.339,0.721,0,0.00153,0.2
+93,Fertilizer,Frank Ocean,39640,"lgbtq+ hip hop, neo soul",115.864,-7.129,0.57,0.706,11,0.0698,0.96
+94,Sierra Leone,Frank Ocean,148760,"lgbtq+ hip hop, neo soul",125.017,-7.809,0.608,0.529,7,0.0185,0.616
+95,Sweet Life,Frank Ocean,262680,"lgbtq+ hip hop, neo soul",83.465,-6.074,0.558,0.479,11,0.0,0.8
+96,Not Just Money,Frank Ocean,59760,"lgbtq+ hip hop, neo soul",152.13,-15.868,0.827,0.357,11,0.0213,0.103
+97,Super Rich Kids,Frank Ocean,304760,"lgbtq+ hip hop, neo soul",60.493,-8.241,0.419,0.739,3,0.0,0.58
+98,Pilot Jones,Frank Ocean,184080,"lgbtq+ hip hop, neo soul",118.988,-13.473,0.433,0.394,8,7.81e-05,0.394
+99,Crack Rock,Frank Ocean,224146,"lgbtq+ hip hop, neo soul",89.262,-8.017,0.736,0.429,5,0.0,0.379
