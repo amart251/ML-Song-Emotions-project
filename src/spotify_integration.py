@@ -2,13 +2,13 @@ import base64
 import csv
 import json
 import os
-import spotipy
 import re
-import pandas as pd
 
+import pandas as pd
+import spotipy
 from dotenv import load_dotenv
-from spotipy import SpotifyClientCredentials
 from requests import get, post
+from spotipy import SpotifyClientCredentials
 
 load_dotenv()
 
@@ -53,8 +53,19 @@ def get_playlist_tracks(token, playlist_id):
         "Authorization": "Bearer " + token
     }
     url = f"https://api.spotify.com/v1/playlists/{playlist_id}/tracks"
-    response = get(url, headers=headers)
-    return response.json()
+    tracks = []
+    offset = 0
+    while True:
+        response = get(url, headers=headers, params={'offset': offset})
+        json_response = response.json()
+        tracks.extend(json_response['items'])
+        
+        if 'next' in json_response and json_response['next']:
+            offset += len(json_response['items'])
+        else:
+            break
+    return tracks
+
 
 def get_track_features(token, track_id):
     headers = {
@@ -118,7 +129,7 @@ def get_track_info(item, token):
 
 def format_track_data_for_csv(token, tracks):
     formatted_data = pd.DataFrame(columns=["track_name", "artist","duration_ms","genres","tempo", "loudness","energy","danceability","key", "instrumentalness","valence"])
-    for i,item in enumerate(tracks['items']):
+    for i,item in enumerate(tracks):
         formatted_data.loc[i] = get_track_info(item, token)
         
     return formatted_data
