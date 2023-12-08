@@ -123,12 +123,13 @@ def get_track_info(item, token):
         track_features['danceability'],
         track_features['key'],
         track_features['instrumentalness'],
-        track_features['valence']   
+        track_features['valence']
+        #track_features['acousticnesss']  
     ]
     return track_info
 
 def format_track_data_for_csv(token, tracks):
-    formatted_data = pd.DataFrame(columns=["track_name", "artist","duration_ms","genres","tempo", "loudness","energy","danceability","key", "instrumentalness","valence"])
+    formatted_data = pd.DataFrame(columns=["track_name", "artist","duration_ms","genres","tempo", "loudness","energy","danceability","key", "instrumentalness","valence","acousticnesss"])
     for i,item in enumerate(tracks):
         formatted_data.loc[i] = get_track_info(item, token)
         
