@@ -14,7 +14,7 @@ emotion_playlists_https = [
 ]
 test_playlist_https = ["test","https://open.spotify.com/playlist/3xZlWIpwy8wiIGe7kRDy8s?si=2383f1625ca54485"]
 
-def playlists_to_csv(playlist):
+def playlists_to_csv(playlist, str):
     token = spotify_integration.get_token()
     pl_uri = spotify_integration.get_uri(playlist[1])
     tracks = spotify_integration.get_playlist_tracks(token, pl_uri)
@@ -23,15 +23,15 @@ def playlists_to_csv(playlist):
     csv_df_filename = playlist[0] + "Data.csv"
 
     print(csv_df_filename)
-    formatted_dataframe.to_csv(csv_df_filename)
+    formatted_dataframe.to_csv("lab data/"+ str+"/"+csv_df_filename)
 
 
 # Use this portion if training data is not included
 
-# for playlist in emotion_playlists_https:
-  #  playlists_to_csv(playlist)
+for playlist in emotion_playlists_https:
+   playlists_to_csv(playlist, "training")
 
-playlists_to_csv(test_playlist_https)
+playlists_to_csv(test_playlist_https,"test")
 
 
 
