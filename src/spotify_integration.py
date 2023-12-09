@@ -1,5 +1,4 @@
 import base64
-import csv
 import json
 import os
 import re
@@ -16,15 +15,13 @@ client_id = os.getenv("Client_ID")
 client_secret = os.getenv("Client_secret")
 
 
-
 # authenticate
 client_credentials_manager = SpotifyClientCredentials(client_id, client_secret)
 
 # create spotify session object
-# I DON'T KNOW WHAT THIS DOES!!!!!!!!!
 session = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
-
+#Strips the uri from the spotify https address
 def get_uri(playlist):
     if match := re.match(r"https://open.spotify.com/playlist/(.*)\?", playlist):
             playlist_uri = match.groups()[0]
@@ -32,6 +29,7 @@ def get_uri(playlist):
         raise ValueError("Expected format: https://open.spotify.com/playlist/...")
     return playlist_uri
 
+#creates a token to access the specific spotify client and retrieve data
 def get_token():
     auth_string = client_id + ":" + client_secret
     auth_bytes = auth_string.encode("UTF-8")
@@ -47,6 +45,7 @@ def get_token():
     json_result = json.loads(result.content)
     token = json_result["access_token"]
     return token
+
 
 def get_playlist_tracks(token, playlist_id):
     headers = {
@@ -83,6 +82,9 @@ def get_artist_genres(token, artist_id):
     response = get(url, headers=headers)
     return response.json()["genres"]
 
+'''
+This Function was used only to see if we were able to access the API and load the data we want.
+#
 #def print_track_info(token, tracks):
 #    for item in tracks['items']:
 #        track = item['track']
@@ -103,9 +105,9 @@ def get_artist_genres(token, artist_id):
 #        print(f"key: {track_features['key']}")
 #        print(f"instrumentalness: {track_features['instrumentalness']}")
 #        print("\n------------------------")
+'''
 
-
-#print_track_info(token, tracks)
+#Retrieves features of song from Spotify API and returns data as list that is then added to dataframe
 def get_track_info(item, token):
     track = item['track']
     track_features = get_track_features(token, track['id'])
@@ -128,37 +130,10 @@ def get_track_info(item, token):
     ]
     return track_info
 
+#returns a dataframe containing all specified data in get_track_info() to caller function
 def format_track_data_for_csv(token, tracks):
     formatted_data = pd.DataFrame(columns=["track_name", "artist","duration_ms","genres","tempo", "loudness","energy","danceability","key", "instrumentalness","valence","acousticnesss"])
     for i,item in enumerate(tracks):
         formatted_data.loc[i] = get_track_info(item, token)
         
     return formatted_data
-
-
-# Fetch and print track information
-#token = get_token()
-#tracks = get_playlist_tracks(token, "3xZlWIpwy8wiIGe7kRDy8s")
-#print_track_info(token, tracks)
-
-# Format track data and write it to the CSV file
-#formatted_data = format_track_data_for_csv(token, tracks)
-#formatted_data.sort(key=lambda x: x['track_name'].lower()) 
-"""
-def write_to_csv(formatted_data, filename):
-    fieldnames = [
-        "track_name", "artist", "duration_ms", "genres",
-        "tempo", "loudness", "energy", "danceability", "key", "instrumentalness", "valence"
-    ]
-
-    with open(filename, 'w', newline='', encoding='utf-8') as csvfile:
-        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-        if csvfile.tell() == 0:
-            writer.writeheader()
-        for track_info in formatted_data:
-            writer.writerow(track_info)
-
-"""
-    # Sort by track_name alphabetically, not case sensitive
-
-#write_to_csv(formatted_data)

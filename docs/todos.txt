@@ -10,5 +10,5 @@ DONE - Model Creation: Create the neural network, making sure it takes csvs as i
 DONE - Model Training: Train the neural network model on the four emotions training sets from the csvs
 DONE - Model Evaluation: Evaluate the model on the test set to determine its performance.
 WIP - Documentation: Document what everyone has done/how they have contributed. Create comments at each function
-WIP - Lab Report: Report the experiment
+DONE - Lab Report: Report the experiment
 WIP - Video creation: Record an 8 minute video presenting our findings and overall experiment
