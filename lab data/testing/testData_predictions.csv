@@ -6,11 +6,11 @@ Unnamed: 0,track_name,artist,emotion
 4,Amen,Logic,happy
 5,fuck money stay pretty,Black Kray,happy
 6,Los Chismes,Chalino Sanchez,happy
-7,A RING,TOWA TEI,hype
+7,A RING,TOWA TEI,happy
 8,The Missing Boy,The Durutti Column,hype
 9,Saigo-no Tejina,Hiroshi Sato,happy
 10,M-16,Sodom,hype
-11,Polish Girl,Neon Indian,happy
+11,Polish Girl,Neon Indian,hype
 12,The Cuddler,Dance Gavin Dance,hype
 13,Homecoming,Kanye West,happy
 14,Religiously,Bailey Zimmerman,sad
@@ -24,9 +24,9 @@ Unnamed: 0,track_name,artist,emotion
 22,Night,Këkht Aräkh,calm
 23,Her Body Strewn With Petals Black,Këkht Aräkh,hype
 24,Primal Beauty of Silence,Këkht Aräkh,hype
-25,As the Wounds Gently Bleed,Këkht Aräkh,hype
+25,As the Wounds Gently Bleed,Këkht Aräkh,calm
 26,Love,Këkht Aräkh,calm
-27,Down to the Depths of Inner Cold,Këkht Aräkh,hype
+27,Down to the Depths of Inner Cold,Këkht Aräkh,happy
 28,Mysteriet Med Svartfiolett,Këkht Aräkh,calm
 29,Through Night Which Knows No Dawn,Këkht Aräkh,calm
 30,Forever Night Castle of Love,Këkht Aräkh,calm
@@ -34,22 +34,22 @@ Unnamed: 0,track_name,artist,emotion
 32,Flooded The Face,Lil Uzi Vert,sad
 33,Suicide Doors,Lil Uzi Vert,sad
 34,Aye (feat. Travis Scott),Lil Uzi Vert,sad
-35,Crush Em,Lil Uzi Vert,hype
+35,Crush Em,Lil Uzi Vert,happy
 36,Amped,Lil Uzi Vert,sad
-37,x2,Lil Uzi Vert,happy
+37,x2,Lil Uzi Vert,hype
 38,Died and Came Back,Lil Uzi Vert,hype
 39,Spin Again,Lil Uzi Vert,sad
-40,That Fiya,Lil Uzi Vert,hype
-41,I Gotta,Lil Uzi Vert,sad
-42,Endless Fashion (feat. Nicki Minaj),Lil Uzi Vert,sad
+40,That Fiya,Lil Uzi Vert,sad
+41,I Gotta,Lil Uzi Vert,hype
+42,Endless Fashion (feat. Nicki Minaj),Lil Uzi Vert,hype
 43,"Mama, I’m Sorry",Lil Uzi Vert,happy
 44,All Alone,Lil Uzi Vert,hype
 45,Nakamura,Lil Uzi Vert,hype
-46,Just Wanna Rock,Lil Uzi Vert,hype
+46,Just Wanna Rock,Lil Uzi Vert,sad
 47,Fire Alarm (feat. Snow Strippers),Lil Uzi Vert,hype
 48,CS,Lil Uzi Vert,hype
 49,Werewolf (feat. Bring Me The Horizon),Lil Uzi Vert,hype
-50,Pluto to Mars,Lil Uzi Vert,happy
+50,Pluto to Mars,Lil Uzi Vert,hype
 51,Patience (feat. Don Toliver),Lil Uzi Vert,hype
 52,Days Come and Go,Lil Uzi Vert,happy
 53,Rehab,Lil Uzi Vert,sad
@@ -60,9 +60,9 @@ Unnamed: 0,track_name,artist,emotion
 58,Le isole dell'amore,Piero Umiliani,calm
 59,Tamourè - Titoli,Piero Umiliani,happy
 60,Palme e cocci,Piero Umiliani,happy
-61,Il tamourè dei bambini,Piero Umiliani,happy
+61,Il tamourè dei bambini,Piero Umiliani,calm
 62,Papete aru,Piero Umiliani,calm
-63,Vele al vento - Titoli,Piero Umiliani,happy
+63,Vele al vento - Titoli,Piero Umiliani,hype
 64,Isola sperduta - Titoli,Piero Umiliani,sad
 65,Jumb tamourè,Piero Umiliani,happy
 66,Nuku - Titoli,Piero Umiliani,calm
@@ -82,23 +82,23 @@ Unnamed: 0,track_name,artist,emotion
 80,SPARK IN THE DARK,MAN POWER,hype
 81,DON'T STOP THE MUSIC,Lou Grant,hype
 82,DANCE AROUND THE WORLD,Delta Queens,hype
-83,GET ME POWER,MEGA NRG MAN,hype
+83,GET ME POWER,MEGA NRG MAN,happy
 84,RUNNING IN THE 90'S,Max Coveri,hype
 85,HEARTBEAT,Nathalie,hype
 86,BREAK THE NIGHT,Tommy K,hype
 87,BACK ON THE ROCKS,MEGA NRG MAN,hype
 88,SAVE ME,Leslie Parrish,hype
-89,MY ONLY STAR,Susan Bell,hype
-90,around the world - Dave Rodgers Remix,m.o.v.e,happy
+89,MY ONLY STAR,Susan Bell,happy
+90,around the world - Dave Rodgers Remix,m.o.v.e,hype
 91,Start,Frank Ocean,calm
 92,Thinkin Bout You,Frank Ocean,sad
-93,Fertilizer,Frank Ocean,happy
+93,Fertilizer,Frank Ocean,hype
 94,Sierra Leone,Frank Ocean,happy
 95,Sweet Life,Frank Ocean,happy
-96,Not Just Money,Frank Ocean,hype
+96,Not Just Money,Frank Ocean,happy
 97,Super Rich Kids,Frank Ocean,sad
 98,Pilot Jones,Frank Ocean,sad
-99,Crack Rock,Frank Ocean,happy
+99,Crack Rock,Frank Ocean,hype
 100,Pyramids,Frank Ocean,sad
 101,Lost,Frank Ocean,hype
 102,White,Frank Ocean,calm
@@ -109,7 +109,7 @@ Unnamed: 0,track_name,artist,emotion
 107,End,Frank Ocean,calm
 108,Rockstar Made,Playboi Carti,hype
 109,Go2DaMoon (feat. Kanye West),Playboi Carti,happy
-110,Stop Breathing,Playboi Carti,hype
+110,Stop Breathing,Playboi Carti,sad
 111,Beno!,Playboi Carti,hype
 112,JumpOutTheHouse,Playboi Carti,hype
 113,M3tamorphosis (feat. Kid Cudi),Playboi Carti,sad
@@ -125,35 +125,35 @@ Unnamed: 0,track_name,artist,emotion
 123,On That Time,Playboi Carti,sad
 124,King Vamp,Playboi Carti,hype
 125,Place,Playboi Carti,hype
-126,Sky,Playboi Carti,happy
+126,Sky,Playboi Carti,hype
 127,Over,Playboi Carti,hype
 128,ILoveUIHateU,Playboi Carti,hype
 129,Die4Guy,Playboi Carti,hype
 130,Not PLaying,Playboi Carti,hype
 131,F33l Lik3 Dyin,Playboi Carti,hype
-132,Dirty Boots,Sonic Youth,sad
+132,Dirty Boots,Sonic Youth,happy
 133,Tunic (Song For Karen),Sonic Youth,happy
 134,Mary-Christ,Sonic Youth,hype
 135,Kool Thing,Sonic Youth,happy
 136,Mote,Sonic Youth,happy
-137,My Friend Goo,Sonic Youth,hype
+137,My Friend Goo,Sonic Youth,happy
 138,Disappearer,Sonic Youth,happy
 139,Mildred Pierce,Sonic Youth,happy
 140,Cinderella's Big Score,Sonic Youth,happy
 141,Scooter And Jinx,Sonic Youth,calm
 142,Titanium Expose,Sonic Youth,hype
 143,Captives,The KVB,hype
-144,Waiting for the Fall,The KVB,hype
+144,Waiting for the Fall,The KVB,happy
 145,Hands,The KVB,hype
 146,Leaning,The KVB,hype
-147,Here it Comes,The KVB,hype
+147,Here it Comes,The KVB,happy
 148,Until I'm cold,The KVB,hype
 149,Always Then,The KVB,calm
 150,Boots,The KVB,hype
 151,Dreams,The KVB,hype
 152,The Truth,The KVB,happy
 153,Don't Eat The Yellow Snow,Frank Zappa,happy
-154,Nanook Rubs It,Frank Zappa,happy
+154,Nanook Rubs It,Frank Zappa,sad
 155,St. Alfonzo's Pancake Breakfast,Frank Zappa,happy
 156,Father O'Blivion,Frank Zappa,hype
 157,Cosmik Debris,Frank Zappa,happy
@@ -166,10 +166,10 @@ Unnamed: 0,track_name,artist,emotion
 164,Anarchy In The U.K.,Megadeth,hype
 165,Mary Jane,Megadeth,happy
 166,502,Megadeth,hype
-167,In My Darkest Hour,Megadeth,hype
+167,In My Darkest Hour,Megadeth,happy
 168,Liar,Megadeth,hype
 169,Hook In Mouth,Megadeth,hype
-170,THOUSAND KNIVES - 2016 リマスター,Ryuichi Sakamoto,sad
+170,THOUSAND KNIVES - 2016 リマスター,Ryuichi Sakamoto,happy
 171,ISLAND OF WOODS - 2016 リマスター,Ryuichi Sakamoto,happy
 172,GRASSHOPPERS - 2016 リマスター,Ryuichi Sakamoto,calm
 173,DAS NEUE JAPANISCHE ELEKTRONISCHE VOLKSLIED - 2016 リマスター,Ryuichi Sakamoto,happy
@@ -180,7 +180,7 @@ Unnamed: 0,track_name,artist,emotion
 178,Pulsewidth,Aphex Twin,calm
 179,Ageispolis,Aphex Twin,calm
 180,I,Aphex Twin,calm
-181,Green Calx,Aphex Twin,hype
+181,Green Calx,Aphex Twin,happy
 182,Heliosphan,Aphex Twin,calm
 183,We Are the Music Makers,Aphex Twin,hype
 184,Schottkey 7th Path,Aphex Twin,calm
@@ -195,7 +195,7 @@ Unnamed: 0,track_name,artist,emotion
 193,STAR WARS SAMBA,Masayoshi Takanaka,happy
 194,DISCO “B”,Masayoshi Takanaka,happy
 195,FUNKY HOLO HOLO BIRD,Masayoshi Takanaka,happy
-196,伊豆甘夏納豆売り,Masayoshi Takanaka,calm
+196,伊豆甘夏納豆売り,Masayoshi Takanaka,sad
 197,Heart : Attack,Neon Indian,sad
 198,The Blindside Kiss,Neon Indian,hype
 199,Hex Girlfriend,Neon Indian,hype
@@ -223,7 +223,7 @@ Unnamed: 0,track_name,artist,emotion
 221,Anastasio Pacheco,Chalino Sanchez,happy
 222,Broken Whiskey Glass,Post Malone,sad
 223,Big Lie,Post Malone,sad
-224,Deja Vu,Post Malone,sad
+224,Deja Vu,Post Malone,happy
 225,No Option,Post Malone,happy
 226,Cold,Post Malone,sad
 227,White Iverson,Post Malone,sad
@@ -235,19 +235,19 @@ Unnamed: 0,track_name,artist,emotion
 233,Up There,Post Malone,sad
 234,"Yours Truly, Austin Post",Post Malone,sad
 235,Leave,Post Malone,happy
-236,Hit This Hard,Post Malone,happy
-237,Money Made Me Do It,Post Malone,hype
+236,Hit This Hard,Post Malone,sad
+237,Money Made Me Do It,Post Malone,sad
 238,Feeling Whitney,Post Malone,happy
 239,Dark Fantasy,Kanye West,sad
 240,Gorgeous,Kanye West,sad
 241,POWER,Kanye West,hype
-242,All Of The Lights (Interlude),Kanye West,calm
+242,All Of The Lights (Interlude),Kanye West,happy
 243,All Of The Lights,Kanye West,hype
 244,Monster,Kanye West,sad
 245,So Appalled,Kanye West,hype
-246,Devil In A New Dress,Kanye West,sad
+246,Devil In A New Dress,Kanye West,hype
 247,Runaway,Kanye West,sad
 248,Hell Of A Life,Kanye West,hype
 249,Blame Game,Kanye West,happy
 250,Lost In The World,Kanye West,sad
-251,Who Will Survive In America,Kanye West,hype
+251,Who Will Survive In America,Kanye West,happy

@@ -1,41 +1,44 @@
+from pathlib import Path
+
 import pandas as pd
+
 import spotify_integration
 
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+TRAINING_DIR = PROJECT_ROOT / "lab data" / "training"
+TESTING_DIR = PROJECT_ROOT / "lab data" / "testing"
 
-# Load data collected from Spotify
-'''
-This File should only be used if you want to use a different playlist and/or the 'lab data' is empty
-'''
-
-#https addresses for each of the playlists being used as datasets
-emotion_playlists_https = [
-    ["happy","https://open.spotify.com/playlist/7INcD4lmarWTQiDVodjVt4?si=cd599224ee7a45f9"],       #happy
-    ["sad","https://open.spotify.com/playlist/27D7RiyuJnhmOIj2SUkTO8?si=118e5ec499b74709"],         #sad
-    ["hype","https://open.spotify.com/playlist/1ey6i22I34wPgMuOQf97J0?si=cd58b6a1ded54a55"],        #hype
-    ["calm","https://open.spotify.com/playlist/37i9dQZF1DX4TnpT6vw5rE?si=05b981350aea4841"]         #calm
+EMOTION_PLAYLISTS = [
+    ["happy", "https://open.spotify.com/playlist/7INcD4lmarWTQiDVodjVt4?si=cd599224ee7a45f9"],
+    ["sad", "https://open.spotify.com/playlist/27D7RiyuJnhmOIj2SUkTO8?si=118e5ec499b74709"],
+    ["hype", "https://open.spotify.com/playlist/1ey6i22I34wPgMuOQf97J0?si=cd58b6a1ded54a55"],
+    ["calm", "https://open.spotify.com/playlist/37i9dQZF1DX4TnpT6vw5rE?si=05b981350aea4841"],
 ]
-test_playlist_https = ["test","https://open.spotify.com/playlist/3xZlWIpwy8wiIGe7kRDy8s?si=2383f1625ca54485"]
+TEST_PLAYLIST = ["test", "https://open.spotify.com/playlist/3xZlWIpwy8wiIGe7kRDy8s?si=2383f1625ca54485"]
 
-#Function used to create training and test datasets (should only be used once or twice)
-def playlists_to_DF(playlist):
+
+def playlists_to_df(playlist):
     token = spotify_integration.get_token()
-    pl_uri = spotify_integration.get_uri(playlist[1])
-    tracks = spotify_integration.get_playlist_tracks(token, pl_uri)
+    playlist_uri = spotify_integration.get_uri(playlist[1])
+    tracks = spotify_integration.get_playlist_tracks(token, playlist_uri)
     formatted_dataframe = spotify_integration.format_track_data_for_csv(token, tracks)
-    csv_df_filename = playlist[0] + "Data.csv"
-    print(csv_df_filename)
-
+    csv_df_filename = f"{playlist[0]}Data.csv"
     return formatted_dataframe, csv_df_filename
 
 
-# Use this portion if training data is not included
-formatted_dataframe, csv_df_filename = pd.DataFrame(), ""
+def main():
+    TRAINING_DIR.mkdir(parents=True, exist_ok=True)
+    TESTING_DIR.mkdir(parents=True, exist_ok=True)
 
-for playlist in emotion_playlists_https:
-    formatted_dataframe, csv_df_filename = playlists_to_DF(playlist)
-    formatted_dataframe['emotion'] = playlist[0]
-    formatted_dataframe.to_csv("lab data/training/"+csv_df_filename)
+    for playlist in EMOTION_PLAYLISTS:
+        formatted_dataframe, csv_df_filename = playlists_to_df(playlist)
+        formatted_dataframe["emotion"] = playlist[0]
+        formatted_dataframe.to_csv(TRAINING_DIR / csv_df_filename, index=False)
 
-formatted_dataframe, csv_df_filename = playlists_to_DF(test_playlist_https)
-formatted_dataframe['emotion'] = ""
-formatted_dataframe.to_csv("lab data/test/"+csv_df_filename)
+    formatted_dataframe, csv_df_filename = playlists_to_df(TEST_PLAYLIST)
+    formatted_dataframe["emotion"] = ""
+    formatted_dataframe.to_csv(TESTING_DIR / csv_df_filename, index=False)
+
+
+if __name__ == "__main__":
+    main()
